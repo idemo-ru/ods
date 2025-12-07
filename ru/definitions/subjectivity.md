@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Субъективность
 description: 
 published: true
-date: 2025-12-07T16:56:27.615Z
+date: 2025-12-07T16:56:51.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T16:56:27.615Z
