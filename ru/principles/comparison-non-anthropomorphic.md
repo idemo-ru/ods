@@ -1,8 +1,8 @@
 ---
-title: Отношение ODS к философским онтологиям (антропоморфизм и человекоцентризм)
+title: Принцип 1
 description: 
 published: true
-date: 2025-12-07T14:28:24.595Z
+date: 2025-12-07T14:29:07.297Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T14:20:54.112Z
