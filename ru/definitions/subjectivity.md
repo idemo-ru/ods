@@ -2,7 +2,7 @@
 title: Субъективность
 description: 
 published: true
-date: 2025-12-07T17:00:11.042Z
+date: 2025-12-07T17:02:52.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T16:56:27.615Z
