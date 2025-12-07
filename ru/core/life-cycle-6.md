@@ -1,8 +1,8 @@
 ---
-title: 01.LifeCycle-6
+title: 1.1.LifeCycle-6
 description: 
 published: true
-date: 2025-12-07T07:29:12.056Z
+date: 2025-12-07T07:39:56.858Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
