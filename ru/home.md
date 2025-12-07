@@ -2,7 +2,7 @@
 title: Ontology of Dynamic Systems
 description: 
 published: true
-date: 2025-12-07T07:02:06.514Z
+date: 2025-12-07T07:02:37.049Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T06:48:44.823Z
