@@ -1,14 +1,14 @@
 ---
-title: Manifest
+title: LifeCycle-6
 description: 
 published: true
-date: 2025-12-07T07:15:57.735Z
+date: 2025-12-07T07:17:25.556Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
 ---
 
-# OSP LifeCycle-6  
+# ODS LifeCycle-6  
 **Универсальная онтология полного цикла существования любой системы**  
 Каноническая закрытая версия ∙ декабрь 2025
 
