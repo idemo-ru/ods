@@ -1,8 +1,8 @@
 ---
-title: 0.1.Постулат об исключении антропоморфности
+title: 2.1. Постулат об исключении антропоморфности
 description: 
 published: true
-date: 2025-12-07T17:43:38.024Z
+date: 2025-12-07T17:44:08.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T13:42:20.829Z
