@@ -2,13 +2,13 @@
 title: 1.1.__id__. СПЕЦИФИКАЦИЯ: __title__
 description: 
 published: true
-date: 2025-12-08T01:04:53.444Z
+date: 2025-12-08T01:27:13.088Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
 ---
 
-# 1.1.__id__. СПЕЦИФИКАЦИЯ: __title__
+## Основное
 **__description__**
 **__version__ ∙ __month__ 2025**
 
