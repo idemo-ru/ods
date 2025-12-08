@@ -2,14 +2,14 @@
 title: 1.1.__id__. Спецификация ~ __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T13:17:08.576Z
+date: 2025-12-08T13:18:17.062Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
 ---
 
 ## 1. Основное
-*Статус: __Draft__ __Candidate__ __Stable__ __Canonical__ | Версия: __version__ ∙ __month__ 2025**
+*Статус: __Draft__ __Candidate__ __Stable__ __Canonical__ | Версия: __version__ ∙ __месяц__ 2025**
 
 *Документ описывает __одно_короткое_предложение__суть_постулата__*
 
