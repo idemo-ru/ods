@@ -2,15 +2,14 @@
 title: 1.1.3. Спецификация ~ DegradeScore
 description: __description__
 published: true
-date: 2025-12-08T12:34:09.853Z
+date: 2025-12-08T12:35:40.796Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
 ---
 
 ## 1. Основное
-*Статус: Draft* 
-*Версия: doc.v.0.1 ∙ декабрь 2025*
+*Статус: Draft* | *Версия: doc.v.0.1 ∙ декабрь 2025*
 
 ## 2. Связанные документы
 - [1.2.1. Постулат: Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism.md)
