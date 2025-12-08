@@ -2,7 +2,7 @@
 title: 1.2.__id__. Постулат  ~  __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T14:18:53.783Z
+date: 2025-12-08T14:21:37.901Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T02:01:54.286Z
@@ -17,7 +17,7 @@ dateCreated: 2025-12-08T02:01:54.286Z
 {.is-info}
 
 
-## 1.2.__id__.2. Связанные документы {#1.2.__id__.2}
+## 1.2.__id__.2. Связанные документы {#1-2-__id__-2}
 ### 1.2.__id__.2.1. Исходящие *(ссылается этот документ)*
 - [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md)
 - [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md#__anchor__)
@@ -25,22 +25,22 @@ dateCreated: 2025-12-08T02:01:54.286Z
 - [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md)
 - [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md#__anchor__)
 
-## 1.2.__id__.3. Термины и определения {#definitions}
+## 1.2.__id__.3. Термины и определения {#1-2-__id__-3}
 __content__  
 
-## 1.2.__id__.4. Область применения {#scope}
+## 1.2.__id__.4. Область применения {#1-2-__id__-4}
 __content__  
 
-## 1.2.__id__.5. Формулировка постулата
+## 1.2.__id__.5. Формулировка постулата {#1-2-__id__-5}
 **Постулат:** __content__
 
 ## 1.2.__id__.__n__. __Простой_заголовок__
 __content__
 
-## 1.2.__id__.__n__. __Заголовок_с_якорем__ {#__anchor__}
+## 1.2.__id__.__n__. __Заголовок_с_якорем__ {#1-2-__id__-__n__}
 __content__
 
-## 1.2.__id__.__n__. Заключение
+## 1.2.__id__.__n__. Заключение {#1-2-__id__-__n__}
 __content__
 
 **Файл:** /ru/1-core/2-postulates/__slug__
