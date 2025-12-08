@@ -2,7 +2,7 @@
 title: 1.1.__id__. Спецификация ~ __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T15:09:30.657Z
+date: 2025-12-08T15:11:55.121Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
@@ -10,22 +10,19 @@ dateCreated: 2025-12-08T00:42:25.441Z
 
 ## 1.1.__id__.1. Основное {#1-2-__id__-1}
 Статус: | `Draft` | Candidate | Stable | Canonical |
-//прошедшие статусы: ~~StatusName~~
-//текуший статус:  `StatusName`
-//следующие статусы:  StatusName
 
 *Версия: __doc_v_status_index_minor__ ∙ __месяц__ 2025*
 
 > Документ описывает __одно_короткое_предложение__суть_спецификации__
 {.is-info}
 
-## 1.1.__id__.2. Связанные документы {#1-2-__id__-2}
-### 1.1.__id__.2.1. Исходящие *(ссылается этот документ)*
-- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md)
-- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md#__anchor__)
-### 1.1.__id__.2.2. Входящие *(ссылаются на этот документ)*
-- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md)
-- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md#__anchor__)
+## 1.2.__id__.2. Связанные документы {#1-2-__id__-2}
+### 1.2.__id__.2.1. Исходящие *(ссылается этот документ)*
+- [__1lvl__.__2lvl__.__id__. __form__~ __title__](__link__.md)
+- [__1lvl__.__2lvl__.__id__. __form__~ __title__](__link__.md#__anchor__)
+### 1.2.__id__.2.2. Входящие *(ссылаются на этот документ)*
+- [__2lvl__.__2lvl__.__id__. __form__~ __title__](__link__.md)
+- [__2lvl__.__2lvl__.__id__. __form__~ __title__](__link__.md#__anchor__)
 
 ## 1.1.__id__.3. Термины и определения {#1-2-__id__-3}
 __content__
