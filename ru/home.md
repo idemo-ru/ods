@@ -2,13 +2,13 @@
 title: Ontology of Dynamic Systems
 description: 
 published: true
-date: 2025-12-07T07:02:37.049Z
+date: 2025-12-08T01:07:20.668Z
 tags: 
 editor: markdown
-dateCreated: 2025-12-07T06:48:44.823Z
+dateCreated: 2025-12-07T10:43:15.899Z
 ---
 
-# Манифест ODS v1.0
+
 Онтология динамических систем  
 Каноническая закрытая версия ∙ 06 декабря 2025
 
