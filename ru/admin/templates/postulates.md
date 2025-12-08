@@ -2,7 +2,7 @@
 title: 1.2.__id__. Постулат  ~  __title__
 description: __description__
 published: true
-date: 2025-12-08T02:13:37.176Z
+date: 2025-12-08T02:14:50.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T02:01:54.286Z
@@ -37,4 +37,4 @@ __content__
 ## __n__. Заключение
 __content__
 
-**Файл:** [__title__](/1-core/2-postulates/__slug__)
+**Файл:** [__form__: __title__](/1-core/2-postulates/__slug__)
