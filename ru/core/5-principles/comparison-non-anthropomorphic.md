@@ -2,7 +2,7 @@
 title: Классификация и позиционирование ODS
 description: 
 published: true
-date: 2025-12-08T03:19:05.390Z
+date: 2025-12-08T03:19:18.950Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T14:20:54.112Z
@@ -12,6 +12,8 @@ dateCreated: 2025-12-07T14:20:54.112Z
 **0.1 ∙ декабрь 2025**
 
 ## Филосовская позиция в разрезе антропоморфизма и человекоцентризма
+
+[Постулат об исключении антропоморфности](/ru/core/5-principles/comparison-non-anthropomorphic).
 
 **Таблица сравнение**
 
