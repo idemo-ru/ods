@@ -2,7 +2,7 @@
 title: 1.1.3. Спецификация ~ DegradeScore
 description: __description__
 published: true
-date: 2025-12-08T12:27:52.472Z
+date: 2025-12-08T12:28:42.700Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
@@ -53,4 +53,4 @@ $$DS(t) = 1 - \text{RR}(t)$$
 ## 9. Заключение
 DegradeScore — третья фундаментальная онтологическая координата системы наряду с exists и identity.
 
-**Файл:** /ru/1-core/2-specifications/DegradeScore.md
+**Файл:** /ru/1-core/1-specifications/DegradeScore.md
