@@ -2,7 +2,7 @@
 title: 1.2.__id__. Постулат  ~  __title__
 description: __description__
 published: true
-date: 2025-12-08T02:11:56.450Z
+date: 2025-12-08T02:13:37.176Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T02:01:54.286Z
@@ -27,6 +27,12 @@ __content__
 
 ## 5. Формулировка постулата
 **Постулат:** __content__
+
+## __n__. __Простой заголовок__
+__content__
+
+## __n__. __Заголовок с якорем__ {#__anchor__}
+__content__
 
 ## __n__. Заключение
 __content__
