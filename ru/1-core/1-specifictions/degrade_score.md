@@ -1,8 +1,8 @@
 ---
 title: 1.1.3. Спецификация ~ DegradeScore
-description: IDEMO ~ Ontology of Dynamic Systems. Документ описывает yниверсальную метрику деградации **DegradeScore** — единственную фундаментальную скалярную координату, определяющую текущую фазу жизненного цикла любой системы.
+description: IDEMO ~ Ontology of Dynamic Systems. Документ описывает yниверсальную метрику деградации DegradeScore — единственную фундаментальную скалярную координату, определяющую текущую фазу жизненного цикла любой системы.
 published: true
-date: 2025-12-08T12:46:18.197Z
+date: 2025-12-08T12:46:49.636Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
