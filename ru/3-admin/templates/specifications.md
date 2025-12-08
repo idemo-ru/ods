@@ -2,7 +2,7 @@
 title: 1.1.__id__. Спецификация ~ __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T13:25:10.762Z
+date: 2025-12-08T13:26:21.573Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
@@ -15,11 +15,11 @@ dateCreated: 2025-12-08T00:42:25.441Z
 
 ## 2. Связанные документы
 ### 2.1. Исходящие *(ссылается этот документ)*
-- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__)
-- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__#__anchor__)
+- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md)
+- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md#__anchor__)
 ### 2.2. Входящие *(ссылаются на этот документ)*
-- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__)
-- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__#__anchor__)
+- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md)
+- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md#__anchor__)
 
 ## 3. Термины и определения
 __content__
