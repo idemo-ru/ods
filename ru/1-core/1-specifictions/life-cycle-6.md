@@ -1,16 +1,17 @@
 ---
-title: 1.1.1. SPECIFICATION: LifeCycle-6 
+title: 1.1.1. Спецификация ~ LifeCycle-6 
 description: 
 published: true
-date: 2025-12-08T00:04:27.820Z
+date: 2025-12-08T06:45:05.372Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
 ---
 
-# 1.1.1. SPECIFICATIONS: LifeCycle-6  
+## 1. Основное
 **Универсальная онтология полного цикла существования любой системы**  
-Каноническая закрытая версия ∙ декабрь 2025
+**Статус: __Candidate__**
+**0.1 ∙ __month__ 2025**
 
 ## Постулат об исключении антропоморфности
 Все термины (birth, death, develop, climax, turn, end и т.д.) — исключительно междисциплинарные лингвистические адаптеры.  
