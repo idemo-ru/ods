@@ -2,24 +2,24 @@
 title: 1.1.{{id}}. SPECIFICATIONS: {{Название системы}}
 description: 
 published: true
-date: 2025-12-08T00:49:12.034Z
+date: 2025-12-08T00:52:41.754Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
 ---
 
-# 1.1.{{id}}. SPECIFICATIONS: {{title}}
-**{{slogan}}**
-**{{version}} ∙ {{month}} 2025**
+# 1.1.__id__. SPECIFICATIONS: {{title}}
+**__slogan__**
+**__version__ ∙ __month__ 2025**
 
 ## Связанные документы
-- [{{first_level_num}}.{{second_level_num}}.{{id}}. {{prefix}}: {{title}}]({{link}})
-- [{{first_level_num}}.{{second_level_num}}.{{id}}. {{prefix}}: {{title}}]({{link}}#{{anchor}})
+- [__first_level_num__.__second_level_num__.__id__. __prefix__: __title__](__link__)
+- [__first_level_num__.__second_level_num__.__id__. __prefix__: __title__](__link__#__anchor__)
 
-## Содержание
-{{content}}
+## __Содержание__
+__content__
 
 ## Заключение
-{{content}}
+__content__
 
-**Файл:** [{{title}}](/1-core/1-specifictions/{{page}})
+**Файл:** [__title__](/1-core/1-specifictions/__page__)
