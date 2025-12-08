@@ -2,7 +2,7 @@
 title: 1.1.__id__. Спецификация ~ __title__
 description: __description__
 published: true
-date: 2025-12-08T13:04:10.545Z
+date: 2025-12-08T13:05:08.759Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
@@ -11,6 +11,7 @@ dateCreated: 2025-12-08T00:42:25.441Z
 ## 1. Основное
 *Статус: __Draft__ __Candidate__ __Stable__ __Canonical__ | Версия: __version__ ∙ __month__ 2025**
 
+*Документ описывает __text__*
 
 ## 2. Связанные документы
 ### 2.1. Исходящие *(ссылается этот документ)*
