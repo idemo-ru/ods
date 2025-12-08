@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6 
 description: 
 published: true
-date: 2025-12-08T06:50:21.674Z
+date: 2025-12-08T06:50:58.148Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -18,7 +18,7 @@ dateCreated: 2025-12-07T06:58:52.045Z
 
 ## Постулат фазовой полноты
 Любая система, обладающая собственным циклом существования, проходит **ровно шесть** логически неустранимых и функционально несливаемых фаз:  
-**birth → develop → climax → degrade → turn → end(death | transform)**
+**birth → develop → climax → degrade → turn → end(death|transform)**
 
 Исключение, слияние или добавление любой фазы приводит к логическому противоречию и эволюционной нежизнеспособности.
 
