@@ -2,15 +2,14 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6 
 description: ODS ~ LifeCycle-6. Универсальная онтология полного цикла существования любой системы
 published: true
-date: 2025-12-08T12:35:21.904Z
+date: 2025-12-08T12:35:35.697Z
 tags: core, doc.v.0.1
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
 ---
 
 ## 1. Основное
-*Статус: Draft*
-*Версия: doc.v.0.1 ∙ декабрь 2025*
+*Статус: Draft* | *Версия: doc.v.0.1 ∙ декабрь 2025*
 
 ## 2. Связанные документы
 - [2.1. Постулат ~ Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism.md)
