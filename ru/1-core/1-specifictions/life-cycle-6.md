@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6 
 description: ODS ~ LifeCycle-6. Универсальная онтология полного цикла существования любой системы
 published: true
-date: 2025-12-08T11:52:21.176Z
+date: 2025-12-08T12:24:38.771Z
 tags: core, doc.v.0.1
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -15,7 +15,7 @@ dateCreated: 2025-12-07T06:58:52.045Z
 ## 2. Связанные документы
 - [1.2.1. Постулат ~ Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism.md)
 
-## 3. Постулат фазовой полноты {#life_cycle-6-phase}
+## 3. Постулат фазовой полноты {#phase-fullness}
 Любая система, обладающая собственным циклом существования, проходит **ровно шесть** логически неустранимых и функционально несливаемых фаз:  
 **birth → develop → climax → degrade → turn → end(death|transform)**
 
