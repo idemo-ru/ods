@@ -2,15 +2,15 @@
 title: 1.1.3. Спецификация ~ DegradeScore
 description: __description__
 published: true
-date: 2025-12-08T12:18:28.057Z
+date: 2025-12-08T12:18:59.631Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
 ---
 
 ## 1. Основное
-**Статус: Core**  
-**doc.v.1.0 ∙ декабрь 2025**
+**Статус: Draft**  
+**doc.v.0.1 ∙ декабрь 2025**
 
 ## 2. Связанные документы
 - [1.2.1. Постулат: Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism.md)
@@ -55,4 +55,4 @@ $$
 ## 9. Заключение
 DegradeScore — третья фундаментальная онтологическая координата системы наряду с exists и identity.
 
-**Файл:** [Спецификация: DegradeScore](/ru/1-core/2-specifications/DegradeScore.md)
+**Файл:** /ru/1-core/2-specifications/DegradeScore.md
