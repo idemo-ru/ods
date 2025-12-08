@@ -2,7 +2,7 @@
 title: 1.1.__id__. Спецификация ~ __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T13:18:17.062Z
+date: 2025-12-08T13:23:21.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
@@ -27,10 +27,10 @@ __content__
 ## 4. Область применения  
 __content__
 
-## __n__. __Простой заголовок__
+## __n__. __Простой_заголовок__
 __content__
 
-## __n__. __Заголовок с якорем__ {#__anchor__}
+## __n__. __Заголовок_с_якорем__ {#__anchor__}
 __content__
 
 ## __n__. Заключение
