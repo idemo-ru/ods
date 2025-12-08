@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~ Расчёт субъективности и креативности с использованием эталонного агента
 description: 
 published: true
-date: 2025-12-08T06:41:56.419Z
+date: 2025-12-08T06:42:58.225Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:14:22.601Z
@@ -58,4 +58,4 @@ S(B,E) ≈ 0.04 (почти ноль)
 
 Пример готов к использованию как канонический кейс демонстрации работы всей цепочки:  
 
-[1.3.1. Определение ](/ru/1-core/3-definitions/subjectivity) → М[2.2.1. Модель](/ru/2-applied/2-models/subjectivity-measurement) → Допущение 04 → Правило 07.
+[1.3.1. Определение ](/ru/1-core/3-definitions/subjectivity) → [2.2.1. Модель](/ru/2-applied/2-models/subjectivity-measurement) → Допущение 04 → Правило 07.
