@@ -2,13 +2,13 @@
 title: 1.2.__id__. Постулат  ~  __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T14:06:34.789Z
+date: 2025-12-08T14:18:53.783Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T02:01:54.286Z
 ---
 
-## 1.2.__id__.1. Основное
+## 1.2.__id__.1. Основное {#1-2-__id__-1}
 *Статус: | Draft |~~Candidate~~ | ~~Stable~~ | ~~Canonical~~ |* 
 
 *Версия: __doc_v_status_index_minor__ ∙ __месяц__ 2025*
@@ -17,7 +17,7 @@ dateCreated: 2025-12-08T02:01:54.286Z
 {.is-info}
 
 
-## 1.2.__id__.2. Связанные документы
+## 1.2.__id__.2. Связанные документы {#1.2.__id__.2}
 ### 1.2.__id__.2.1. Исходящие *(ссылается этот документ)*
 - [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md)
 - [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__.md#__anchor__)
