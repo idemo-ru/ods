@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T16:41:33.909Z
+date: 2025-12-08T16:43:23.042Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -77,6 +77,12 @@ history:
  ```
 
 ## 1.2.__id__.__n__. Заключение {#1-2-__id__-__n__}
-__content__
+Каждый документ IDEMO ~ ODS — это бессмертная сущность с вечным `id`,  
+проходящая цепочку воплощений Draft → Candidate → Stable → Canonical  
+через те же самые 6 фаз и DegradeScore, что и любая другая система во Вселенной.
 
-**Файл:** /ru/1-core/2-postulates/__slug__
+> Ссылка на этот канон обязательна в каждом документе /1-core/ и /2-applied/
+{.is-success}
+
+
+**Файл:** /ru/1-core/4-examples/1-common/doc-lifecycle
