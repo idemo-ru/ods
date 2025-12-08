@@ -2,7 +2,7 @@
 title: 1.1.3. Спецификация ~ DegradeScore
 description: __description__
 published: true
-date: 2025-12-08T12:03:44.371Z
+date: 2025-12-08T12:04:17.275Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
@@ -13,7 +13,7 @@ dateCreated: 2025-12-08T11:58:25.184Z
 **doc.v.1.0 ∙ декабрь 2025**
 
 ## 2. Связанные документы
-- [1.2.1. Постулат ~ Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism.md)
+- [2.1. Постулат ~ Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism.md)
 - [1.1.1. Постулат ~ О фазовой полноте (6 фаз)](/ru/1-core/2-postulates/life_cycle-6-phase.md)
 
 ## 3. Термины и определения
