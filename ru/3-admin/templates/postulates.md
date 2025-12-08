@@ -2,7 +2,7 @@
 title: 1.2.__id__. Постулат  ~  __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T13:18:37.304Z
+date: 2025-12-08T13:23:06.915Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T02:01:54.286Z
@@ -30,10 +30,10 @@ __content__
 ## 5. Формулировка постулата
 **Постулат:** __content__
 
-## __n__. __Простой заголовок__
+## __n__. __Простой_заголовок__
 __content__
 
-## __n__. __Заголовок с якорем__ {#__anchor__}
+## __n__. __Заголовок_с_якорем__ {#__anchor__}
 __content__
 
 ## __n__. Заключение
