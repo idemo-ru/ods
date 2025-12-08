@@ -1,0 +1,36 @@
+---
+title: 1.2.__id__. Постулат: __title__
+description: 
+published: true
+date: 2025-12-08T02:01:54.286Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-08T02:01:54.286Z
+---
+
+## 1. Основное
+**__title__**  
+**Статус: Draft|Candidate|Stable|Canonical**  
+**__version__ ∙ __month__ 2025**
+
+**Краткое описание:**  
+__description__
+
+## 2. Связанные документы
+- [__first_level_num__.__second_level_num__.__id__. __form__: __title__](__link__)
+- [__first_level_num__.__second_level_num__.__id__. __form__: __title__](__link__#__anchor__)
+*(сюда можно включить примеры, доказательства, схемы и другие детали)*
+
+## 3. Термины и определения {#definitions}
+__content__  
+
+## 4. Область применения {#scope}
+__content__  
+
+## 5. Формулировка постулата
+**Постулат:** __content__
+
+## __n__. Заключение
+__content__
+
+**Файл:** [__title__](/1-core/2-postulates/__slug__)
