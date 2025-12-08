@@ -2,7 +2,7 @@
 title: 1.2.__id__. Постулат  ~  __title__
 description: __description__
 published: true
-date: 2025-12-08T02:14:50.181Z
+date: 2025-12-08T02:17:12.873Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T02:01:54.286Z
