@@ -2,7 +2,7 @@
 title: 1.1.{{id}}. SPECIFICATIONS: {{Название системы}}
 description: 
 published: true
-date: 2025-12-08T00:45:52.809Z
+date: 2025-12-08T00:49:12.034Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
@@ -13,8 +13,8 @@ dateCreated: 2025-12-08T00:42:25.441Z
 **{{version}} ∙ {{month}} 2025**
 
 ## Связанные документы
-- [{{n.n.n.}} {{prefix}}: {{title}}]({{link}})
-- [{{n.n.n.}} {{prefix}}: {{title}}]({{link}}#{{anchor}})
+- [{{first_level_num}}.{{second_level_num}}.{{id}}. {{prefix}}: {{title}}]({{link}})
+- [{{first_level_num}}.{{second_level_num}}.{{id}}. {{prefix}}: {{title}}]({{link}}#{{anchor}})
 
 ## Содержание
 {{content}}
