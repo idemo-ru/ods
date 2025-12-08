@@ -2,7 +2,7 @@
 title: 1.1.3. Спецификация ~ DegradeScore
 description: __description__
 published: true
-date: 2025-12-08T12:04:17.275Z
+date: 2025-12-08T12:05:24.661Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
@@ -54,4 +54,4 @@ DegradeScore(t) = 1 – ResilienceRatio(t),
 ## 9. Заключение
 DegradeScore является третьей фундаментальной онтологической координатой системы наряду с exists и identity и единственной метрикой, определяющей её позицию в шестифазном жизненном цикле.
 
-**Файл:** [Спецификация: DegradeScore](/ru/1-core/2-specifications/DegradeScore.md)
+**Файл:** /ru/1-core/2-specifications/DegradeScore.md
