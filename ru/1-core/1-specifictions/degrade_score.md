@@ -2,7 +2,7 @@
 title: 1.1.3. Спецификация ~ DegradeScore
 description: __description__
 published: true
-date: 2025-12-08T12:39:36.462Z
+date: 2025-12-08T12:39:51.209Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
