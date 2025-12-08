@@ -2,7 +2,7 @@
 title: 1.1.__id__. Спецификация ~ __title__
 description: __description__
 published: true
-date: 2025-12-08T12:02:37.684Z
+date: 2025-12-08T12:05:59.358Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
@@ -31,4 +31,4 @@ __content__
 ## __n__. Заключение
 __content__
 
-**Файл:** [__form__: __title__](/1-core/1-specifictions/__slug__)
+**Файл:** /ru/1-core/1-specifictions/__slug__
