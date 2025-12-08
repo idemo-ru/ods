@@ -2,15 +2,11 @@
 title: 2.2.1. Модель ~ Измерение и вычисление субъективности
 description: 
 published: true
-date: 2025-12-08T06:37:02.639Z
+date: 2025-12-08T06:40:20.057Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:05:45.124Z
 ---
-
-
-
-**Slug:** `/ontology/models/subjectivity-measurement`
 
 ## 1. Формула субъективности
 
