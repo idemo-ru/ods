@@ -1,19 +1,19 @@
 ---
-title: 2.4.1.1. Пример  ~  Жизненный цикл документа
+title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T16:36:01.426Z
+date: 2025-12-08T16:40:20.607Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
 ---
 
-## 1.2.__id__.1. Основное {#1-2-__id__-1}
+## 2.4.1.1.1. Основное {#2-4-1-1-1}
 Статус: | `Draft` | Candidate | Stable | Canonical |
 
-Версия: __doc_v_status_index_minor__ ∙ __месяц__ 202*
+Версия: doc.v.0.1 ∙ декабрь 202*
 
-> Документ описывает __одно_короткое_предложение__суть_постулата__
+> Документ описывает применение IDEMO ~ ODS к документу текушей документации как системе
 {.is-info}
 
 
@@ -25,17 +25,56 @@ dateCreated: 2025-12-08T16:36:01.426Z
 - [__2lvl__.__2lvl__.__id__. __form__~ __title__](__link__.md)
 - [__2lvl__.__2lvl__.__id__. __form__~ __title__](__link__.md#__anchor__)
 
-## 1.2.__id__.3. Термины и определения {#1-2-__id__-3}
-__content__  
-
-## 1.2.__id__.4. Область применения {#1-2-__id__-4}
-__content__  
-
-## 1.2.__id__.5. Формулировка постулата {#1-2-__id__-5}
-**Постулат:** __content__
 
 ## 1.1.__id__.__n__. __Свободные_блоки__ {#1-2-__id__-__n__}
-__content__
+```yaml
+	# IDEMO Eternal Lifecycle Metadata v1.0 — КАНОНИЧЕСКИЙ ПРИМЕР
+id: "0.0.1"
+title: "Пример ~ Вечный жизненный цикл документа IDEMO"
+incarnation: 3
+version: doc.v.3.0
+
+lifecycle:
+  name: Canonical
+  started_at: 2025-12-08
+  phase: climax
+  phase_started_at: 2025-12-08
+  degrade_score: 0.07
+
+changeflow:
+  current_id: "cf-2025-12-08-001"
+  index: 0
+  phase: collect
+  last_evaluated_at: 2025-12-08
+  stats:
+    total:   157
+    success: 142
+    neutral:  13
+    failure:   2
+
+degrade_score_cf: 0.05
+
+history:
+  incarnations:
+    - incarnation: 0
+      name: Draft
+      started_at: 2025-12-08
+      ended_at: 2025-12-08
+      final_ds: 0.94
+      changeflows: 27
+    - incarnation: 1
+      name: Candidate
+      started_at: 2025-12-08
+      ended_at: 2025-12-08
+      final_ds: 0.61
+      changeflows: 79
+    - incarnation: 2
+      name: Stable
+      started_at: 2025-12-08
+      ended_at: 2025-12-08
+      final_ds: 0.19
+      changeflows: 51
+ ```
 
 ## 1.2.__id__.__n__. Заключение {#1-2-__id__-__n__}
 __content__
