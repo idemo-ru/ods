@@ -2,7 +2,7 @@
 title: 1.1.{{id}}. SPECIFICATIONS: {{Название системы}}
 description: 
 published: true
-date: 2025-12-08T00:52:41.754Z
+date: 2025-12-08T00:53:20.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
