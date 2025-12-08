@@ -2,8 +2,8 @@
 title: 2.1. Постулат об исключении антропоморфности
 description: 
 published: true
-date: 2025-12-07T17:44:08.352Z
-tags: 
+date: 2025-12-08T08:45:07.309Z
+tags: status:candidate, v.0.1
 editor: markdown
 dateCreated: 2025-12-07T13:42:20.829Z
 ---
