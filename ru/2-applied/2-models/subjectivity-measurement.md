@@ -1,14 +1,14 @@
 ---
-title: Модель 1.1.1. Измерение и вычисление субъективности
+title: 2.2.1. Модель ~ Измерение и вычисление субъективности
 description: 
 published: true
-date: 2025-12-07T17:34:02.646Z
+date: 2025-12-08T06:37:02.639Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:05:45.124Z
 ---
 
-# Модель 1.1.1. Измерение и вычисление субъективности
+
 
 **Slug:** `/ontology/models/subjectivity-measurement`
 
