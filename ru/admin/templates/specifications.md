@@ -2,7 +2,7 @@
 title: 1.1.__id__. Спецификация ~ __title__
 description: __description__
 published: true
-date: 2025-12-08T02:09:51.582Z
+date: 2025-12-08T02:12:42.346Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
