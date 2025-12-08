@@ -2,7 +2,7 @@
 title: 1.1.3. Спецификация ~ DegradeScore
 description: __description__
 published: true
-date: 2025-12-08T11:58:25.184Z
+date: 2025-12-08T11:58:48.059Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
@@ -10,7 +10,7 @@ dateCreated: 2025-12-08T11:58:25.184Z
 
 ## 1. Основное
 **Статус: __Candidate__**
-**doc.v.1.1 ∙ __month__ 2025**
+**doc.v.1.1 ∙ декабрь 2025**
 
 ## 2. Связанные документы
 - [__first_level_num__.__second_level_num__.__id__. __form__: __title__](__link__)
