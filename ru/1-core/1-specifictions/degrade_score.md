@@ -2,7 +2,7 @@
 title: 1.1.3. Спецификация ~ DegradeScore
 description: __description__
 published: true
-date: 2025-12-08T12:25:14.115Z
+date: 2025-12-08T12:27:04.213Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
@@ -14,7 +14,7 @@ dateCreated: 2025-12-08T11:58:25.184Z
 
 ## 2. Связанные документы
 - [1.2.1. Постулат: Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism.md)
-- [1.2.6. Постулат: О фазовой полноте (6 фаз)](/ru/1-core/2-postulates/life_cycle-6#phase-fullness.md)
+- [1.1.1. Спецификация ~ LifeCycle-6# Постулат фазовой полноты](/ru/1-core/2-postulates/life_cycle-6.md#phase-fullness.md)
 
 ## 3. Термины и определения
 **DegradeScore** (DS) — универсальная безразмерная метрика деградации.  
