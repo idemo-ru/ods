@@ -2,14 +2,13 @@
 title: 1.1.__id__. Спецификация: __title__
 description: __description__
 published: true
-date: 2025-12-08T02:03:12.808Z
+date: 2025-12-08T02:03:24.578Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
 ---
 
 ## 1. Основное
-
 **Статус: Draft|Candidate|Stable|Canonical**
 **__version__ ∙ __month__ 2025**
 
