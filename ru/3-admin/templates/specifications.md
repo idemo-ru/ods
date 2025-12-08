@@ -2,7 +2,7 @@
 title: 1.1.__id__. Спецификация ~ __title__
 description: __description__
 published: true
-date: 2025-12-08T02:14:57.830Z
+date: 2025-12-08T12:02:37.684Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
@@ -13,8 +13,8 @@ dateCreated: 2025-12-08T00:42:25.441Z
 **__version__ ∙ __month__ 2025**
 
 ## 2. Связанные документы
-- [__first_level_num__.__second_level_num__.__id__. __form__: __title__](__link__)
-- [__first_level_num__.__second_level_num__.__id__. __form__: __title__](__link__#__anchor__)
+- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__)
+- [__first_level_num__.__second_level_num__.__id__. __form__~ __title__](__link__#__anchor__)
 
 ## 3. Термины и определения
 __content__
