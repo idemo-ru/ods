@@ -2,14 +2,14 @@
 title: Ontology of Dynamic Systems
 description: 
 published: true
-date: 2025-12-08T01:07:20.668Z
+date: 2025-12-08T01:08:19.671Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T10:43:15.899Z
 ---
 
+## Онтология динамических систем  
 
-Онтология динамических систем  
 Каноническая закрытая версия ∙ 06 декабря 2025
 
 ## 0. Предисловие
