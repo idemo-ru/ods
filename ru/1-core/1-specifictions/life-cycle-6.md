@@ -2,13 +2,13 @@
 title: 1.1.1. SPECIFICATION: LifeCycle-6 
 description: 
 published: true
-date: 2025-12-08T00:03:51.641Z
+date: 2025-12-08T00:04:27.820Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
 ---
 
-# 1.1.1. SPECIFICATION: LifeCycle-6  
+# 1.1.1. SPECIFICATIONS: LifeCycle-6  
 **Универсальная онтология полного цикла существования любой системы**  
 Каноническая закрытая версия ∙ декабрь 2025
 
