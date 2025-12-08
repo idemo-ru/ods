@@ -1,8 +1,8 @@
 ---
-title: 1.1.__id__. СПЕЦИФИКАЦИЯ: __title__
+title: 1.1.__id__. Спецификация: __title__
 description: 
 published: true
-date: 2025-12-08T01:27:13.088Z
+date: 2025-12-08T01:28:53.374Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
