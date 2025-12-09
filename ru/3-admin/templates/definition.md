@@ -2,7 +2,7 @@
 title: 1.3.__id__. Определение  ~  __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-09T17:13:04.144Z
+date: 2025-12-09T17:13:39.154Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T16:52:08.586Z
@@ -21,8 +21,8 @@ dateCreated: 2025-12-09T16:52:08.586Z
 - [__numbers_path__ __form_name__~__title__](__link__.md)
 - [__numbers_path__ __form_name__~__title__](__link__.md#__anchor__)
 ### 1.3.__id__.2.2. Входящие *(ссылаются на этот документ)*
-- [__1lvl__.__2lvl__.__id__. __form__~ __title__](__link__.md)
-- [__1lvl__.__2lvl__.__id__. __form__~ __title__](__link__.md#__anchor__)
+- [__numbers_path__ __form_name__~__title__](__link__.md)
+- [__numbers_path__ __form_name__~__title__](__link__.md#__anchor__)
 
 ## 1.3.__id__.3. Термин и формулировка {#1-3-__id__-3}
 ```
