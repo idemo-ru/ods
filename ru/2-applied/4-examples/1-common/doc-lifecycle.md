@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-09T07:35:12.733Z
+date: 2025-12-09T07:40:22.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -56,7 +56,7 @@ changeflow:
 
 degrade_score_cf: 0.05
 
-history:
+expirience:
   incarnations:
     - incarnation: 0
       name: Draft
