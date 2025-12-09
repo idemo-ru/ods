@@ -2,7 +2,7 @@
 title: 1.3.__id__. Определение  ~  __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-09T18:43:23.035Z
+date: 2025-12-09T18:45:53.748Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T16:52:08.586Z
@@ -13,8 +13,9 @@ dateCreated: 2025-12-09T16:52:08.586Z
 
 *Версия: __doc_v_status_index_minor__ ∙ __месяц__ 2025*
 
-> *Текущий LifeCycle:*. `Draft` → Candidate → Stable → Canonical<br/>
-> *Фаза:*. `Birth` → Develope → Climax → Degrade → Turn → End<br/>
+> *Текущий LifeCycle:*. `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. `Birth` → Develope → Climax → Degrade → Turn → End
+
 > *Текущий ChamgeFlow:*. #13<br/>
 > *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate
 
