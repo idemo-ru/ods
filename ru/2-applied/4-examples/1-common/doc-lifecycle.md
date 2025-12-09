@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-08T16:43:23.042Z
+date: 2025-12-09T07:35:12.733Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -17,20 +17,22 @@ dateCreated: 2025-12-08T16:36:01.426Z
 {.is-info}
 
 
-## 1.2.__id__.2. Связанные документы {#1-2-__id__-2}
-### 1.2.__id__.2.1. Исходящие *(ссылается этот документ)*
+## 2.4.1.1.2. Связанные документы {#2-4-1-1-2}
+### 2.4.1.1.2.1. Исходящие *(ссылается этот документ)*
 - [1.2.6. Постулат ~ О фазовой полноте (6 фаз)](/ru/1-core/2-postulates/life_cycle-6-phase.md)
 - [1.3.7. Спецификация ~ DegradeScore](/ru/1-core/2-specifications/DegradeScore.md)
 - [1.0.0. Манифест ~ IDEMO](/ru/1-core/0-eternal/manifesto.md)
 ### 1.2.__id__.2.2. Входящие *(ссылаются на этот документ)*
 → все документы /ru/1-core/, /ru/2-appied/ (автоматическая обратная связь)
 
+## 1.1.__id__.__n__. __Свободные_блоки__ {#2-4-1-1-3}
 
-## 1.1.__id__.__n__. __Свободные_блоки__ {#1-2-__id__-__n__}
+
+## 1.1.__id__.__n__. __Свободные_блоки__ {#2-4-1-1-2}
 ```yaml
-	# IDEMO Eternal Lifecycle Metadata v1.0 — КАНОНИЧЕСКИЙ ПРИМЕР
+	# ODS Eternal Lifecycle Metadata v1.0 — КАНОНИЧЕСКИЙ ПРИМЕР
 id: "0.0.1"
-title: "Пример ~ Вечный жизненный цикл документа IDEMO"
+title: "Пример ~ Вечный жизненный цикл документа ODS"
 incarnation: 3
 version: doc.v.3.0
 
