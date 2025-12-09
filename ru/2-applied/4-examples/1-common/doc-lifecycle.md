@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-09T07:47:31.774Z
+date: 2025-12-09T07:52:40.685Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -25,8 +25,10 @@ dateCreated: 2025-12-08T16:36:01.426Z
 ### 2.4.1.1.2.2. Входящие *(ссылаются на этот документ)*
 → все документы /ru/1-core/, /ru/2-appied/ (автоматическая обратная связь)
 
-## 2.4.1.1.3. __Свободные_блоки__ {#2-4-1-1-3}
-
+## 2.4.1.1.3. Правило версионирования {#2-4-1-1-3}
+**prefix**: doc.v
+**major version source**: индекс текушей трансормацим (инкарнации)
+**minor version source**: индекст текушего ChangeFlow
 
 ## 2.4.1.1.4. Граф LC-6 {#2-4-1-1-4}
 ```yaml
@@ -58,20 +60,23 @@ lifecycle:
 
 expirience:
   incarnations:
-    - incarnation: 0
+    -  incarnation: 0
       name: Draft
+      state: last
       started_at: 2025-12-08
       ended_at: 2025-12-08
       final_ds: 0.94
       changeflows: 27
-    - incarnation: 1
+    -  incarnation: 1
       name: Candidate
+      state: current
       started_at: 2025-12-08
       ended_at: 2025-12-08
       final_ds: 0.61
       changeflows: 79
-    - incarnation: 2
+    -  incarnation: 2
       name: Stable
+      state: next
       started_at: 2025-12-08
       ended_at: 2025-12-08
       final_ds: 0.19
