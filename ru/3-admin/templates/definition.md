@@ -2,7 +2,7 @@
 title: 1.3.__id__. Определение  ~  __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-09T18:28:25.705Z
+date: 2025-12-09T18:28:41.203Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T16:52:08.586Z
@@ -21,8 +21,6 @@ dateCreated: 2025-12-09T16:52:08.586Z
 *Фаза:*  ~~collect~~ → `analyze` → forecast → decide → implement → evaluate
 
 <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank">Подробно о LifeCycle документа</a>
-
-
 
 ## 1.3.__id__.2. Связанные документы {#1-3-__id__-2}
 ### 1.3.__id__.2.1. Исходящие *(ссылается этот документ)*
