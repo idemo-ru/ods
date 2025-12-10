@@ -2,21 +2,21 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T11:15:40.280Z
+date: 2025-12-10T11:17:02.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
 ---
 
 ## 2.4.1.1.1. Основное {#2-4-1-1-1}
-Документ описывает применение IDEMO ~ ODS к документу текушей документации и определяет все документы системами с LifeCycle-6 & ChangeFlow-6
+Документ описывает применение IDEMO ~ ODS к крнкпетному документу текушей документации и определяет все документы системами с LifeCycle-6 & ChangeFlow-6 & Intent
 
 > *Версия: doc.v.__lifecycle__changeflow_index__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:*.  ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>
 > *Фаза:*. ~~Birth~~ → ~~Develop~~ → `Climax` → Degrade → Turn → End<br/><br class="hidden-wiki"/>
 > *Текущий ChangeFlow:* #9<br  class="hidden-wiki"/>
 > *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate<br/><br class="hidden-wiki"/>
-> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа (ссылается сам на себя)</small></a>
+> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа /ссылается сам на себя</small></a>
 
 ## 2.4.1.1.2. Связанные документы {#2-4-1-1-2}
 ### 2.4.1.1.2.1. Исходящие *(ссылается этот документ)*
