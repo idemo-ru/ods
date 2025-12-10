@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T17:29:17.960Z
+date: 2025-12-10T17:30:10.043Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -146,7 +146,37 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 /cond > @alias_1:path, @alias_1:path									# подклбчение по условию в теле flow
 /cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path # подклбчение по цепочке условий в теле flow
 ```
-## 1.1.5.9. Примеры структурных интентов. {#1-1-5-9}
+
+## 1.1.5.9. Обязательные топологические контракты Flow {#1-1-5-9}
+> Каждый Flow обязан содержать ровно 6 фаз в строгом порядке
+{.is-info}
+
+- LC-6:
+``` yaml
+#import...
+
+$lc_name
+	@context...
+	=> *** #birth
+	=> *** #develop
+	=> *** #climax
+	=> *** #degrade
+	=> *** #turn
+	=> *** #end(death: dissipate | transform: new $lc_name)
+```
+- CF-6:
+```yaml
+$cf_name
+	@context...
+	=> *** #collect
+	=> *** #analyze
+	=> *** #forecast
+	=> *** #decide
+	=> *** #implement
+	=> *** #evaluate 
+
+```
+## 1.1.5.10. Примеры структурных интентов. {#1-1-5-10}
 ```yaml
 # Внешний именованный интент
 
@@ -182,39 +212,6 @@ $
   	/result == +1 > kafka.topic = local.mess.success, kafka.topic = local.mess.error;
   		
 ```
-
-## 1.1.5.10. Обязательные топологические контракты Flow {#1-1-5-9}
-> Каждый Flow обязан содержать ровно 6 фаз в строгом порядке
-{.is-info}
-
-- LC-6:
-``` yaml
-#import...
-
-$lc_name
-	@context...
-	=> *** #birth
-	=> *** #develop
-	=> *** #climax
-	=> *** #degrade
-	=> *** #turn
-	=> *** #end(death: dissipate | transform: new $lc_name)
-```
-- CF-6:
-```yaml
-$cf_name
-	@context...
-	=> *** #collect
-	=> *** #analyze
-	=> *** #forecast
-	=> *** #decide
-	=> *** #implement
-	=> *** #evaluate 
-
-```
-
-## 1.1.5.9. Примеры структурных интентов. {#1-1-5-9}
-
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
