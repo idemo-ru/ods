@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T20:53:17.994Z
+date: 2025-12-10T20:54:14.313Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -10,6 +10,10 @@ dateCreated: 2025-12-10T14:35:03.657Z
 
 ## 1.1.6.1. Основное {#1-2-6-1}
 Документ описывает iLang — первый и единственный чисто смысловой язык программирования в парадигме IDEMO.
+
+> Временный документ. Будет перенесён на ilang.idemo.ru
+{.is-warning}
+
 
 > *Версия: doc.1.1.5.v.0.1.3.1 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
