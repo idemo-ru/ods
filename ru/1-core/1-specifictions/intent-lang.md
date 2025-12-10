@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T22:14:48.862Z
+date: 2025-12-10T22:20:41.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -240,12 +240,15 @@ $flow_name(
 # Внешний функциональный именованный интент
 
 # Обявление runtime
-::get_user
-	? user.id = 123;
-::set_user
-	? user = io.user;
-	+ user;
+::get_user(
+	?(/(user.id == 123 : user | null)
+ )
   
+::set_user(
+	?(io.user as buyer)
+	+(crm.clients.new = buyer);
+)
+
 # Импорт
  import ::get_user from path;
  import ::set_user from @crm.context.set_user;
@@ -254,14 +257,15 @@ $flow_name(
 => ::get_user
 
 #Вызов цепочки в фазе $ с присвоением результата переменной
-$
-	@crm.users;
-  @local.mess:
+$(
+	@(crm.users)
+  @(local.mess:
   	success: 'Успех'
-    error: 'Ошибка';
-  @kafka;
-  => ?users.id = 123; 	//collect
-  =>	any logic					//analyze	
+    error: 'Ошибка'
+  )
+  @(kafka)
+  => ?(/(users.id == 123)!! 	//collect
+  => ??( )					//analyze	
   =>	any logic					//forecast	
   => any logic					//decide	
 	=> > result::get_user		//implement
@@ -269,7 +273,7 @@ $
 			_state.result as result #Запись в состояние системы
   => evaluate
   	/result == +1 > kafka.topic = local.mess.success, kafka.topic = local.mess.error;
-  		
+)  		
 ```
 
 ## tmp.1.1.6.11. Правило ~ Запреты навсегда {#tmp-1-1-6-11}
