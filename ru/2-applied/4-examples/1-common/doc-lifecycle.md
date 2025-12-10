@@ -2,20 +2,17 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T09:24:15.117Z
+date: 2025-12-10T11:12:54.853Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
 ---
 
 ## 2.4.1.1.1. Основное {#2-4-1-1-1}
-Статус: | `Draft` | Candidate | Stable | Canonical |
+Документ описывает применение IDEMO ~ ODS к документу текушей документации и определяет все документы системами с LifeCycle-6 & ChangeFlow-6
+Статус: | ~~Draft~~ | `Candidate` | Stable | Canonical |
 
 Версия: doc.v.0.1 ∙ декабрь 202*
-
-> Документ описывает применение IDEMO ~ ODS к документу текушей документации как системе
-{.is-info}
-
 
 ## 2.4.1.1.2. Связанные документы {#2-4-1-1-2}
 ### 2.4.1.1.2.1. Исходящие *(ссылается этот документ)*
@@ -26,12 +23,16 @@ dateCreated: 2025-12-08T16:36:01.426Z
 → все документы /ru/1-core/, /ru/2-appied/ (автоматическая обратная связь)
 
 ## 2.4.1.1.3. Правило версионирования {#2-4-1-1-3}
-**prefix**: doc.v
-**lvl_1**: индекс текущего LifeCycle (трансформацим, инкарнации)
-**lvl_2**: индекст текушего ChangeFlow
-**lvl_3**: индекст текущей фазы текушего ChangeFlow
+|---|
+| Сегмент | Источник или шаблон |
+| **prefix** | doc.v |
+| **lvl_1** | индекс текущего LifeCycle (трансформацим, инкарнации) |
+| **lvl_2** | индекст текушего ChangeFlow |
+| **lvl_3** | индекст текущей фазы текущего ChangeFlow |
 
-- Шаблон версии: doc.v.__lvl_1__.__lvl_2__.__lvl_3__
+> **Шаблон версии:** doc.v.__lvl_1__.__lvl_2__.__lvl_3__
+{.is-info}
+
 
 ## 2.4.1.1.4. Граф LC-6 {#2-4-1-1-4}
 ```yaml
@@ -68,19 +69,25 @@ expirience: # Граф опыта системы
       started_at: 2025-12-08
       ended_at: 2025-12-08
       final_ds: 0.94
-      changeflows: 27
+      changeflows: 
+      	count: 27
+        ids: ***
     -  incarnation: 1
       name: Candidate
       started_at: 2025-12-08
       ended_at: 2025-12-08
       final_ds: 0.61
-      changeflows: 79
+      changeflows: 
+      	count: 79
+        ids ***
     -  incarnation: 2
       name: Stable
       started_at: 2025-12-08
       ended_at: 2025-12-08
       final_ds: 0.19
-      changeflows: 51
+      changeflows: 
+      	count: 51
+        ids: ***
  ```
 
 ## 1.2.__id__.__n__. Заключение {#1-2-__id__-__n__}
