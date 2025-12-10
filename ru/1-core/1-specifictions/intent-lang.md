@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T15:15:27.468Z
+date: 2025-12-10T15:16:37.174Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -66,15 +66,6 @@ import domain.subdomains_path.entity as alias      # импорт
 @path!                                        # строгое подключение (ошибка, если недоступно)
 @path?                                        # опциональное (продолжить без него)
 @path:timeout=5s                              # с таймаутом
-
-## 1.1.__id__.__n__. __Свободные_блоки__ {#1-2-__id__-__n__}
-```
-Любые дополнительные блоки, не указанные в дланном шаблоне
-```
-
-## 1.1.__id__.__n__. Заключение {#1-2-__id__-__n__}
-```
-Следствия, примечания, другая резюмирующая информация.
 ```
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/__slug__.md
