@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T17:12:20.855Z
+date: 2025-12-10T17:12:57.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -147,7 +147,7 @@ $
 					->set_user;
 			_state.result as result #Запись в состояние системы
   => evaluate
-  	/result == +1 > kafka.topic = ocal.mess.success,  kafka.topic = ocal.mess.error;
+  	/result == +1 > kafka.topic = local.mess.success, kafka.topic = local.mess.error;
   		
 ```
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
