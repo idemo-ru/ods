@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T14:35:03.657Z
+date: 2025-12-10T14:35:37.338Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -11,7 +11,7 @@ dateCreated: 2025-12-10T14:35:03.657Z
 ## 1.1.5.1. Основное {#1-2-5-1}
 Документ описывает __одно_короткое_предложение__суть_спецификации__
 
-> *Версия: 1.1.5.1.v.0.1.3.1 ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Версия: 1.1.5.1.v.0.1.3.1 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
 > *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End<br/><br class="hidden-wiki"/>
 > *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
