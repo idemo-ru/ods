@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T17:20:40.479Z
+date: 2025-12-10T17:26:05.338Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -182,5 +182,38 @@ $
   	/result == +1 > kafka.topic = local.mess.success, kafka.topic = local.mess.error;
   		
 ```
+
+## 1.1.5.10. Обязательный контракт Flow {#1-1-5-9}
+- LC-6:
+``` yaml
+#import...
+
+$lc_name vX.Y
+@context...
+
+- CF-6:
+#import...
+=> *** #birth
+=> *** #develop
+=> *** #climax
+=> *** #degrade
+=> *** #turn
+=> *** #end(death | transform: new $lc_name)
+
+$cf_name
+@context...
+=> *** #collect
+=> *** #analyze
+=> *** #forecast
+=> *** #decide
+=> *** #implement
+=> *** #evaluate 
+
+```
+Каждый Flow обязан содержать ровно 6 фаз в строгом порядке:
+
+## 1.1.5.9. Примеры структурных интентов. {#1-1-5-9}
+
+
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
