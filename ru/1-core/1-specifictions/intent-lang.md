@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T16:17:34.991Z
+date: 2025-12-10T16:20:14.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -64,7 +64,8 @@ dateCreated: 2025-12-10T14:35:03.657Z
 ## 1.1.5.7. Контекст и пространства имён {#1-1-5-7}
 - 1. Общая структура пути:
 ```yaml
-@domain.subdomains_path.entity:inner_path;		# Полный путь 
+@domain.subdomains_path.entity:inner_path;		# Полный путь в качестве алиаса используется последний сегмент пути.
+@domain.subdomains_path.entity:inner_path as alias;		# Полный путь в качестве алиаса используется последний сегмент пути.
 @*socium.subdomains_path.entity:inner_path;	# Короткий путь. 
 																							# Недостающий путь до * будет взят из классифткатора доменов по первому сегменту после * (в данном случае socium). 
                                               # Если не найден учитывается оператор !@
@@ -76,6 +77,8 @@ dateCreated: 2025-12-10T14:35:03.657Z
 
 # Пример (псевдокод)
 @biology.human:brain.neuron;
+@business.logistic.tech.crm.company as buyer;
+@business.logistic.marketing.crm.user as manager;
 ```
 - 2. Импорт контекста
 ```yaml
