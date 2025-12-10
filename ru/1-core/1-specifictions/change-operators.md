@@ -1,0 +1,83 @@
+---
+title: 1.1.4. Спецификация ~ ChangeOperators
+description: IDEMO ~ Ontology of Dynamic Systems. __description__
+published: true
+date: 2025-12-10T07:45:34.615Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-10T07:45:34.615Z
+---
+
+## 1.1.3.1. Основное {#1-2-3-1}
+Документ описывает ChangeOperators как онтологически первичный, вечный и неизменный набор всех возможных операторов преобразования реальности X → Y в контексте C.
+
+> *Версия: v0.1 ∙ Декабрь 2025*<br/><br class="hidden-wiki"/>  
+> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>  
+> *Фаза:*. `Birth` → Develope → Climax → Degrade → Turn → End<br/><br class="hidden-wiki"/><br class="hidden-wiki"/>  
+> *Текущий ChangeFlow:* #13<br class="hidden-wiki"/>  
+> *Фаза:* `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>  
+> <small>[Подробно о LifeCycle документа](/ru/2-applied/4-examples/1-common/doc-lifecycle.md)</small>
+
+## 1.3.3.2. Связанные документы {#1-3-3-2}
+### 1.3.3.2.1. Исходящие
+- [1.1.1 Постулат~Онтология ChangeFlow](/ru/1-core/1-specifictions/change-flow.md)
+- [1.2.1 Определение~Viewpoint](/ru/1-core/2-definitions/viewpoint.md)
+
+### 1.3.3.2.2. Входящие
+- (пока нет)
+
+## 1.1.3.3. Термины и определения {#1-2-3-3}
+- **ChangeOperator** — вечный, неизменный инструмент преобразования X → Y при контексте C
+- **OperatorsLifeCycle** — жизненный цикл конкретной реализации ChangeOperator
+- **Viewpoint** — единственный механизм доступа к новым ChangeOperators
+- **L/P/S/E-operators** — Local / Parent / Sibling / External
+- **TIL** — Transient Integration Layer (адаптеры к ChangeOperators)
+
+## 1.1.3.4. Область применения {#1-2-3-4}
+Применимо ко всем системам с ChangeFlow (био, когнитивные, ИИ, социальные, технические). Не применимо к статичным объектам без ChangeFlow.
+
+## 1.1.3.5. Типология ChangeOperators {#1-2-3-5}
+
+| Тип         | Описание                                   | Примеры                              |
+|-------------|--------------------------------------------|--------------------------------------|
+| Natural     | Независимы от наблюдателя                  | Логика, математика, физика          |
+| Constructed | Искусственно созданные                     | Алгоритмы, языки, нейросети         |
+| Emergent    | Из взаимодействия систем                   | Деньги, мемы, социальные нормы      |
+| Embedded    | Встроены в архитектуру                     | Рефлексы, инстинкты, предобучка     |
+| Meta        | Над другими ChangeOperators                | Viewpoint, рефлексия                |
+| Hybrid      | Комбинация типов                           | Мозг, LLM                           |
+| Transient   | Только в одном ChangeFlow                  | Одноразовый промпт                  |
+| Forbidden   | Заблокированы                              | Деструктивные паттерны              |
+
+## 1.1.3.6. Классификация по доступу {#1-2-3-6}
+
+| Тип      | Обозначение | Источник                  | Инновационность    |
+|----------|-------------|---------------------------|--------------------|
+| Local    | L           | Текущий цикл              | Низкая            |
+| Parent   | P           | Наследование              | Базовая           |
+| Sibling  | S           | Смежные системы           | Средняя           |
+| External | E           | Удалённые системы         | Высокая / прорыв   |
+
+## 1.1.3.7. Минимальный набор по фазам ChangeFlow {#1-2-3-7}
+
+| Фаза        | Обязательные ChangeOperators                     |
+|-------------|------------------------------------------------|
+| collectData | Сенсорные / наблюдательные                     |
+| analyze     | Логические, модельные, семантические           |
+| forecast    | Математические, вероятностные                  |
+| decide      | Разрешение неопределённости                    |
+| implement   | Физические / исполнительные (локальны)         |
+| evaluate    | Метрики, сравнения                             |
+
+## 1.1.3.8. Viewpoint — механизм креативности {#1-2-3-8}
+Viewpoint(request) → {ChangeOperator₁…ₙ}  
+Этапы: IdentifyGap → RequestFromSources (со стохастикой) → Evaluate → ConnectAndActivate  
+Стохастика = единственный источник радикальных инсайтов.
+
+## 1.1.3.9. ChangeOperator vs OperatorsLifeCycle {#1-2-3-9}
+- **ChangeOperator** — вечен, определяет возможное в принципе  
+- **OperatorsLifeCycle** — конкретная реализация (молоток, сортировка), проходит Birth → Climax → Degrade → End  
+Системы создают только реализации и TIL-адаптеры, но никогда не создают и не меняют сами ChangeOperators.
+
+## 1.1.3.10. Заключение {#1-2-3-10}
+ChangeOperators — первичная онтология изменения. Все системы вторичны и существуют лишь постольку, поскольку подключаются к вечным ChangeOperators через Viewpoint и TIL. Креативность = стохастическое заимствование + комбинирование вечных операторов.
