@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T17:03:17.949Z
+date: 2025-12-10T17:04:56.926Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -131,7 +131,7 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 # Вызов в теле $
 => ::get_user
 
-#Вызов цепочки с присвоением результата переменной
+#Вызов цепочки в фазе $ с присвоением результата переменной
 => result::get_user
 			->set_user;
 => _result #Запись в состояние системы
