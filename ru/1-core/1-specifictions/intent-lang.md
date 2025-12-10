@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T16:13:27.363Z
+date: 2025-12-10T16:14:36.234Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -65,10 +65,11 @@ dateCreated: 2025-12-10T14:35:03.657Z
 - 1. Полный путь до последнего сегмента:
 ```yaml
 # Общая структура пути
-@domain.subdomains_path.entity:inner_path;		# полный путь 
-@*socium.subdomains_path.entity:inner_path;	# короткий путь. 
-																							#Недостающий путь до * будет взят из классифткатора доменов по первому сегменту после * (в данном случае socium). 
-                                              #Если не найден учитывается оператор !@
+@domain.subdomains_path.entity:inner_path;		# Полный путь 
+@*socium.subdomains_path.entity:inner_path;	# Короткий путь. 
+																							# Недостающий путь до * будет взят из классифткатора доменов по первому сегменту после * (в данном случае socium). 
+                                              # Если не найден учитывается оператор !@
+                                              # Либо следует прописать полный путь
 
 # Пример (псевдокод)
 @biology.human:brain.neuron;
