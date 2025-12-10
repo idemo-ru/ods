@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T15:58:37.574Z
+date: 2025-12-10T15:58:59.331Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -30,7 +30,7 @@ dateCreated: 2025-12-10T14:35:03.657Z
 ## 1.1.5.3. Термины и определения {#1-1-5-3}
 - **LC-6:** LifeCycle-6 *(см. связанные документы)*;
 - **CF-6:** ChengeFlow-6 *(см. связанные документы)*;
-- **CO** ChangeOperators *(см. связанные документы)*;
+- **CO:** ChangeOperators *(см. связанные документы)*;
 - **Intent:** Единственный хранимый артефакт *. Реализация (код) всегда эфемерна.
 
 ## 1.1.5.4. Область применения {#1-2-5-4}
