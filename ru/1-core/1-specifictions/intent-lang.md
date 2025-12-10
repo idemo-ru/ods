@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T19:20:14.473Z
+date: 2025-12-10T19:23:57.187Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -204,8 +204,14 @@ $cf_name(
 ```
   * Безусловный подразумевает естественное завершение предыдущей фазы (например завершение вычислений алгоритма).
 Примеры:
-```
-
+```php
+$flow_name(
+	@(context_path:data),
+  => [
+  	^(context_path:data) #если сушествует - переходим к collect
+  ] ? (
+  	...
+	)
 ```
 ## 1.1.5.11. Примеры структурных интентов. {#1-1-5-11}
 ```yaml
