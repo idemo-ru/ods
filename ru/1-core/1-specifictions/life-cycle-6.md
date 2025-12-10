@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6 
 description: ODS ~ LifeCycle-6. Универсальная онтология полного цикла существования любой системы
 published: true
-date: 2025-12-10T08:15:38.052Z
+date: 2025-12-10T08:22:12.995Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -76,3 +76,5 @@ dateCreated: 2025-12-07T06:58:52.045Z
 | Нейросети          | Деградация сразу после обучения                    | GPT-4, SD — годы на пике качества                             |
 
 ## 1.1.1.8. Заключение {#1-1-1-8}
+
+**Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/life-cycle-6
