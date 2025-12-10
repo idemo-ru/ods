@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T09:18:14.239Z
+date: 2025-12-10T09:24:15.117Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -35,14 +35,14 @@ dateCreated: 2025-12-08T16:36:01.426Z
 
 ## 2.4.1.1.4. Граф LC-6 {#2-4-1-1-4}
 ```yaml
-	# ODS Eternal Lifecycle Metadata v1.0 — КАНОНИЧЕСКИЙ ПРИМЕР
+	# ODS Eternal Lifecycle Metadata v1.0 — КАНОНИЧЕСКИЙ ПРИМЕР (псевдокод)
   
-id: "2.4.1.1"
+id: "2.4.1.1" # Сквозной порядковый номер документа
 title: "Пример ~ Вечный жизненный цикл документа ODS"
-incarnation: 3
-version: doc.v.3.158.0
+incarnation: 3 # Индекс текущей инкарнации
+version: doc.v.3.158.0 # версия по шаблону
 
-lifecycle:
+lifecycle: # Граф текущей инкарнации
   name: Canonical
   started_at: 2025-12-08
   phase: 
@@ -61,7 +61,7 @@ lifecycle:
       neutral:  13
       failure:   2
 
-expirience:
+expirience: # Граф опыта системы
   incarnations:
     -  incarnation: 0
       name: Draft
