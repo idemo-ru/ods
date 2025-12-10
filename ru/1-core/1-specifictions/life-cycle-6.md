@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6 
 description: ODS ~ LifeCycle-6. Универсальная онтология полного цикла существования любой системы
 published: true
-date: 2025-12-10T08:24:46.380Z
+date: 2025-12-10T08:26:31.950Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -77,5 +77,5 @@ dateCreated: 2025-12-07T06:58:52.045Z
 
 ## 1.1.1.8. Заключение {#1-1-1-8}
 
-> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/life-cycle-6
-> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/life-cycle-6.md
+<span class="hidden-wiki">**Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/life-cycle-6</span><br/>
+**GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/life-cycle-6.md
