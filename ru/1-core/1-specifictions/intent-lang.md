@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T16:31:18.543Z
+date: 2025-12-10T16:34:18.773Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -64,7 +64,8 @@ dateCreated: 2025-12-10T14:35:03.657Z
 ## 1.1.5.7. Структурные Intent {#1-1-5-7}
 | Символ | Имя          | Смысл                                   |  |
 |--------|--------------|-----------------------------------------|---------------------------------|
-| `$`    | flow        |              |                       |
+| `$`    | flow        | Экземпляр CF-6.  Наследует контракт фаз CF-6 [см. п. 1.1.5.__n__](#1-1-5-__n__)           |                       |
+| `$name`    | named flow        | Именованый flow             |                       |
 | `@`    | context        | Контекст            |                         |
 | `=>`    | phase      | Фаза CF-6                               |                        |
 | `=>?`    | named phase      | Именованая фаза CF-6                               |                        |
