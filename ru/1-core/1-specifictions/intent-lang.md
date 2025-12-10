@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T15:58:59.331Z
+date: 2025-12-10T16:00:02.920Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -61,7 +61,7 @@ dateCreated: 2025-12-10T14:35:03.657Z
 | `<>`   | wait         | Ожидать условия                         | синхронизация                  |
 | `**`   | repeat       | Повторить с условием/счётчиком          | циклы                          |
 
-## 1.1.4.4. Контекст и пространства имён
+## 1.1.5.7. Контекст и пространства имён {#1-1-5-7}
 
 ```yaml
 #iLang.context
@@ -76,5 +76,5 @@ import domain.subdomains_path.entity as alias      		# импорт
 /cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path
 ```
 
-> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/__slug__.md
-> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/__slug__.md
+> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
