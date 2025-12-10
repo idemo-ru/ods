@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6 
 description: ODS ~ LifeCycle-6. Универсальная онтология полного цикла существования любой системы
 published: true
-date: 2025-12-10T08:31:43.961Z
+date: 2025-12-10T08:32:36.916Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -51,7 +51,7 @@ dateCreated: 2025-12-07T06:58:52.045Z
 |------------------------|-------------|------------------------------------------------------------------------------------|----------------------------------|
 | birth → develop        | процесс     | Первый успешный ChangeFlow-6 (–1 или 0)                                            | микросекунды–годы                |
 | develop → climax       | процесс     | DegradeScore ≤ 0.15 устойчиво ≥ Δt_stable                                          | годы–века                        |
-| climax → degrade       | процесс     | DegradeScore > DegradeThreshold устойчиво ≥ Δt_phase                               | месяцы–столетия                  |
+| climax → degrade       | процесс     | DegradeScore > DegradeThreshold устойчиво на протяжении Δt_phase                               | месяцы–столетия                  |
 | degrade → turn         | процесс     | DegradeScore фиксируется на 1.0                                                    | часы–тысячелетия                 |
 | turn → end         | мгновение   | Завершение последнего радикального ChangeFlow-6                                    | атомарно                         |
 
