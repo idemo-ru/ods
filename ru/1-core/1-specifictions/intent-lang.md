@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T17:18:50.774Z
+date: 2025-12-10T17:19:33.764Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -17,6 +17,10 @@ dateCreated: 2025-12-10T14:35:03.657Z
 > *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
 > *Фаза:*  ~~collect~~ → `analyze` → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
+
+## Intent определяет «что», а не «как»
+
+Реализация всегда вторична и динамическая. Код — производная, временная, усиливаемая обучением и не сохраняемая.
 
 > ## Почему Intent — первооснова
 > 1.	Онтологическая чистота
