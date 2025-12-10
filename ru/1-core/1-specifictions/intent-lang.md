@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T15:02:49.921Z
+date: 2025-12-10T15:03:16.965Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -53,7 +53,7 @@ dateCreated: 2025-12-10T14:35:03.657Z
 | `_`    | evaluate     | Зафиксировать результат (записать новое состояние)     | evaluate                       |
 | `/`    | split        | Разделить поток / сущность              | ветвление                      |
 | `*`    | merge        | Объединить потоки / сущности            | слияние                        |
-| `!`    | reflect      | Рефлексия / откат при -1                | обучение                       |
+| `!`    | reflect      | Рефлексия                               | обучение                       |
 | `<>`   | wait         | Ожидать условия                         | синхронизация                  |
 | `**`   | repeat       | Повторить с условием/счётчиком          | циклы                          |
 
