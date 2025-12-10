@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T17:30:10.043Z
+date: 2025-12-10T17:32:38.526Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -212,6 +212,17 @@ $
   	/result == +1 > kafka.topic = local.mess.success, kafka.topic = local.mess.error;
   		
 ```
+
+## 1.1.5.11. Правило ~ Запреты навсегда {#1-1-5-11}
+
+> - Пропуск или изменение порядка фаз;
+> - Неявные ссылки на «предыдущее» (<-, <<, @prev и т.п.);
+> - Юникодные символы в примитивах;
+> - Любые изменения корневых примитивов;
+> {.is-success}
+
+
+
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
