@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T17:06:00.372Z
+date: 2025-12-10T17:12:20.855Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -117,7 +117,8 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 ## 1.1.5.9. Примеры структурных интентов. {#1-1-5-9}
 ```yaml
 # Внешний именованный интент
-# Обявление
+
+# Обявление runtime
 ::get_user
 	? user.id = 123;
 ::set_user
@@ -132,9 +133,22 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 => ::get_user
 
 #Вызов цепочки в фазе $ с присвоением результата переменной
-=> result::get_user
-			->set_user;
-=> _result #Запись в состояние системы
+$
+	@crm.users;
+  @local.mess:
+  	success: 'Успех'
+    error: 'Ошибка';
+  @kafka;
+  => ?users.id = 123; 	//collect
+  =>	any logic					//analyze	
+  =>	any logic					//forecast	
+  => any logic					//decide	
+	=> > result::get_user		//implement
+					->set_user;
+			_state.result as result #Запись в состояние системы
+  => evaluate
+  	/result == +1 > kafka.topic = ocal.mess.success,  kafka.topic = ocal.mess.error;
+  		
 ```
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
