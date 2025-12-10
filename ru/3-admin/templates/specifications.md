@@ -2,7 +2,7 @@
 title: 1.1.__id__. Спецификация ~ __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T14:36:18.355Z
+date: 2025-12-10T14:39:20.039Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T00:42:25.441Z
@@ -13,7 +13,7 @@ dateCreated: 2025-12-08T00:42:25.441Z
 
 > *Версия: doc.1.1.__id__.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End<br/><br class="hidden-wiki"/>
+> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End(death|transform)<br/><br class="hidden-wiki"/>
 > *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
 > *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
