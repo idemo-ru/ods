@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T17:48:38.485Z
+date: 2025-12-10T18:31:52.122Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -101,8 +101,7 @@ dateCreated: 2025-12-10T14:35:03.657Z
 | `$`    | flow        | Экземпляр топологических flow LC-6, CF-6.  Наследует контракт фаз LC-6, CF-6 [см. п. 1.1.5.__n__](#1-1-5-__n__)           |                       |
 | `$name`    | named_flow        | Именованый экземпляр топологических flow LC-6, CF-6.             |                       |
 | `@`    | context        | Контекст            |                         |
-| `=>`    | phase      | Фаза LC-6, CF-6.                               |                        |
-| `=>?`    | named_phase      | Именованая фаза контрактов LC-6, CF-6.                               |                        |
+| `=>`    | phase_transition      | Оператор фазового перехода LC-6, CF-6. Может быть условным => [cond] и безусловным - => [] или просто =>                            |                        |
 | `::`    | external_intent  | Внешний функциональный интент (либо параллельный, либо первый в цепочке (step 1)                               |                        |
 | `result::`    | result_variable     | Внешний функциональный интент с присвоением результата переменной                               |                        |
 | `->`   |  external_intent_chain     | Внешний функциональный интент в цепочке (step > 1)                          |                   |
