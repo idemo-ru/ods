@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T16:25:55.419Z
+date: 2025-12-10T16:27:05.001Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -98,7 +98,7 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 ```yaml
 @path:timeout=5s                              				# с таймаутом
 /cond > @alias_1:path, @alias_1:path									# подклбчение по условию в теле flow
-/cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path # подклбчение по ветке условий в теле flow
+/cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path # подклбчение по цепочке условий в теле flow
 ```
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
