@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T19:14:21.707Z
+date: 2025-12-10T19:17:01.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -160,28 +160,32 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 ### Контракты
 
 - LC-6:
-``` yaml
-#import...
+``` php
+import @   # Импорт контекстов
+import ::  # Импорт функциональных интентов
 
 $lc_name
 	@(...), #context
-	=> +(***) #birth
-	=> +=(***) #develop
-	=> &&(***) #climax
-	=> -=(***) #degrade
-	=> +-(***) #turn
-	=> -(***) #end(death: dissipate | transform: new $lc_name)
+	=> +(...) #birth
+	=> +=(...) #develop
+	=> &&(...) #climax
+	=> -=(...) #degrade
+	=> +-(...) #turn
+	=> -(...) #end(death: dissipate //- | transform: new $lc_name //+)
 ```
 - CF-6:
 ```php
+import @   # Импорт контекстов
+import ::  # Импорт функциональных интентов
+
 $cf_name(
 	@(...), #context
-	=> ?(***) #collect
-	=> ??(***) #analyze
-	=> ~(***) #forecast
-	=> ^(***) #decide
-	=> >(***) #implement
-	=> _(***) #evaluate 
+	=> ?(...) #collect
+	=> ??(...) #analyze
+	=> ~(...) #forecast
+	=> ^(...) #decide
+	=> >(...) #implement
+	=> _(...) #evaluate 
 )
 ```
 ### Оператор фазового перехода
