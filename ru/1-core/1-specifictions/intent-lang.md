@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T19:23:57.187Z
+date: 2025-12-10T19:25:25.154Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
