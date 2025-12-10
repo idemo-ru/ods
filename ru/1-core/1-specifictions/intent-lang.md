@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T20:52:51.956Z
+date: 2025-12-10T20:53:17.994Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -21,7 +21,7 @@ dateCreated: 2025-12-10T14:35:03.657Z
 
 ## 1.1.6.2. Связанные документы {#1-1-6-2}
 ### 1.1.6.2.1. Исходящие *(ссылается этот документ)*
-- [1.1.12 Манифест ~ IDEMO v1.0](/ru/1-core/1-manifesto/idemo-v1.md)
+- [1.1.12 Манифест ~ IDEMO](/ru/1-core/1-manifesto/idemo-v1.md)
 - [1.1.1 Спецификация ~ LifeCycle-6](/ru/1-core/1-specifictions/life-cycle-6.md)
 - [1.1.2 Спецификация ~ ChangeFlow-6](/ru/1-core/1-specifictions/change-flow-6.md)
 - [1.1.3 Спецификация ~ ChangeOperators](/ru/1-core/1-specifictions/change-operators.md)
