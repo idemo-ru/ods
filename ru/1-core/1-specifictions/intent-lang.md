@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T20:57:43.872Z
+date: 2025-12-10T20:58:41.961Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -277,7 +277,7 @@ $
 
 
 ## tmp.1.1.6.12. Заключение {#tmp-1-1-6-12}
-> iLang — первый язык, в котором программируют смыслом, а не кодом.
+> iLang — язык, в котором программируют смыслом, а не кодом.
 {.is-success}
 
 Intent вечен. Код эфемерен. Технический долг мёртв.
