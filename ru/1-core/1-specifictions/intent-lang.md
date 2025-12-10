@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T16:25:42.657Z
+date: 2025-12-10T16:25:55.419Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -90,7 +90,7 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
   @output_mess:
   	success: 'Успех'
     error: 'Ошибка'
-  # Альтеранатива
+  # Единично
   @output_success_mess = 'Успех';
   @output_error_mess = 'Ошибка';
 ```
