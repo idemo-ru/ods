@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T20:59:08.307Z
+date: 2025-12-10T21:54:19.572Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -169,8 +169,8 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 - tmp.1.1.6.9.4. Дополнительные конструкции. {#tmp-1-1-6-9-3}
 ```yaml
 @path:timeout=5s                              				# с таймаутом
-/cond > @alias_1:path, @alias_1:path									# подклбчение по условию в теле flow
-/cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path # подклбчение по цепочке условий в теле flow
+/(cond -> @(alias_1:path) : @(alias_1:path))									# подклбчение по условию в теле flow
+/(cond -> /(cond -> @(alias_1:path) : @(alias_1:path)) : @alias_3:path) # подключение по цепочке условий в теле flow
 ```
 
 ## tmp.1.1.6.10. Обязательные топологические контракты LC-6 и -1-1-6-10}
