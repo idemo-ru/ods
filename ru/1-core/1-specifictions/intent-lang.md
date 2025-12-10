@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T18:57:53.202Z
+date: 2025-12-10T18:59:23.407Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -158,11 +158,11 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 #import...
 
 $lc_name
-	@context...
-	=> *** #birth
-	=> *** #develop
+	@(...), #context
+	=> +(***) #birth
+	=> +=(***) #develop
 	=> *** #climax
-	=> *** #degrade
+	=> -=(***) #degrade
 	=> *** #turn
 	=> *** #end(death: dissipate | transform: new $lc_name)
 ```
@@ -175,7 +175,7 @@ $cf_name(
 	=> ~(***) #forecast
 	=> ^(***) #decide
 	=> >(***) #implement
-	=> *** #evaluate 
+	=> _(***) #evaluate 
 )
 ```
 ### Оператор фазового перехода
