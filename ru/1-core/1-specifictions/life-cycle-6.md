@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6 
 description: ODS ~ LifeCycle-6. Универсальная онтология полного цикла существования любой системы
 published: true
-date: 2025-12-10T09:08:31.101Z
+date: 2025-12-10T09:08:51.328Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -13,7 +13,7 @@ dateCreated: 2025-12-07T06:58:52.045Z
 
 > *Версия: doc.v.1.57 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:*. ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End<br/><br class="hidden-wiki"/>
+> *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End<br/><br class="hidden-wiki"/>
 > *Текущий ChangeFlow:*. #57<br  class="hidden-wiki"/>
 > *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
