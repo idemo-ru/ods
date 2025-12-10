@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T11:18:19.726Z
+date: 2025-12-10T11:20:55.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -11,10 +11,10 @@ dateCreated: 2025-12-08T16:36:01.426Z
 ## 2.4.1.1.1. Основное {#2-4-1-1-1}
 Документ описывает применение IDEMO ~ ODS к крнкпетному документу текушей документации и определяет все документы системами с LifeCycle-6 & ChangeFlow-6 & Intent
 
-> *Версия: doc.v.__lifecycle__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Версия: doc.v.1.2.3.3 ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:*.  ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>
 > *Фаза:*. ~~Birth~~ → ~~Develop~~ → `Climax` → Degrade → Turn → End<br/><br class="hidden-wiki"/>
-> *Текущий ChangeFlow:* #9<br  class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #3<br  class="hidden-wiki"/>
 > *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа /ссылается сам на себя</small></a>
 
@@ -31,10 +31,11 @@ dateCreated: 2025-12-08T16:36:01.426Z
 | Сегмент | Источник или шаблон |
 | **prefix** | doc.v |
 | **lvl_1** | индекс текущего LifeCycle (трансформацим, инкарнации) |
-| **lvl_2** | индекст текушего ChangeFlow |
-| **lvl_3** | индекст текущей фазы текущего ChangeFlow |
+| **lvl_2** | индекс текущей фазы текущего LifeCycle |
+| **lvl_3** | индекст текушего ChangeFlow |
+| **lvl_4** | индекст текущей фазы текущего ChangeFlow |
 
-> **Шаблон версии:** doc.v.__lvl_1__.__lvl_2__.__lvl_3__
+> **Шаблон версии:** doc.v.__lvl_1__.__lvl_2__.__lvl_3__.__lvl_4__
 {.is-info}
 
 
