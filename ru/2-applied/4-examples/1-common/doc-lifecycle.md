@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T11:17:02.181Z
+date: 2025-12-10T11:18:19.726Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -11,7 +11,7 @@ dateCreated: 2025-12-08T16:36:01.426Z
 ## 2.4.1.1.1. Основное {#2-4-1-1-1}
 Документ описывает применение IDEMO ~ ODS к крнкпетному документу текушей документации и определяет все документы системами с LifeCycle-6 & ChangeFlow-6 & Intent
 
-> *Версия: doc.v.__lifecycle__changeflow_index__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Версия: doc.v.__lifecycle__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:*.  ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>
 > *Фаза:*. ~~Birth~~ → ~~Develop~~ → `Climax` → Degrade → Turn → End<br/><br class="hidden-wiki"/>
 > *Текущий ChangeFlow:* #9<br  class="hidden-wiki"/>
