@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T16:42:42.099Z
+date: 2025-12-10T16:43:16.371Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -69,7 +69,7 @@ dateCreated: 2025-12-10T14:35:03.657Z
 | `@`    | context        | Контекст            |                         |
 | `=>`    | phase      | Фаза CF-6                               |                        |
 | `=>?`    | named_phase      | Именованая фаза контракта CF-6                               |                        |
-| `::`    | external_intent      | Внешний функциональный интент (либо параллельный либо первый в цепочке (step 1)                               |                        |
+| `::`    | external_intent  | Внешний функциональный интент (либо параллельный либо первый в цепочке (step 1)                               |                        |
 | `result::`    | result_variable     | Внешний функциональный интент с присвоением результата переменной                               |                        |
 | `->`   |  external_intent_chain     | Внешний функциональный интент в цепочке (step > 1)                          |                   |
 | `::()`   |  external_intent_closure       | Внешний функциональный интент как замыкание                          |                   |
