@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T17:26:54.603Z
+date: 2025-12-10T17:28:44.600Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -183,31 +183,30 @@ $
   		
 ```
 
-## 1.1.5.10. Обязательный контракт Flow {#1-1-5-9}
+## 1.1.5.10. Обязательные топологические контракты Flow {#1-1-5-9}
 - LC-6:
 ``` yaml
 #import...
 
-$lc_name vX.Y
-@context...
-
+$lc_name
+	@context...
+	=> *** #birth
+	=> *** #develop
+	=> *** #climax
+	=> *** #degrade
+	=> *** #turn
+	=> *** #end(death: dissipate | transform: new $lc_name)
+```
 - CF-6:
-#import...
-=> *** #birth
-=> *** #develop
-=> *** #climax
-=> *** #degrade
-=> *** #turn
-=> *** #end(death: dissipate | transform: new $lc_name)
-
+```yaml
 $cf_name
-@context...
-=> *** #collect
-=> *** #analyze
-=> *** #forecast
-=> *** #decide
-=> *** #implement
-=> *** #evaluate 
+	@context...
+	=> *** #collect
+	=> *** #analyze
+	=> *** #forecast
+	=> *** #decide
+	=> *** #implement
+	=> *** #evaluate 
 
 ```
 Каждый Flow обязан содержать ровно 6 фаз в строгом порядке:
