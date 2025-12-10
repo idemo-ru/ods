@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T19:19:18.985Z
+date: 2025-12-10T19:20:14.473Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -154,7 +154,7 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 /cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path # подклбчение по цепочке условий в теле flow
 ```
 
-## 1.1.5.10. Обязательные топологические контракты Flow {#1-1-5-10}
+## 1.1.5.10. Обязательные топологические контракты LC-6 и CF-6 {#1-1-5-10}
 > Каждый Flow обязан содержать ровно 6 фаз в строгом порядке
 {.is-info}
 ### Контракты
