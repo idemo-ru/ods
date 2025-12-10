@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T19:17:01.678Z
+date: 2025-12-10T19:19:18.985Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -161,8 +161,8 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
 
 - LC-6:
 ``` php
-import @   # Импорт контекстов
-import ::  # Импорт функциональных интентов
+import @   																# Импорт контекстов
+import ::intent_name from @context_path  	# Импорт функциональных интентов
 
 $lc_name
 	@(...), #context
@@ -175,8 +175,8 @@ $lc_name
 ```
 - CF-6:
 ```php
-import @   # Импорт контекстов
-import ::  # Импорт функциональных интентов
+import @   																# Импорт контекстов
+import ::intent_name from @context_path  	# Импорт функциональных интентов
 
 $cf_name(
 	@(...), #context
@@ -209,7 +209,7 @@ $cf_name(
 ```
 ## 1.1.5.11. Примеры структурных интентов. {#1-1-5-11}
 ```yaml
-# Внешний именованный интент
+# Внешний функциональный именованный интент
 
 # Обявление runtime
 ::get_user
