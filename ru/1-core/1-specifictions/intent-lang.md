@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T16:36:45.845Z
+date: 2025-12-10T16:39:43.421Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -71,11 +71,13 @@ dateCreated: 2025-12-10T14:35:03.657Z
 | `=>?`    | named_phase      | Именованая фаза контракта CF-6                               |                        |
 | `::`    | intent      | Функциональный Интент (либо параллельный либо первый в цепочке                               |                        |
 | `result::`    | result_variable     | Интент с присвоением результата переменной                               |                        |
-| `->`   | интент в цепочке         | Ожидать условия                         |                   |
+| `->`   | интент в цепочке         |                         |                   |
+| `::()`   | интент как замыкание         |                         |                   |
+| `->()`   | интент в цепочке как замыкание         |                         |                   |
 
 ## 1.1.5.8. Контекст и пространства имён {#1-1-5-8}
 Предполгагается создание общего Доменного Классификатора, однако можно использовать локальные Классификаторы. Главное чтобы они были определены.
-- 1. Общая структура пути:
+- 1.1.5.8.1. Общая структура пути:
 ```yaml
 @domain.subdomains_path.entity:inner_path;		# Полный путь в качестве алиаса используется последний сегмент пути.
 @domain.subdomains_path.entity:inner_path as alias;		# Полный путь в качестве алиаса используется последний сегмент пути.
@@ -93,11 +95,11 @@ dateCreated: 2025-12-10T14:35:03.657Z
 @business.logistic.tech.crm.company as buyer;
 @business.logistic.marketing.crm.user as manager;
 ```
-- 2. Импорт контекста
+- 1.1.5.8.2. Импорт контекста
 ```yaml
 import @domain.subdomains_path.entity as alias      	# по полному пути с присвоением алиаса
 ```
-- 3. Локальные контексты. Используюься локально в пределах $flow.
+- 1.1.5.8.3. Локальные контексты. Используюься локально в пределах $flow.
 ```yaml
   @output_mess:
   	success: 'Успех'
@@ -106,12 +108,15 @@ import @domain.subdomains_path.entity as alias      	# по полному пу�
   @output_success_mess = 'Успех';
   @output_error_mess = 'Ошибка';
 ```
-- 4. Дополнительные конструкции
+- 1.1.5.8.4. Дополнительные конструкции
 ```yaml
 @path:timeout=5s                              				# с таймаутом
 /cond > @alias_1:path, @alias_1:path									# подклбчение по условию в теле flow
 /cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path # подклбчение по цепочке условий в теле flow
 ```
-
+- 1.1.5.8.4. Примеры структурных интентов
+```yaml
+::
+```
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
