@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T15:20:00.812Z
+date: 2025-12-10T15:23:15.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -68,6 +68,8 @@ import domain.subdomains_path.entity as alias      		# импорт
 																											# (ошибка, если недоступно)
 @path?                                        				# опциональное (продолжить без него)
 @path:timeout=5s                              				# с таймаутом
+/cond > @alias_1:path, @alias_1:path									# подклбчение по условию в теле flow
+/cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path
 ```
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/__slug__.md
