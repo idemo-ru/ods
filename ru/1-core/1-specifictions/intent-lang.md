@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T14:55:40.958Z
+date: 2025-12-10T14:56:13.261Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -25,16 +25,7 @@ dateCreated: 2025-12-10T14:35:03.657Z
 - [1.1.2 Спецификация ~ ChangeFlow-6](/ru/1-core/1-specifictions/change-flow-6.md)
 - [1.1.3 Спецификация ~ ChangeOperators](/ru/1-core/1-specifictions/change-operators.md)
 ### 1.3.__id__.2.2. Входящие *(ссылаются на этот документ)*
-- [__numbers_path__ __form_name__~__title__](__link__.md)
-- [__numbers_path__ __form_name__~__title__](__link__.md#__anchor__)
-```
-Структура ссылок:
-__numbers_path__ - чмсловой путь по сквозной нумерации разделов и документов. Например 1.1.1
-__form_name__ - имя формы документа. Например Постулат, Скецификация, Определение и так далее
-__title__ - Имя документа.
-__link__ - полная относительная ссылка на документ
-__anchor__ - якорь внутри документа. Как правило указан в заголовке второго уровня (##) по наблону __numbers_path__ где точки заменены на дефисы.
-```
+- *не определены*
 
 ## 1.1.__id__.3. Термины и определения {#1-2-__id__-3}
 - *Intent:* Единственный хранимый артефакт *. Реализация (код) всегда эфемерна.
