@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T16:14:36.234Z
+date: 2025-12-10T16:17:34.991Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -62,14 +62,17 @@ dateCreated: 2025-12-10T14:35:03.657Z
 | `**`   | repeat       | Повторить с условием/счётчиком          | циклы                          |
 
 ## 1.1.5.7. Контекст и пространства имён {#1-1-5-7}
-- 1. Полный путь до последнего сегмента:
+- 1. Общая структура пути:
 ```yaml
-# Общая структура пути
 @domain.subdomains_path.entity:inner_path;		# Полный путь 
 @*socium.subdomains_path.entity:inner_path;	# Короткий путь. 
 																							# Недостающий путь до * будет взят из классифткатора доменов по первому сегменту после * (в данном случае socium). 
                                               # Если не найден учитывается оператор !@
                                               # Либо следует прописать полный путь
+@alias:path                                   # короткая запись
+!@path                                        # строгое подключение 
+																							# (ошибка, если недоступно)
+@path                                         # опциональное (продолжить без него)
 
 # Пример (псевдокод)
 @biology.human:brain.neuron;
@@ -77,17 +80,12 @@ dateCreated: 2025-12-10T14:35:03.657Z
 - 2. Импорт контекста
 ```yaml
 import @domain.subdomains_path.entity as alias      	# по полному пути с присвоением алиаса
-import @alias_1															      		# по полному алиасу
 ```
-
-
-@alias:path                                   				# короткая запись
-!@path                                        				# строгое подключение 
-																											# (ошибка, если недоступно)
-@path                                        					# опциональное (продолжить без него)
+- 3. Дополнительные конструкции
+```yaml
 @path:timeout=5s                              				# с таймаутом
 /cond > @alias_1:path, @alias_1:path									# подклбчение по условию в теле flow
-/cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path
+/cond > (/cond > @alias_1:path, @alias_1:path), @alias_3:path # подклбчение по ветке условий в теле flow
 ```
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
