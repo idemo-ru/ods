@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T18:55:22.906Z
+date: 2025-12-10T18:57:53.202Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -167,16 +167,16 @@ $lc_name
 	=> *** #end(death: dissipate | transform: new $lc_name)
 ```
 - CF-6:
-```yaml
-$cf_name
-	@context...
-	=> *** #collect
-	=> *** #analyze
-	=> *** #forecast
-	=> *** #decide
-	=> *** #implement
+```php
+$cf_name(
+	@(...), #context
+	=> ?(***) #collect
+	=> ??(***) #analyze
+	=> ~(***) #forecast
+	=> ^(***) #decide
+	=> >(***) #implement
 	=> *** #evaluate 
-
+)
 ```
 ### Оператор фазового перехода
 Может быть 
@@ -193,6 +193,10 @@ $cf_name
 => ^(next decide phase)
 ```
   * Безусловный подразумевает естественное завершение предыдущей фазы (например завершение вычислений алгоритма).
+Примеры:
+```
+
+```
 ## 1.1.5.11. Примеры структурных интентов. {#1-1-5-11}
 ```yaml
 # Внешний именованный интент
