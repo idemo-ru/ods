@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T14:58:45.942Z
+date: 2025-12-10T14:59:47.289Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -46,7 +46,7 @@ dateCreated: 2025-12-10T14:35:03.657Z
 | `+=`   | develop      | Увеличить сложность / эффективность     | Develop → Climax               |
 | `-=`   | degrade      | Уменьшить сложность / эффективность     | Degrade                        |
 | `?`    | collect      | Собрать контекст / данные               | collectData                    |
-| `??`   | analyze      | Осмыслить, отфильтровать                | analyze                        |
+| `??`   | analyze      | Осмыслить, отфильтроватьб исследовать   | analyze                        |
 | `~`    | forecast     | Спрогнозировать исходы                  | forecast                       |
 | `^`    | decide       | Разрешить неопределённость, выбрать     | decide                         |
 | `>`    | implement    | Реализовать (единственный локальный)   | implement                      |
