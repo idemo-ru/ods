@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent - Намерение
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T08:44:29.609Z
+date: 2025-12-11T08:45:50.233Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T08:44:29.609Z
@@ -21,8 +21,8 @@ dateCreated: 2025-12-11T08:44:29.609Z
 ## 1.3.5.2. Связанные документы {#1-3-5-2}
 
 ### 1.3.5.2.1. Исходящие
-- [1.1.1 Канон ~ IDEMO](1.1.1-canon-idemo.md)
-- [1.2.1 Манифест ~ IDEMO](1.2.1-manifest-idemo.md)
+- [life-cycle-6](/ru/1-core/1-specifictions/life-cycle-6)
+- [change-flow-6](/ru/1-core/1-specifictions/change-flow-6)
 
 ### 1.3.5.2.2. Входящие
 — (пока отсутствуют)
