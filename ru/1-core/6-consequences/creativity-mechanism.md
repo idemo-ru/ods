@@ -2,7 +2,7 @@
 title: 1.6.1. Следствие ~ Механизм креативности и инноваций
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T21:29:28.093Z
+date: 2025-12-11T21:29:57.591Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:35:25.058Z
@@ -30,7 +30,7 @@ dateCreated: 2025-12-11T18:35:25.058Z
 Креативность любой системы в момент t полностью описывается формулой:
 
 $$
-C_t = \Delta V_t \cdot S_t \cdot Q_t)
+C_t = \Delta V_t \cdot S_t \cdot Q_t
 $$
 
 Где:
