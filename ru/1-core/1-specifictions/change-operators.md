@@ -2,7 +2,7 @@
 title: 1.1.4. Спецификация ~ ChangeOperators
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T18:18:01.689Z
+date: 2025-12-11T22:27:25.078Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T07:45:34.615Z
@@ -11,11 +11,11 @@ dateCreated: 2025-12-10T07:45:34.615Z
 ## 1.1.4.1. Основное {#1-1-4-1}
 Документ описывает ChangeOperators как онтологически первичный, вечный и неизменный набор всех возможных операторов преобразования реальности X → Y в контексте C.
 
-> *Версия: v0.1 ∙ Декабрь 2025*<br/><br class="hidden-wiki"/>  
-> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>  
-> *Фаза:*. `Birth` → Develope → Climax → Degrade → Turn → End<br/><br class="hidden-wiki"/><br class="hidden-wiki"/>  
-> *Текущий ChangeFlow:* #13<br class="hidden-wiki"/>  
-> *Фаза:* `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>  
+> *Версия: doc.1.1.4.v1.2.21.5. ∙ Декабрь 2025*<br/><br class="hidden-wiki"/>  
+> *Текущий LifeCycle:* ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>  
+> *Фаза:*. ~~Birth~~ → ~~Develope~~ → `Climax` → Degrade → Turn → End<br/><br class="hidden-wiki"/><br class="hidden-wiki"/>  
+> *Текущий ChangeFlow:* #21<br class="hidden-wiki"/>  
+> *Фаза:* ~~collect~~ → ~~analyze~~ → ~~forecast~~ → ~~decide~~ → ~~implement~~ → `evaluate`<br/><br class="hidden-wiki"/>  
 > <small>[Подробно о LifeCycle документа](/ru/2-applied/4-examples/1-common/doc-lifecycle.md)</small>
 
 ## 1.1.4.2. Связанные документы {#1-1-4-2}
