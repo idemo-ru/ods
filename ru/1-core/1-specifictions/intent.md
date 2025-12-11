@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent - Намерение
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T08:49:35.540Z
+date: 2025-12-11T08:50:27.900Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T08:44:29.609Z
@@ -54,9 +54,8 @@ dateCreated: 2025-12-11T08:44:29.609Z
 - Вычисление обратимо-детерминированное - можно воспроизвести в контексте (при условии доступа к контексту в котором намерение выполнено изначально)
 
 ## 1.1.5.8. Заключение {#1-2-5-8}
-
 Intent — не программа, не запрос, не данные и не код.  
-Это квант вычислительного смысла и единственная стабильная сущность в системах IDEMO.
+Это квант вычислительного смысла в топологической цепочке LC-6, CF-6, CO.
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/__slug__.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/__slug__.md
