@@ -2,7 +2,7 @@
 title: 1.5.3. Принцип ~ Стохастический источник радикального новаторства
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T22:03:31.122Z
+date: 2025-12-11T22:04:01.231Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T22:01:37.800Z
