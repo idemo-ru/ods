@@ -2,7 +2,7 @@
 title: 1.1.4. Спецификация ~ ChangeOperators
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T22:27:25.078Z
+date: 2025-12-11T22:28:27.129Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T07:45:34.615Z
@@ -64,7 +64,7 @@ dateCreated: 2025-12-10T07:45:34.615Z
 
 | Фаза        | Обязательные ChangeOperators                     |
 |-------------|------------------------------------------------|
-| collectData | Сенсорные / наблюдательные                     |
+| collect.    | Сенсорные / наблюдательные                     |
 | analyze     | Логические, модельные, семантические           |
 | forecast    | Математические, вероятностные                  |
 | decide      | Разрешение неопределённости                    |
