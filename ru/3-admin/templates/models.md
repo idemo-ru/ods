@@ -2,7 +2,7 @@
 title: 2.2.__id__. Модель ~ __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T18:58:51.969Z
+date: 2025-12-11T19:04:29.299Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:58:51.969Z
@@ -46,5 +46,5 @@ __anchor__ - якорь внутри документа. Как правило �
 Следствия, примечания, другая резюмирующая информация.
 ```
 
-> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/6-consequences/__slug__.md
-> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/6-consequences/__slug__.md
+> **Онлайн-версия:** https://ods.idemo.ru/ru/2-applied/2-models/__slug__.md
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/2-applied/2-models/__slug__.md
