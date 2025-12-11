@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6 
 description: ODS ~ LifeCycle-6. Универсальная онтология полного цикла существования любой системы
 published: true
-date: 2025-12-11T08:57:03.240Z
+date: 2025-12-11T09:01:02.637Z
 tags: core
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -18,7 +18,7 @@ dateCreated: 2025-12-07T06:58:52.045Z
 > *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
-[test](#1-1-1-4)
+[test](#h-1-1-1-4)
 
 ## 1.1.1.2. Связанные документы {#1-1-1-2}
 ### 1.1.1.2.1. Исходящие *(ссылается этот документ)*
