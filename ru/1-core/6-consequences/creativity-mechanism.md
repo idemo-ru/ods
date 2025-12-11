@@ -2,7 +2,7 @@
 title: 1.6.1. Следствие ~ Механизм креативности и инноваций
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T20:52:22.537Z
+date: 2025-12-11T20:53:41.849Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:35:25.058Z
@@ -29,9 +29,7 @@ dateCreated: 2025-12-11T18:35:25.058Z
 ## 1.6.1.3. Формулировка следствия {#1-6-1-3}
 Креативность любой системы в момент t полностью описывается формулой:
 
-$Креативность_t = (\Delta Viewpoint_t) \cdot Стохастичность_t \cdot Качество\_TIL_t$
-
-$$Creativity_t = (\Delta Viewpoint_t) \cdot Sto_t \cdot Quantity\_TIL_t$$
+$$C_t = \Delta V_t \cdot S_t \cdot Q_t$$
 
 Где:
 - ΔViewpointₜ > 0 только при рождении дочерней системы или внешнем вмешательстве родителя
