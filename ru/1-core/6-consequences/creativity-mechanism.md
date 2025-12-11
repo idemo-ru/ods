@@ -2,7 +2,7 @@
 title: 1.6.1. Следствие ~ Механизм креативности и инноваций
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T20:56:29.755Z
+date: 2025-12-11T20:57:38.637Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:35:25.058Z
@@ -11,10 +11,10 @@ dateCreated: 2025-12-11T18:35:25.058Z
 ## 1.6.1.1. Основное {#1-6-1-1}
 Документ устанавливает, что единственный источник радикальной креативности и всех прорывных инноваций — стохастическое изменение Viewpoint, открывающее доступ к ранее недоступным вечным ChangeOperators.
 
-> *Версия: doc.1.1.__id__.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Версия: doc.1.6.1.v.0.1.2.0 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
-> *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
+> *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #1<br  class="hidden-wiki"/>
 > *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
