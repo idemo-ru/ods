@@ -1,8 +1,8 @@
 ---
-title: 1.5.1. Принцип ~ Эмергентной Иерархии и Метауровней
+title: 1.5.1. Принцип ~ Эмерджентной Иерархии и Метауровней
 description: IDEMO ~ Ontology of Dynamic Systems. 
 published: true
-date: 2025-12-11T11:50:51.987Z
+date: 2025-12-11T11:51:09.751Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T10:56:33.536Z
