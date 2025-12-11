@@ -2,7 +2,7 @@
 title: 1.1.4. Спецификация ~ ChangeOperators
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T22:32:14.665Z
+date: 2025-12-11T22:33:54.159Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T07:45:34.615Z
