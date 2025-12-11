@@ -2,7 +2,7 @@
 title: 1.5.1. Принцип ~ Эмергентной Иерархии и Метауровней
 description: IDEMO ~ Ontology of Dynamic Systems. 
 published: true
-date: 2025-12-11T11:01:41.791Z
+date: 2025-12-11T11:02:04.336Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T10:56:33.536Z
@@ -22,7 +22,7 @@ dateCreated: 2025-12-11T10:56:33.536Z
 ## 1.5.1.2. Связанные документы {#1-5-1-2}
 
 ### 1.5.1.2.1. Исходящие
-- [1.1.1. Спецификация ~ LifeCycle-6 # Постулат фазовой полноты](/ru/1-core/1-specifictions/life-cycle-6.md#phase-fullness)
+- [1.1.1. Спецификация ~ LifeCycle-6](/ru/1-core/1-specifictions/life-cycle-6.md)
 - [2.1.1. Постулат ~ Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism)
 
 ### 1.5.1.2.2. Входящие
