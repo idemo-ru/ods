@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent - Намерение
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T08:50:27.900Z
+date: 2025-12-11T08:51:07.839Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T08:44:29.609Z
