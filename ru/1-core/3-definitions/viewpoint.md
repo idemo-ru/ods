@@ -2,7 +2,7 @@
 title: 1.3.2. Определение  ~  Viewpoint
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T17:18:59.491Z
+date: 2025-12-11T17:22:06.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T17:18:59.491Z
@@ -20,11 +20,10 @@ dateCreated: 2025-12-11T17:18:59.491Z
 
 ## 1.3.__id__.2. Связанные документы {#1-3-__id__-2}
 ### 1.3.__id__.2.1. Исходящие *(ссылается этот документ)*
-- [__numbers_path__ __form_name__~__title__](__link__.md)
-- [__numbers_path__ __form_name__~__title__](__link__.md#__anchor__)
+- [1.1.4 Спецификация ~ ChangeOperators](/ru/1-core/1-specifications/change-operators.md)
+- [сделать ссылку на субзективность](/ru/1-core/4-consequences/creativity.md)
 ### 1.3.__id__.2.2. Входящие *(ссылаются на этот документ)*
-- [__numbers_path__ __form_name__~__title__](__link__.md)
-- [__numbers_path__ __form_name__~__title__](__link__.md#__anchor__)
+- *(пока нет)*
 ```
 Структура ссылок:
 __numbers_path__ - чмсловой путь по сквозной нумерации разделов и документов. Например 1.1.1
