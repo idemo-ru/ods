@@ -2,7 +2,7 @@
 title: 1.1.4. Спецификация ~ ChangeOperators
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T22:33:54.159Z
+date: 2025-12-11T22:34:43.089Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T07:45:34.615Z
@@ -20,13 +20,13 @@ dateCreated: 2025-12-10T07:45:34.615Z
 
 ## 1.1.4.2. Связанные документы {#1-1-4-2}
 ### 1.1.4.2.1. Исходящие
-- [1.2.1 Постулат~Первичность ChangeOperators](/ru/1-core/2-postulates/primacy-of-operators.md)
-- [1.3.1 Определение~Viewpoint](/ru/1-core/3-definitions/viewpoint.md)
-- [1.3.2 Определение~TIL](/ru/1-core/3-definitions/til.md)
-- [1.3.3 Определение~OperatorsLifeCycle](/ru/1-core/3-definitions/operators-lifecycle.md)
-- [1.4.1 Следствие~Механизм креативности и инноваций](/ru/1-core/5-consequences/creativity-mechanism.md)
-- [1.5.2 Принцип~Стохастический источник радикального новаторства](/ru/1-core/5-principles/stochasticity-principle.md)
-- [1.6.1 Ограничение~Невозможность создания новых ChangeOperators](/ru/1-core/7-limitations/no-new-operators.md)
+- [1.2.1 Постулат ~ Первичность ChangeOperators](/ru/1-core/2-postulates/primacy-of-operators.md)
+- [1.3.1 Определение ~ Viewpoint](/ru/1-core/3-definitions/viewpoint.md)
+- [1.3.2 Определение ~ TIL](/ru/1-core/3-definitions/til.md)
+- [1.3.3 Определение ~ OperatorsLifeCycle](/ru/1-core/3-definitions/operators-lifecycle.md)
+- [1.4.1 Следствие ~ Механизм креативности и инноваций](/ru/1-core/5-consequences/creativity-mechanism.md)
+- [1.5.2 Принцип ~ Стохастический источник радикального новаторства](/ru/1-core/5-principles/stochasticity-principle.md)
+- [1.6.1 Ограничение ~ Невозможность создания новых ChangeOperators](/ru/1-core/7-limitations/no-new-operators.md)
 
 ### 1.1.4.2.2. Входящие
 - (пока нет)
