@@ -2,7 +2,7 @@
 title: 1.3.1. Определение ~ Cубъективность как функциональное различие траекторий в ChangeFlow1
 description: 
 published: true
-date: 2025-12-11T20:06:10.595Z
+date: 2025-12-11T20:06:44.343Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T16:56:27.615Z
@@ -37,6 +37,7 @@ dateCreated: 2025-12-07T16:56:27.615Z
 
 Формула:
 $$S = f\left(\sum_i W_i \cdot R_i^{(c)} \cdot \frac{D(T_{A,i}, T_{B,i})}{Q_{A,i} \cdot Q_{B,i}}\right)$$
+<br/>
 
 > Сравнение возможно не только между двумя реальными системами $(A↔B)$, но и с эталонной системой Ref $(A↔Ref)$.  
 > Эталон может быть:
