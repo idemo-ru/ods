@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent - Намерение
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T08:46:04.915Z
+date: 2025-12-11T08:46:37.161Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T08:44:29.609Z
@@ -23,6 +23,7 @@ dateCreated: 2025-12-11T08:44:29.609Z
 ### 1.3.5.2.1. Исходящие
 - [life-cycle-6](/ru/1-core/1-specifictions/life-cycle-6)
 - [change-flow-6](/ru/1-core/1-specifictions/change-flow-6)
+- [change-operators](/ru/1-core/1-specifictions/change-operators)
 
 ### 1.3.5.2.2. Входящие
 — (пока отсутствуют)
@@ -36,7 +37,7 @@ dateCreated: 2025-12-11T08:44:29.609Z
 
 ## 1.1.5.5. Каноническое определение {#1-2-5-5}
 **Intent** — формализованное намерение системы, задающее, что должно произойти на уровне смысла, без указания способа реализации.  
-Реализация является полностью производной и динамически порождается через Change Operators.
+Реализация является полностью производной и динамически порождается через ChangeOperators.
 
 ## 1.1.5.6. Свойства Intent {#1-2-5-6}
 
