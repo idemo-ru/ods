@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-10T22:27:55.202Z
+date: 2025-12-11T06:20:27.207Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -236,7 +236,7 @@ $flow_name(
 )
 ```
 ## tmp.1.1.6.11. Примеры структурных интентов. {#tmp-1-1-6-11}
-```yaml
+```php
 # Внешний функциональный именованный интент
 
 # Обявление runtime
@@ -265,18 +265,21 @@ $(
       error: 'Ошибка'
   )
   @(kafka)
-  => ?(
+  => ?(																					#collect
   	arr.buyer::(/(users.id == 123)!)
     arr.manager::(/(users.id == 124)!)
-  ) 	//collect
-  => ??()					//analyze	
-  =>	any logic					//forecast	
-  => any logic					//decide	
-	=> > result::get_user		//implement
+  ) 	
+  => ??(false)																	#analyze	
+  => ~(false)																		#forecast	
+  => ^(false)																		#decide	
+	=> >(result::get_user													#implement
 					->set_user;
-			_state.result as result #Запись в состояние системы
-  => evaluate
-  	/result == +1 > kafka.topic = local.mess.success, kafka.topic = local.mess.error;
+			_state.result as result 									#Запись в состояние системы
+  )
+  => _(
+  	kafka.topic = /(result == +1 : local.mess.success | local.mess.error);
+    _state = arr
+  )
 )  		
 ```
 
