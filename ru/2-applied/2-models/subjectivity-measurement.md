@@ -2,7 +2,7 @@
 title: 2.2.1. Модель ~ Измерение и вычисление субъективности
 description: 
 published: true
-date: 2025-12-11T19:44:06.080Z
+date: 2025-12-11T21:19:19.551Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:05:45.124Z
@@ -11,7 +11,7 @@ dateCreated: 2025-12-07T17:05:45.124Z
 ## 2.2.1.1. Основное {#2-2-1-1}
 Документ описывает детальную прикладную модель расчёта субъективности.
 
-> *Версия: doc.2.2.2.v.0.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Версия: doc.2.2.2.v.0.1.1.1 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
 > *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
 > *Текущий ChangeFlow:* #1<br  class="hidden-wiki"/>
