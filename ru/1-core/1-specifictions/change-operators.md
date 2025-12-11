@@ -2,7 +2,7 @@
 title: 1.1.4. Спецификация ~ ChangeOperators
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T18:16:08.654Z
+date: 2025-12-11T18:18:01.689Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T07:45:34.615Z
@@ -22,6 +22,7 @@ dateCreated: 2025-12-10T07:45:34.615Z
 ### 1.1.4.2.1. Исходящие
 - [1.1.1 Постулат ~ Онтология ChangeFlow](/ru/1-core/1-specifictions/change-flow.md)
 - [1.2.1 Определение ~ Viewpoint](/ru/1-core/2-definitions/viewpoint.md)
+- [1.3.3. Определение  ~  TIL](/ru/1-core/3-definitions/til)
 - [1.3.4. Определение  ~  OperatorsLifeCycle](/ru/1-core/3-definitions/operators-lifecycle)
 
 ### 1.1.4.2.2. Входящие
