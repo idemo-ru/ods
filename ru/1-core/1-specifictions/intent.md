@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent - Намерение
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T08:51:25.757Z
+date: 2025-12-11T08:53:17.996Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T08:44:29.609Z
@@ -11,11 +11,11 @@ dateCreated: 2025-12-11T08:44:29.609Z
 ## 1.1.5.1. Основное {#1-2-5-1}
 Документ описывает __одно_короткое_предложение__суть_спецификации__
 
-> *Версия: doc.1.1.__id__.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Версия: doc.1.1.5.v.0.1.2.1 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
-> *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
-> *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
+> *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #2<br  class="hidden-wiki"/>
+> *Фаза:*  ~~collect~~ → `analyze` → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
 ## 1.3.5.2. Связанные документы {#1-3-5-2}
