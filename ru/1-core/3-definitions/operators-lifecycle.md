@@ -2,7 +2,7 @@
 title: 1.3.4. Определение  ~  OperatorsLifeCycle
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T18:18:47.064Z
+date: 2025-12-11T18:29:40.722Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:09:12.373Z
