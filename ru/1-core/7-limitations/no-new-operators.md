@@ -2,7 +2,7 @@
 title: 1.7.1. Ограничение ~ Невозможность создания новых ChangeOperators
 description: ODS ~ LifeCycle-6. __description__
 published: true
-date: 2025-12-11T22:22:26.824Z
+date: 2025-12-11T22:23:34.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T22:22:26.824Z
@@ -44,7 +44,7 @@ dateCreated: 2025-12-11T22:22:26.824Z
 таких что S может породить C₀, уничтожить существующий C или изменить его свойства.
 
 Формально:  
-∀S ∀t : CreatedOperators(S, t) = ∅ ∧ ModifiedOperators(S, t) = ∅ ∧ DeletedOperators(S, t) = ∅
+$$∀S ∀t : CreatedOperators(S, t) = ∅ ∧ ModifiedOperators(S, t) = ∅ ∧ DeletedOperators(S, t) = ∅$$
 
 ## 1.7.1.6. Допустимые и запрещённые действия (таблица) {#1-7-1-6}
 | Действие                                      | Статус      | Комментарий                                                    |
