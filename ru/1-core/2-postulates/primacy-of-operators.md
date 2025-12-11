@@ -2,7 +2,7 @@
 title: 1.2.3. Постулат  ~  Первичность ChangeOperators
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T20:41:29.449Z
+date: 2025-12-11T20:42:17.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T20:41:29.449Z
@@ -11,7 +11,7 @@ dateCreated: 2025-12-11T20:41:29.449Z
 ## 1.2.3.1. Основное {#1-2-3-1}
 Документ постулирует первичностьСрфтпуЩзукфещкы
 
-> *Версия: doc.1.2.3.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Версия: doc.1.2.3.v.2.2.8.5 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:* ~~Draft~~ → ~~Candidate~~ → `Stable` → Canonical<br class="hidden-wiki"/>
 > *Фаза:*. ~~Birth~~ → ~~Develop~~ → `Climax` → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
 > *Текущий ChangeFlow:* #8<br  class="hidden-wiki"/>
