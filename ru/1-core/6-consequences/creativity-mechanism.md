@@ -1,0 +1,53 @@
+---
+title: 1.6.1. Следствие ~ Механизм креативности и инноваций
+description: IDEMO ~ Ontology of Dynamic Systems. __description__
+published: true
+date: 2025-12-11T18:35:25.058Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-11T18:35:25.058Z
+---
+
+## 1.6.1.1. Основное {#1-6-1-1}
+Документ устанавливает, что единственный источник радикальной креативности и всех прорывных инноваций — стохастическое изменение Viewpoint, открывающее доступ к ранее недоступным вечным ChangeOperators.
+
+> *Версия: doc.1.1.__id__.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
+> *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
+> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
+
+## 1.6.__id__.2. Связанные документы {#1-6-__id__-2}
+### 1.6.__id__.2.1. Исходящие *(ссылается этот документ)*
+- [1.3.1 Определение ~ Viewpoint](/ru/1-core/3-definitions/viewpoint.md)
+- [1.3.2 Определение ~ TIL](/ru/1-core/3-definitions/til.md)
+- [1.1.4 Спецификация ~ ChangeOperators](/ru/1-core/1-specifications/change-operators.md)
+### 1.6.__id__.2.2. Входящие *(ссылаются на этот документ)*
+- (пока нет)
+```
+Структура ссылок:
+__numbers_path__ - чмсловой путь по сквозной нумерации разделов и документов. Например 1.1.1
+__form_name__ - имя формы документа. Например Постулат, Скецификация, Определение и так далее
+__title__ - Имя документа.
+__link__ - полная относительная ссылка на документ
+__anchor__ - якорь внутри документа. Как правило указан в заголовке второго уровня (##) по наблону __numbers_path__ где точки заменены на дефисы.
+```
+
+## 1.6.__id__.3. Формулировка следствия {#1-6-__id__-3}
+```
+Точная формулировка.
+```
+
+## 1.6.__id__.4. Примеры и иллюстрации {#1-6-__id__-4}
+```
+.
+```
+
+## 1.6.__id__.__n__. Заключение {#1-6-__id__-__n__}
+```
+Следствия, примечания, другая резюмирующая информация.
+```
+
+> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/6-consequences/__slug__.md
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/6-consequences/__slug__.md
