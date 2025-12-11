@@ -1,8 +1,8 @@
 ---
-title: Принцип функциональной антропоморфной метафорики (PFAM)
+title: 1.5.1. Принцип ~ Функциональной антропоморфной метафорики (PFAM)
 description: 
 published: true
-date: 2025-12-07T16:55:15.878Z
+date: 2025-12-11T21:49:59.296Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T16:55:15.878Z
