@@ -2,7 +2,7 @@
 title: 1.1.5. Спецификация ~ Intent - Намерение
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T08:51:07.839Z
+date: 2025-12-11T08:51:25.757Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T08:44:29.609Z
@@ -57,5 +57,5 @@ dateCreated: 2025-12-11T08:44:29.609Z
 Intent — не программа, не запрос, не данные и не код.  
 Это квант вычислительного смысла в топологической цепочке LC-6, CF-6, CO.
 
-> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/__slug__.md
-> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/__slug__.md
+> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent.md
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent.md
