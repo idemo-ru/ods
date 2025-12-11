@@ -2,7 +2,7 @@
 title: 1.3.1. Определение ~ Cубъективность как функциональное различие траекторий в ChangeFlow1
 description: 
 published: true
-date: 2025-12-11T19:50:44.772Z
+date: 2025-12-11T19:52:45.392Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T16:56:27.615Z
@@ -17,6 +17,13 @@ dateCreated: 2025-12-07T16:56:27.615Z
 > *Текущий ChamgeFlow:*. #22<br  class="hidden-wiki"/>
 > *Фаза:*  ~~collect~~ → `analyze` → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
+
+## 1.3.1.2. Связанные документы {#1-3-1-2}
+### 1.3.1.2.1. Исходящие *(ссылается этот документ)*
+- [change-operators](/ru/1-core/1-specifictions/change-operators.md)
+- контекст
+### 1.3.1.2.2. Входящие *(ссылаются на этот документ)*
+- (пока нет)
 
 Субъективность — строго функциональное свойство любой системы (биологической, технической, социальной, алгоритмической), определяемое мерой различия доступных ей ChangeOperators и иерархией контекстов их применения.
 
