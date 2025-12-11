@@ -2,7 +2,7 @@
 title: 1.3.4. Определение  ~  OperatorsLifeCycle
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T18:13:02.637Z
+date: 2025-12-11T18:15:11.180Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:09:12.373Z
@@ -23,7 +23,7 @@ dateCreated: 2025-12-11T18:09:12.373Z
 - [1.1.4 Спецификация ~ ChangeOperators](/ru/1-core/1-specifications/change-operators.md)
 - [1.3.2 Определение ~ TIL](/ru/1-core/3-definitions/til.md)
 ### 1.3.4.2.2. Входящие *(ссылаются на этот документ)*
-- (пока нет)
+- [1.1.4. Спецификация ~ ChangeOperators](/ru/1-core/1-specifictions/change-operators)
 
 ## 1.3.4.3. Термин и формулировка {#1-3-4-3}
 **OperatorsLifeCycle** — строго детерминированный жизненный цикл отдельно взятой реализации (TIL) одного вечного ChangeOperator от момента первого появления до полного исчезновения или трансформации в новую TIL того же оператора.
