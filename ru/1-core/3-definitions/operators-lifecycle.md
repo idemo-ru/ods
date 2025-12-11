@@ -2,7 +2,7 @@
 title: 1.3.4. Определение  ~  OperatorsLifeCycle
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T18:09:12.373Z
+date: 2025-12-11T18:10:01.029Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:09:12.373Z
@@ -20,19 +20,10 @@ dateCreated: 2025-12-11T18:09:12.373Z
 
 ## 1.3.4.2. Связанные документы {#1-3-4-2}
 ### 1.3.4.2.1. Исходящие *(ссылается этот документ)*
-- [__numbers_path__ __form_name__~__title__](__link__.md)
-- [__numbers_path__ __form_name__~__title__](__link__.md#__anchor__)
+- [1.1.4 Спецификация ~ ChangeOperators](/ru/1-core/1-specifications/change-operators.md)
+- [1.3.2 Определение ~ TIL](/ru/1-core/3-definitions/til.md)
 ### 1.3.4.2.2. Входящие *(ссылаются на этот документ)*
-- [__numbers_path__ __form_name__~__title__](__link__.md)
-- [__numbers_path__ __form_name__~__title__](__link__.md#__anchor__)
-```
-Структура ссылок:
-__numbers_path__ - чмсловой путь по сквозной нумерации разделов и документов. Например 1.1.1
-__form_name__ - имя формы документа. Например Постулат, Скецификация, Определение и так далее
-__title__ - Имя документа.
-__link__ - полная относительная ссылка на документ
-__anchor__ - якорь внутри документа. Как правило указан в заголовке второго уровня (##) по наблону __numbers_path__ где точки заменены на дефисы.
-```
+- (пока нет)
 
 ## 1.3.__id__.3. Термин и формулировка {#1-3-__id__-3}
 ```
