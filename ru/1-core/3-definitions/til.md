@@ -2,7 +2,7 @@
 title: 1.3.3. Определение  ~  TIL
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T18:01:51.087Z
+date: 2025-12-11T18:02:34.749Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:01:51.087Z
@@ -20,19 +20,10 @@ dateCreated: 2025-12-11T18:01:51.087Z
 
 ## 1.3.3.2. Связанные документы {#1-3-3-2}
 ### 1.3.3.2.1. Исходящие *(ссылается этот документ)*
-- [__numbers_path__ __form_name__~__title__](__link__.md)
-- [__numbers_path__ __form_name__~__title__](__link__.md#__anchor__)
+- [1.1.4 Спецификация~ChangeOperators](/ru/1-core/1-specifications/change-operators.md)
+- [1.3.1 Определение~Viewpoint](/ru/1-core/3-definitions/viewpoint.md)
 ### 1.3.3.2.2. Входящие *(ссылаются на этот документ)*
-- [__numbers_path__ __form_name__~__title__](__link__.md)
-- [__numbers_path__ __form_name__~__title__](__link__.md#__anchor__)
-```
-Структура ссылок:
-__numbers_path__ - чмсловой путь по сквозной нумерации разделов и документов. Например 1.1.1
-__form_name__ - имя формы документа. Например Постулат, Скецификация, Определение и так далее
-__title__ - Имя документа.
-__link__ - полная относительная ссылка на документ
-__anchor__ - якорь внутри документа. Как правило указан в заголовке второго уровня (##) по наблону __numbers_path__ где точки заменены на дефисы.
-```
+- (пока нет — документ базовый)
 
 ## 1.3.3.3. Термин и формулировка {#1-3-3-3}
 ```
