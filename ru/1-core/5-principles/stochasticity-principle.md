@@ -2,7 +2,7 @@
 title: 1.5.3. Принцип ~ Стохастический источник радикального новаторства
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T22:01:37.800Z
+date: 2025-12-11T22:03:31.122Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T22:01:37.800Z
@@ -11,11 +11,11 @@ dateCreated: 2025-12-11T22:01:37.800Z
 ## 1.5.3.1. Основное {#1-5-3-1}
 Документ описывает принцип: единственный источник радикально новых решений в любой системе — стохастическая вариация Viewpoint, открывающая доступ к ранее недоступным вечным ChangeOperators.
 
-> *Версия: doc.1.1.__id__.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
-> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
-> *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
-> *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
+> *Версия: doc.1.5.3.v.3.2.9.5 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* ~~Draft~~ → ~~Candidate~~ → ~~Stable~~ → `Canonical`<br class="hidden-wiki"/>
+> *Фаза:*. ~~Birth~~ → ~~Develop~~ → `Climax` → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #9<br  class="hidden-wiki"/>
+> *Фаза:*  ~~collect~~ → ~~analyze~~ → ~~forecast~~ → ~~decide~~ → ~~implement~~ → `evaluate`<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
 ## 1.5.3.2. Связанные документы {#1-5-3-2}
