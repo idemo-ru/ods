@@ -2,7 +2,7 @@
 title: 1.1.4. Спецификация ~ ChangeOperators
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T17:01:48.083Z
+date: 2025-12-11T17:14:23.096Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T07:45:34.615Z
@@ -137,3 +137,6 @@ Viewpoint_Stochasticity × TIL_Throughput × Operator_Coverage
 
 ## 1.1.4.11. Заключение {#1-1-4-11}
 ChangeOperators — первичная онтология изменения. Все системы вторичны и существуют лишь постольку, поскольку подключаются к вечным ChangeOperators через Viewpoint и TIL. Креативность = стохастическое заимствование + комбинирование вечных операторов.
+
+> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/change-operators.md
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/change-operators.md
