@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T03:13:27.452Z
+date: 2025-12-12T03:16:15.538Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
@@ -12,35 +12,27 @@ dateCreated: 2025-12-12T03:10:49.249Z
 Документ формализует правило:  
 **«Объект X классифицируется как дочерняя система (LifeCycle), только если он одновременно сохраняет собственную инвариантность состояния, имеет независимое от родителя рождение/смерть и содержит хотя бы один недетерминированный ChangeFlow с операцией decide().»**
 
-> *Версия: doc.2.3.1.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Версия: doc.2.3.1.v.0.1.9.1 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
-> *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
-> *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
-> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
-
-> *Версия: doc.2.3.1.v.0.1.0.1 ∙ декабрь 2025*  
-> *Текущий LifeCycle:* `Draft`  
-> *Фаза:* `Birth`  
-> *Текущий ChangeFlow:* #1  
-> *Фаза:* `collect`  
+> *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #9<br  class="hidden-wiki"/>
+> *Фаза:*  ~~collect~~ → `analyze` → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
 ## 2.3.1.2. Связанные документы {#2-3-1-2}
-
 ### 2.3.1.2.1. Исходящие (это правило ссылается на…)
-- [1.3.0.1 Определение~Система](0-system.md)
-- [1.1.02 Спецификация~ROS](1-1-02-ros.md)
-- [1.1.03 Спецификация~SEC/OC](1-1-03-sec-oc.md)
+- [1.3.0 Определение ~ Система](0-system.md)
+- [1.1.02 Спецификация ~ ROS](1-1-02-ros.md)
+- [1.1.03 Спецификация ~ SEC/OC](1-1-03-sec-oc.md)
 
 ### 2.3.1.2.2. Входящие (ссылаются на это правило)
-- [1.1.02 Спецификация~ROS](1-1-02-ros.md#rlc-cc)
-- [1.1.03 Спецификация~SEC/OC](1-1-03-sec-oc.md#rlc-cc)
+- [1.1.02 Спецификация ~ ROS](1-1-02-ros.md#rlc-cc)
+- [1.1.03 Спецификация ~ SEC/OC](1-1-03-sec-oc.md#rlc-cc)
 
 ## 2.3.1.3. Термины и определения {#2-3-1-3}
 LifeCycle — сущность, обладающая собственным жизненным циклом: рождением, фазами функционирования и смертью/трансформацией.
 
-ChangeFlow — процесс изменения состояния, не обладающий собственным LifeCycle; поток преобразований внутри системы.
+ChangeFlow — процесс изменения состояния, поток преобразований внутри системы.
 
 StateInvariant(X) — множество свойств X, сохраняемых в пределах его LifeCycle.
 
