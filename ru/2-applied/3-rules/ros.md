@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T03:10:49.249Z
+date: 2025-12-12T03:13:27.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
@@ -12,11 +12,11 @@ dateCreated: 2025-12-12T03:10:49.249Z
 Документ формализует правило:  
 **«Объект X классифицируется как дочерняя система (LifeCycle), только если он одновременно сохраняет собственную инвариантность состояния, имеет независимое от родителя рождение/смерть и содержит хотя бы один недетерминированный ChangeFlow с операцией decide().»**
 
-> *Версия: doc.2.3.1.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*  
-> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical  
-> *Фаза:* `Birth` → Develop → Climax → Degrade → Turn → End ( death | transform )  
-> *Текущий ChangeFlow:* #__index__  
-> *Фаза:* `collect` → analyze → forecast → decide → implement → evaluate  
+> *Версия: doc.2.3.1.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
+> *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
 > *Версия: doc.2.3.1.v.0.1.0.1 ∙ декабрь 2025*  
