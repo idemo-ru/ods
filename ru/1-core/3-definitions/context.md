@@ -2,7 +2,7 @@
 title: 1.3.1. Определение  ~  Контекст
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T00:57:16.029Z
+date: 2025-12-12T00:57:37.464Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T00:51:14.671Z
@@ -11,8 +11,8 @@ dateCreated: 2025-12-12T00:51:14.671Z
 ## 1.3.1.1. Основное {#1-3-1-1}
 Документ даёт окончательное, каноническое определение Контекста и Мультиконтекстности — базовых понятий всей ODS.
 
-> *Версия: doc.1.3.1.v.3.2.97.5 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
-> *Текущий LifeCycle:* ~~Draft~~ → ~~Candidate~~ → ~~Stable~~ → `Canonical`<br class="hidden-wiki"/>
+> *Версия: doc.1.3.1.v.2.2.97.5 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* ~~Draft~~ → ~~Candidate~~ → `Stable` → Canonical<br class="hidden-wiki"/>
 > *Фаза:*. ~~Birth~~ → ~~Develop~~ → `Climax` → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
 > *Текущий ChangeFlow:* #97<br  class="hidden-wiki"/>
 > *Фаза:*  ~~collect~~ → ~~analyze~~ → ~~forecast~~ → ~~decide~~ → ~~implement~~ → `evaluate`<br/><br class="hidden-wiki"/>
