@@ -1,8 +1,8 @@
 ---
-title: 1.2.0. Постулат  ~  Intent как атомарная единица смысла
+title: 1.2.1. Постулат  ~  Intent как атомарная единица смысла
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T01:57:49.674Z
+date: 2025-12-12T02:14:39.434Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T01:53:07.161Z
