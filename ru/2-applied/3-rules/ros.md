@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T04:05:26.852Z
+date: 2025-12-12T04:06:26.584Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
@@ -98,15 +98,18 @@ dateCreated: 2025-12-12T03:10:49.249Z
 × Любой из трёх критериев отсутствует.
 
 ## 2.3.1.10. Механика исполнения {#2-3-1-10}
+
 1. Определить объект X и его родителя S.
 2. Проверить StateInvariant(X).
 3. Проверить IndependentBirthDeath(X,S).
 4. Выделить все ChangeFlow(X).
-5. Проверить наличие ChangeFlow с decide() и отсутствие полной детерминированности от S.
-6. Вынести классификацию:
-   - LifeCycle
-   - ChangeFlow
-7. Применить результат в ROS/SEC/OC.
+5. Классифицировать X:
+
+   - Если есть хотя бы один **недетерминированный ChangeFlow с `decide()`** → **DaughterLifeCycle(S)** (активная подсистема).  
+   - Если **ChangeFlow присутствует**, но **без `decide()`** → **NaturalLifeCycle(S)** (пассивная детерминированная система).  
+   - Если **нет собственного LifeCycle** → **ChangeFlow(S)** (детерминированный поток изменений).
+
+6. Применить результат в ROS/SEC/OC.
 
 ## 2.3.1.11. Последствия, санкции, отклики системы {#2-3-1-11}
 При соблюдении:
