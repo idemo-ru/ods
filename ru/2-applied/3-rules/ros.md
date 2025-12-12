@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T03:17:59.785Z
+date: 2025-12-12T03:19:28.583Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
@@ -24,25 +24,15 @@ dateCreated: 2025-12-12T03:10:49.249Z
 - [1.1.1. Спецификация ~ LifeCycle-6](/ru/1-core/1-specifictions/life-cycle-6.md)
 - [1.1.2. Спецификация ~ ChengFlow-6](/ru/1-core/1-specifictions/change-flow-6.md)
 - [1.3.0 Определение ~ Система](0-system.md)
-- [1.1.02 Спецификация ~ ROS](1-1-02-ros.md)
-- [1.1.03 Спецификация ~ SEC/OC](1-1-03-sec-oc.md)
 
 ### 2.3.1.2.2. Входящие (ссылаются на это правило)
-- [1.1.02 Спецификация ~ ROS](1-1-02-ros.md#rlc-cc)
-- [1.1.03 Спецификация ~ SEC/OC](1-1-03-sec-oc.md#rlc-cc)
+- (пока нет)
 
 ## 2.3.1.3. Термины и определения {#2-3-1-3}
-LifeCycle — сущность, обладающая собственным жизненным циклом: рождением, фазами функционирования и смертью/трансформацией.
-
-ChangeFlow — процесс изменения состояния, поток преобразований внутри системы.
-
-StateInvariant(X) — множество свойств X, сохраняемых в пределах его LifeCycle.
-
-IndependentBirthDeath(X,S) — рождение и смерть X происходят не как функции внутренних фаз родителя S.
-
-decide() — недетерминированная операция выбора внутри ChangeFlow.
-
-DeterministicGivenParent(CF, S) — ChangeFlow CF полностью предсказуем из состояний родителя S.
+- StateInvariant(X) — множество свойств X, сохраняемых в пределах его LifeCycle.
+- IndependentBirthDeath(X,S) — рождение и смерть X происходят не как функции внутренних фаз родителя S.
+- decide() — недетерминированная операция выбора внутри ChangeFlow.
+- DeterministicGivenParent(CF, S) — ChangeFlow CF полностью предсказуем из состояний родителя S.
 
 ## 2.3.1.4. Область применения {#2-3-1-4}
 Правило применяется при:
