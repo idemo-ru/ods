@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T03:21:56.090Z
+date: 2025-12-12T03:22:19.993Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
@@ -90,7 +90,7 @@ dateCreated: 2025-12-12T03:10:49.249Z
 2. Проверить StateInvariant(X).
 3. Проверить IndependentBirthDeath(X,S).
 4. Выделить все ChangeFlow(X).
-5. Проверить наличие CF с decide() и отсутствие полной детерминированности от S.
+5. Проверить наличие ChangeFlow с decide() и отсутствие полной детерминированности от S.
 6. Вынести классификацию:
    - LifeCycle
    - ChangeFlow
