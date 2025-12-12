@@ -2,7 +2,7 @@
 title: 1.3.1. Определение  ~  Контекст
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T00:57:37.464Z
+date: 2025-12-12T00:58:40.846Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T00:51:14.671Z
@@ -81,7 +81,7 @@ $$C\text{-Layer}(Y) = \{C_1, C_2, \dots, C_n\},\ n \geq 2$$
 
 **Мультиконтекстность — не особенность сложных систем, а онтологическая необходимость любой актуально существующей системы**, потому что всегда существует открытая восходящая иерархия родительских систем (Принцип 1.5.1), каждый уровень которой добавляет свой слой контекста.
 
-Определение зафиксировано как **Canonical** и закрыто для изменений.
+Определение зафиксировано как **Stable**.
 
-> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/3-definitions/2-context.md  
-> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/3-definitions/2-context.md
+> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/3-definitions/context.md  
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/3-definitions/context.md
