@@ -2,7 +2,7 @@
 title: 1.3.__id__. Определение  ~  __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T17:15:40.886Z
+date: 2025-12-12T00:15:22.134Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T16:52:08.586Z
@@ -11,10 +11,10 @@ dateCreated: 2025-12-09T16:52:08.586Z
 ## 1.3.__id__.1. Основное {#1-3-__id__-1}
 Документ описывает __одно_короткое_предложение__ суть определения
 
-> *Версия: __doc_v_status_index_minor__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
-> *Текущий LifeCycle:*. `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. `Birth` → Develope → Climax → Degrade → Turn → End<br/><br class="hidden-wiki"/>
-> *Текущий ChamgeFlow:*. #13<br  class="hidden-wiki"/>
+> *Версия: doc.1.3.__id__.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
 > *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
