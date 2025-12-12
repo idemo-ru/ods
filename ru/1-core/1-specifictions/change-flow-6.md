@@ -2,7 +2,7 @@
 title: 1.1.2. Спецификация ~ ChengFlow-6
 description: 
 published: true
-date: 2025-12-08T12:23:57.595Z
+date: 2025-12-12T02:00:47.327Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T07:21:41.132Z
@@ -10,6 +10,11 @@ dateCreated: 2025-12-07T07:21:41.132Z
 
 
 **Универсальная онтология устойчивого целенаправленного изменения**  
+
+## 1.1.02.3. Термин и формулировка {#1-1-02-3}
+**ChangeFlow-6** ≝ строго упорядоченная последовательность шести фаз:  
+collect → analyze → forecast → decide → implement → evaluate  
+где каждая фаза выражается композицией Primitive Intent’ов, а весь цикл в чистом виде составляет один Composite Intent реализующий контракт фаз Changeflow.
 
 
 ## Постулат фазовой полноты (Теорема ChangeFlow-6)
