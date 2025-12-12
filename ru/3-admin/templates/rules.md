@@ -2,7 +2,7 @@
 title: 2.3.__id__. Правило ~ __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T02:58:46.554Z
+date: 2025-12-12T03:13:05.065Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T02:54:08.142Z
@@ -11,11 +11,11 @@ dateCreated: 2025-12-12T02:54:08.142Z
 ## 2.3.__id__.1. Основное {#2-3-__id__-1}
 Документ формализует правило в виде __одного_короткого_предложения__ определяющего обязательное поведение, ограничение или процедуру.
 
-> *Версия: doc.2.3.__id__.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*  
-> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical  
-> *Фаза:* `Birth` → Develop → Climax → Degrade → Turn → End ( death | transform )  
-> *Текущий ChangeFlow:* #__index__  
-> *Фаза:* `collect` → analyze → forecast → decide → implement → evaluate  
+> *Версия: doc.2.3.__id__.v.__lifecycle_index__.lifecycle_phase_index__.__changeflow_index__.__chengeflow_phase_index__ ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #__index__<br  class="hidden-wiki"/>
+> *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
 ## 2.3.__id__.2. Связанные документы {#2-3-__id__-2}
