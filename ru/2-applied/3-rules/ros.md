@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T03:30:06.696Z
+date: 2025-12-12T03:38:54.467Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
@@ -114,8 +114,8 @@ dateCreated: 2025-12-12T03:10:49.249Z
 ✓ Сотрудник корпорации — LifeCycle:
    независимое Birth/End (приём, увольнение).
 
-× АТФ в клетке — ChangeFlow:
-   не имеет собственного LifeCycle.
+✓ АТФ в клетке — LifeCycle:
+	короткий молекулярный цикл с появлением и исчезновением, независимый паттерн.
 
 × Float16-вес в LLM — ChangeFlow:
    полностью детерминирован родителем (тренером и моделью).
