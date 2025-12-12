@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T03:16:15.538Z
+date: 2025-12-12T03:17:59.785Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
@@ -21,6 +21,8 @@ dateCreated: 2025-12-12T03:10:49.249Z
 
 ## 2.3.1.2. Связанные документы {#2-3-1-2}
 ### 2.3.1.2.1. Исходящие (это правило ссылается на…)
+- [1.1.1. Спецификация ~ LifeCycle-6](/ru/1-core/1-specifictions/life-cycle-6.md)
+- [1.1.2. Спецификация ~ ChengFlow-6](/ru/1-core/1-specifictions/change-flow-6.md)
 - [1.3.0 Определение ~ Система](0-system.md)
 - [1.1.02 Спецификация ~ ROS](1-1-02-ros.md)
 - [1.1.03 Спецификация ~ SEC/OC](1-1-03-sec-oc.md)
