@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T04:01:12.216Z
+date: 2025-12-12T04:01:58.299Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
@@ -55,7 +55,7 @@ dateCreated: 2025-12-12T03:10:49.249Z
    - собственной инвариантностью состояния,
    - независимым рождением и смертью,
    - **но не имеет `decide()`**,  
-   то X классифицируется как **Natural LifeCycle(S)** (пассивная, детерминированная система).
+   то X классифицируется как **NaturalLifeCycle(S)** (пассивная, детерминированная система).
 
 3. В остальных случаях X классифицируется как **ChangeFlow(S)**:
    - полностью детерминированный поток изменений,
