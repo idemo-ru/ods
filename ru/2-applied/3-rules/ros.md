@@ -2,7 +2,7 @@
 title: 2.3.3. Правило ~ Остановки декомпозиции (ROS)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T04:50:15.541Z
+date: 2025-12-12T04:50:33.185Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T04:43:52.072Z
@@ -21,7 +21,7 @@ dateCreated: 2025-12-12T04:43:52.072Z
 ### 2.3.3.2.1. Исходящие
 - [1.1.1. Спецификация ~ LifeCycle-6](/ru/1-core/1-specifictions/life-cycle-6.md)
 - [1.1.2. Спецификация ~ ChengFlow-6](/ru/1-core/1-specifictions/change-flow-6.md)
-- [1.1.05 Спецификация ~ Intent](../1-core/1-specifictions/intent.md)
+- [1.1.5 Спецификация ~ Intent](../1-core/1-specifictions/intent.md)
 - [2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)](/ru/2-applied/3-rules/rlc_cc.md)
 
 
