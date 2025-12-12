@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T04:01:58.299Z
+date: 2025-12-12T04:05:26.852Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
@@ -91,7 +91,8 @@ dateCreated: 2025-12-12T03:10:49.249Z
 Критерии LifeCycle:
 ✓ Инвариантность состояния фиксируется и отслеживается.
 ✓ У объекта есть фаза Birth и фаза End, независимые от фаз родителя.
-✓ Найден ChangeFlow(X) с недетерминированной операцией decide().
+✓ Найден ChangeFlow(X) с недетерминированной операцией decide() → DaughterLifeCycle.
+✓ Найден ChangeFlow(X) без недетерминированной операции decide() → NaturalLifeCycle
 
 Нарушение:
 × Любой из трёх критериев отсутствует.
