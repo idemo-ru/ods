@@ -2,7 +2,7 @@
 title: 2.3.1. Правило ~ Различения LifeCycle и ChangeFlow (RLC/CC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T04:07:36.081Z
+date: 2025-12-12T04:08:50.336Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T03:10:49.249Z
