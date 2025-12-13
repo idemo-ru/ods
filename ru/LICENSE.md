@@ -2,7 +2,7 @@
 title: LICENSE
 description: 
 published: true
-date: 2025-12-13T22:38:10.065Z
+date: 2025-12-13T22:40:29.015Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T10:43:11.998Z
@@ -10,7 +10,7 @@ dateCreated: 2025-12-07T10:43:11.998Z
 
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-© 2025 Yakov Isakov
+© 2025 Yasha Okoneshnikov
 
 This work, including all documentation and ontological content in this repository,
 is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
