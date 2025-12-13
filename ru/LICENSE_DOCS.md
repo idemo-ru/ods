@@ -1,14 +1,14 @@
 ---
-title: LICENSE
+title: LICENSE_DOCS
 description: 
 published: true
-date: 2025-12-13T22:40:29.015Z
+date: 2025-12-13T22:42:28.026Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T10:43:11.998Z
 ---
 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+# Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 © 2025 Yasha Okoneshnikov
 
