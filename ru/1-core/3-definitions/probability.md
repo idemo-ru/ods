@@ -2,7 +2,7 @@
 title: 1.3.6. Определение  ~  Вероятность
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-14T12:10:26.478Z
+date: 2025-12-14T12:11:13.959Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T11:32:42.897Z
@@ -39,7 +39,6 @@ $
 \forall Y \in \text{Class 1-6}, \; 
 S = \text{current system state}, \; R = \text{available resources},
 $
-
 $
 \text{Probability}(S, R) : \text{decide} \;\; \mapsto \;\; X_i \sim P(X_i \mid S, R), 
 $
