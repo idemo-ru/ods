@@ -2,7 +2,7 @@
 title: 1.3.6. Определение  ~  Вероятность
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-14T12:06:08.170Z
+date: 2025-12-14T12:09:46.424Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T11:32:42.897Z
@@ -46,6 +46,23 @@ $
 \quad 
 P: \{X_1, \dots, X_n\} \to [0,1], \quad \sum_{i=1}^{n} P(X_i \mid S, R) = 1
 $
+
+Короткий вариант:
+
+$
+\text{Probability}(S,R) \in \text{EmbeddedChangeOperators}(Y, \text{ChangeFlow}(\text{decide})),
+$
+$\; 
+X_i \sim P(X_i \mid S,R), \; \sum_i P(X_i \mid S,R) = 1
+$
+
+Пояснения:
+$S$ — текущее состояние системы.
+$R$ — доступные ресурсы (ограничение инструментов).
+${X_i}$ — множество возможных действий/сценариев на фазе $decide()$.
+$P(X_i∣S,R)$ — распределение вероятностей выбора сценариев с учётом состояния и ресурсов.
+
+Встроенный оператор Probability выбирает сценарий согласно этому распределению, активируясь именно на фазе $decide()$.
 
 ## 1.3.6.4. Область применения {#1-3-6-4}
 - Применимо ко всем системам классов 1–6.  
