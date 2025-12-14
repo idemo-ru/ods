@@ -2,7 +2,7 @@
 title: 1.3.6. Определение  ~  Вероятность
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-14T12:11:13.959Z
+date: 2025-12-14T12:13:36.052Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T11:32:42.897Z
@@ -22,6 +22,7 @@ dateCreated: 2025-12-14T11:32:42.897Z
 ### 1.3.6.2.1. Исходящие *(ссылается этот документ)*
 - [1.1.4. Спецификация ~ ChangeOperators](/ru/1-core/1-specifictions/change-operators.md)
 - [1.1.2. Спецификация ~ ChengFlow-6](/ru/1-core/1-specifictions/change-flow-6.md)
+- [1.3.0. Определение ~ Система](/ru/1-core/3-definitions/0-system.md)
 ### 1.3.6.2.2. Входящие *(ссылаются на этот документ)*
 - (пока нет)
 
