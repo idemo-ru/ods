@@ -2,7 +2,7 @@
 title: 1.3.6. Определение  ~  Вероятность
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-14T11:34:01.998Z
+date: 2025-12-14T11:35:38.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T11:32:42.897Z
@@ -29,7 +29,7 @@ dateCreated: 2025-12-14T11:32:42.897Z
 Вероятность - обязательный Embedded ChangeOperator любой системы.
 
 ## 1.3.6.4. Область применения {#1-3-6-4}
-Любая система классов 1-6
+Любая система классов 1-6. В сдучае недоступности других ChangeOperators для фазы decide() ChangeFlow системы является оператором по умолчанию.
 
 ## 1.3.6.5. Классификация / Категория {#1-3-6-5}
 ```
