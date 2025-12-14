@@ -2,7 +2,7 @@
 title: 1.3.0. Определение  ~  Система
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-14T11:25:05.956Z
+date: 2025-12-14T11:25:25.245Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T00:22:16.120Z
@@ -72,7 +72,7 @@ System(Y) = A⟨ChangeOperators⟩ ( S-Layer, **LifeCycle ⊕ ChangeFlow** | C-L
 > Ключевые моменты:
 > - **Implement** всегда локален для любой системы — это физическая реализация изменений.
 > - **Decide** локально — ключевой критерий субъектности.
-> - **Детерминированная система** всегда объектная система.
+> - **Детерминированная система** — всегда объектная система.
 {.is-info}
 
 
