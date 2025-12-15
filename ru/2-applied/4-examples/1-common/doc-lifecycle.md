@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T16:37:11.472Z
+date: 2025-12-15T16:38:38.394Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -10,6 +10,13 @@ dateCreated: 2025-12-08T16:36:01.426Z
 
 ## 2.4.1.1.1. Основное {#2-4-1-1-1}
 Документ описывает применение IDEMO ~ ODS к конкпетному документу текущей документации и определяет все документы системами с LifeCycle-6 & ChangeFlow-6 & ChangeOperators & Intent, а так же демонстрирует самореферентность IDEMO ~ ODS.
+
+> *Версия: doc.v.1.2.3.3 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:*.  ~~Draft~~ → ~~Candidate~~ → `Stable` → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. ~~Birth~~ → ~~Develop~~ → `Climax` → Degrade → Turn → End<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #3<br  class="hidden-wiki"/>
+> *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate<br/><br class="hidden-wiki"/>
+> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа /ссылается сам на себя</small></a>
 
 - ODS - родительская система со своим LifeCycle
 - Документ - дочерняя система ODS со своим LifeCycle:
@@ -20,13 +27,6 @@ dateCreated: 2025-12-08T16:36:01.426Z
   
 - Цепочка последовательных ChangeFlow
   фазы: `collect → analyze → forecast → decide → implement → evaluate`
-
-> *Версия: doc.v.1.2.3.3 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
-> *Текущий LifeCycle:*.  ~~Draft~~ → ~~Candidate~~ → `Stable` → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. ~~Birth~~ → ~~Develop~~ → `Climax` → Degrade → Turn → End<br/><br class="hidden-wiki"/>
-> *Текущий ChangeFlow:* #3<br  class="hidden-wiki"/>
-> *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate<br/><br class="hidden-wiki"/>
-> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа /ссылается сам на себя</small></a>
 
 ## 2.4.1.1.2. Связанные документы {#2-4-1-1-2}
 ### 2.4.1.1.2.1. Исходящие *(ссылается этот документ)*
