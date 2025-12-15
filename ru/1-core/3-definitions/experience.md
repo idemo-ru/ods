@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T12:27:11.131Z
+date: 2025-12-15T12:27:52.941Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z
@@ -59,6 +59,23 @@ dateCreated: 2025-12-15T11:47:30.974Z
 ChangeFlow-6 фиксирует опыт в фазе evaluate: оценивает Result (+1/0/-1), обновляет Experience Graph причинными ассоциациями (Intent-Flow → Context → Operators → Result) и DegradeScore, оптимизируя будущие циклы.
 
 DegradeScore обновляется исключительно в evaluate ChangeFlow на основе опыта: +1 ассоциации снижают DS (рост устойчивости), 0/-1 сохраняют/повышают (деградация). Опыт косвенно управляет фазой LifeCycle через DS.
+
+DegradeScore начинается с 1.0 (birth).
+В evaluate каждого ChangeFlow:
+
++1 Result: ΔDS = -k (k > 0, доменно-зависимо; снижает DS).
+0 Result: ΔDS = 0.
+-1 Result: ΔDS = +k (повышает DS).
+
+Плюс постоянный дрейф +ε ≥ 0 в degrade-фазе.
+Пример (биология, k=0.05, ε=0.001/цикл):
+
+Birth: DS=1.0
+10 успешных (+1): DS=1.0 - 10×0.05 = 0.5
+5 неудачных (-1): DS=0.5 + 5×0.05 = 0.75
+100 циклов дрейфа: DS=0.75 + 100×0.001 = 0.85
+
+DS монотонно неубывает в одном воплощении.
 
 ## 1.3.7.6. Атрибуты / свойства {#1-3-7-6}
 
