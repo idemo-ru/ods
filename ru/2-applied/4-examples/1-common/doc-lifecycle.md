@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T16:41:14.769Z
+date: 2025-12-15T16:41:52.021Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -45,7 +45,7 @@ dateCreated: 2025-12-08T16:36:01.426Z
 |---|
 | Сегмент | Источник или шаблон | Сравнение с SemVer |
 | **prefix** | doc.v |
-| **lvl_1** | индекс текущего LifeCycle (трансформацим, инкарнации) | мажор |
+| **lvl_1** | индекс текущего LifeCycle (трансформации, инкарнации) | мажор |
 | **lvl_2** | индекс текущей фазы текущего LifeCycle | минор |
 | **lvl_3** | индекст текушего ChangeFlow | патч |
 | **lvl_4** | индекст текущей фазы текущего ChangeFlow | можно рассматривать как статус патча |
