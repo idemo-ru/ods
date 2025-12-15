@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T16:35:04.910Z
+date: 2025-12-15T16:35:30.722Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -16,13 +16,13 @@ dateCreated: 2025-12-08T16:36:01.426Z
 	фазы: `Birth → Develop → Climax → Degrade → Turn → End`
 	трансформирующимся в инкарнации:
 	`Draft → Candidate → Stable → Canonical`
-- Инкарнация: LifeCycle порождённый фазой end(с исходом: transform) предылущего LifeCycle с сохранением идентичности (трансфоормация).
+- Инкарнация: LifeCycle порождённый фазой end(с исходом: transform) предылущего LifeCycle с сохранением идентичности.
   
 - Цепочка последовательных ChangeFlow
   фазы: ]collect → analyze → forecast → decide → implement → evaluate`
 
 > *Версия: doc.v.1.2.3.3 ∙ __месяц__ 2025*<br/><br class="hidden-wiki"/>
-> *Текущий LifeCycle:*.  ~~Draft~~ → ~~Candidate~~ → `Stable` → Canonical<br class="hidden-wiki"/>
+> *Текущий LifeCycle:*.  ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>
 > *Фаза:*. ~~Birth~~ → ~~Develop~~ → `Climax` → Degrade → Turn → End<br/><br class="hidden-wiki"/>
 > *Текущий ChangeFlow:* #3<br  class="hidden-wiki"/>
 > *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate<br/><br class="hidden-wiki"/>
