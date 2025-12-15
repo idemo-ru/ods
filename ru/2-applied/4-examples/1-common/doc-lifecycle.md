@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T16:31:51.582Z
+date: 2025-12-15T16:33:57.590Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -14,10 +14,9 @@ dateCreated: 2025-12-08T16:36:01.426Z
 - ODS - родительская система со своим LifeCycle
 - Документ - дочерняя система ODS со своим LifeCycle:
 	фазы: `Birth → Develop → Climax → Degrade → Turn → End`
-  
 	трансформирующимся в инкарнации:
 	`Draft → Candidate → Stable → Canonical`
-	Каждая инкарнация - новый LifeCycle с сохранением идентичности
+- Инкарнация: LifeCycle порождённый фазой end(с исходом: transform) предылущего LifeCycle с сохранением идентичности.
   
 - Цепочка последовательных ChangeFlow
   фазы: ]collect → analyze → forecast → decide → implement → evaluate`
