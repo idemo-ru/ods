@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T16:40:34.440Z
+date: 2025-12-15T16:41:14.769Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -22,6 +22,7 @@ dateCreated: 2025-12-08T16:36:01.426Z
 > *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа /ссылается сам на себя</small></a>
 
+## Термины и определения
 - ODS - родительская система со своим LifeCycle
 - Документ - дочерняя система ODS со своим LifeCycle:
 	фазы: `Birth → Develop → Climax → Degrade → Turn → End`
