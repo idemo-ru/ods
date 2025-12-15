@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T12:26:37.435Z
+date: 2025-12-15T12:27:11.131Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z
@@ -57,6 +57,8 @@ dateCreated: 2025-12-15T11:47:30.974Z
 > Консолидированный опыт сохраняет онтологическую локальность: носитель всегда конкретный экземпляр, передача осуществляется через C-Layer или наследование, без нарушения уникальности индивидуального Experience Graph.
 
 ChangeFlow-6 фиксирует опыт в фазе evaluate: оценивает Result (+1/0/-1), обновляет Experience Graph причинными ассоциациями (Intent-Flow → Context → Operators → Result) и DegradeScore, оптимизируя будущие циклы.
+
+DegradeScore обновляется исключительно в evaluate ChangeFlow на основе опыта: +1 ассоциации снижают DS (рост устойчивости), 0/-1 сохраняют/повышают (деградация). Опыт косвенно управляет фазой LifeCycle через DS.
 
 ## 1.3.7.6. Атрибуты / свойства {#1-3-7-6}
 
