@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T12:35:20.916Z
+date: 2025-12-15T12:36:00.170Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z
@@ -22,15 +22,14 @@ dateCreated: 2025-12-15T11:47:30.974Z
 ## 1.3.7.2. Связанные документы {#1-3-7-2}
 
 ### Исходящие
-
 - [1.1.02 Спецификация ~ ChangeFlow-6](/ru/1-core/1-specifictions/change-flow-6.md)
 - [1.1.1 Спецификация ~ LifeCycle-6](/ru/1-core/1-specifictions/life-cycle-6.md)
 - [1.3.0 Определение ~ Система](/ru/1-core/3-definitions/0-system.md)
 - [1.1.5 Спецификация ~ DegradeScore](/ru/1-core/1-specifictions/degrade_score.md)
 - [1.1.4 Спецификация ~ ChangeOperators](/ru/1-core/1-specifictions/change-operators.md)
+- Наблюдатель.
 
 ### Входящие
-
 *отсутствуют*
 
 ## 1.3.7.3. Термин и формулировка {#1-3-7-3}
