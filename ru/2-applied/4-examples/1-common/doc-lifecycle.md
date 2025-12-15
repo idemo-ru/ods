@@ -2,7 +2,7 @@
 title: 2.4.1.1. Пример  ~  Вечный жизненный цикл документа IDEMO ~ ODS
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T16:38:38.394Z
+date: 2025-12-15T16:40:34.440Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T16:36:01.426Z
@@ -10,6 +10,10 @@ dateCreated: 2025-12-08T16:36:01.426Z
 
 ## 2.4.1.1.1. Основное {#2-4-1-1-1}
 Документ описывает применение IDEMO ~ ODS к конкпетному документу текущей документации и определяет все документы системами с LifeCycle-6 & ChangeFlow-6 & ChangeOperators & Intent, а так же демонстрирует самореферентность IDEMO ~ ODS.
+
+> Все статусы, стадии и версии приведены для примера и могут не отражать реального положения документа в топологии существования хотя я стараюсь.
+{.is-danger}
+
 
 > *Версия: doc.v.1.2.3.3 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
 > *Текущий LifeCycle:*.  ~~Draft~~ → ~~Candidate~~ → `Stable` → Canonical<br class="hidden-wiki"/>
