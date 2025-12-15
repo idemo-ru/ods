@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T13:15:52.372Z
+date: 2025-12-15T13:22:00.923Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z
@@ -30,6 +30,7 @@ dateCreated: 2025-12-15T11:47:30.974Z
 - [1.3.0 Определение ~ Система](/ru/1-core/3-definitions/0-system.md)
 - [1.1.5 Спецификация ~ DegradeScore](/ru/1-core/1-specifictions/degrade_score.md)
 - [1.1.4 Спецификация ~ ChangeOperators](/ru/1-core/1-specifictions/change-operators.md)
+- [2.2.2. Модель ~ Эволюция Viewpoint: от стохастического поиска к интуиции и рефлексам](/ru/2-applied/2-models/viewpoint-evolution-to-intuition.md)
 - Наблюдатель.
 
 ### Входящие
