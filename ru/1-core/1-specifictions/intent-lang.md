@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-16T20:11:50.914Z
+date: 2025-12-16T20:16:17.756Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -52,6 +52,8 @@ dateCreated: 2025-12-10T14:35:03.657Z
 ## tmp.1.1.6.5. Принцип ~ Разделения Намерения и Исполнения {#tmp-1-2-6-5}
 > Intent определяет «что», а не «как»
 {.is-info}
+
+Separation of Semantics and Implementation
 
 Реализация всегда вторична и динамическая. Код — производная, временная, усиливаемая обучением и не сохраняемая.
 
