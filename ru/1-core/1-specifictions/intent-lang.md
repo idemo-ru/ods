@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T18:48:49.630Z
+date: 2025-12-17T18:49:06.103Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -359,6 +359,8 @@ _ evaluate расширение:
   
 > Intent не является исполняемой сущностью.
 > Он требует интерпретатора (Resolver), который сопоставляет Intent с доступными ChangeOperators в данном контексте и формирует испоняемый DSL  - который работает как оркестратор выполнения между слоями системы.
+> Интерпретация Intent — это не исполнение,
+а порождение временного исполнимого DSL.
 {.is-info}
 
 
