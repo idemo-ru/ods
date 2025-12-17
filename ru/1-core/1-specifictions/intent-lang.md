@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T18:53:23.543Z
+date: 2025-12-17T18:53:43.123Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -400,6 +400,16 @@ Interpretation DSL (iDSL) —
 	•	не знает про смысл
 	•	не принимает решений
 	•	просто выполняет план
+  
+ ```
+ Intent
+  ↓
+Interpretation (decisions here)
+  ↓
+Orchestration (no decisions)
+  ↓
+Execution
+```
 
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
