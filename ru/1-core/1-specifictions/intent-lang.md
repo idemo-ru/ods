@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T19:02:42.941Z
+date: 2025-12-17T19:03:08.155Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -622,6 +622,22 @@ Infrastructure Kernel:
 	•	отменяется «архитектуру приложений» как ремесло
 	•	возвращактся программирование к формулировке намерений
 	•	превращактся код из капитала в расходник
+  
+ Почему «поддержка кода» больше не нужна
+
+Поддержка кода нужна только тогда, когда:
+	1.	код — долгоживущий артефакт
+	2.	код — носитель смысла
+	3.	изменения вносятся в код, а не в намерение
+
+В iLang ни одно из условий не выполняется:
+	•	код временный
+	•	смысл не в коде, а в Intent
+	•	изменения происходят на уровне Intent и интерпретации
+
+Следовательно:
+
+поддерживать нечего
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
