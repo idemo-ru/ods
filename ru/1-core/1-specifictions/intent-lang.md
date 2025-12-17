@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T19:01:15.487Z
+date: 2025-12-17T19:01:35.925Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -600,6 +600,19 @@ Infrastructure Kernel:
 | DI / IoC / Clean | Interpreter / Context |
 | Framework-driven | Intent-driven |
 | Код = актив | Код = побочный продукт |
+
+Почему агенты, интерпретатор и executors универсальны
+
+Потому что они:
+	•	не знают предметной области
+	•	не знают бизнес-целей
+	•	не знают данных
+	•	не знают смысла
+
+Они знают только:
+	•	фазовый контракт
+	•	правила интерпретации
+	•	протокол исполнения
 
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
