@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T18:43:26.086Z
+date: 2025-12-17T18:46:13.334Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -340,6 +340,11 @@ Intent ≠ запрос ≠ функция ≠ команда
 	•	обучаемый.
 
 Фактически — это нормальная форма процесса.
+
+> Intent — не программа, не запрос, не данные, не код.
+> Это квант вычислительного смысла.
+{.is-info}
+
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
