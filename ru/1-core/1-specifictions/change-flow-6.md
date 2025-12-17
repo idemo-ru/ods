@@ -2,7 +2,7 @@
 title: 1.1.2. Спецификация ~ ChengFlow-6
 description: 
 published: true
-date: 2025-12-17T09:13:54.391Z
+date: 2025-12-17T09:17:19.156Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T07:21:41.132Z
@@ -71,14 +71,12 @@ collect → analyze → forecast → decide → implement → evaluate
 
 ## 1.1.02.6. Атрибуты / свойства {#1-1-02-6}
 - Строгий порядок фаз не подлежит изменению
-- decide() порождает новый Composite Intent
-- implement() порождает эфемерные ChangeOperators для данного Intent’а
-- ChangeFlow-6 = жизненный цикл одного Composite Intent’а
+- decide() - точка бифуркации
+- implement() всегда локален
 
 ## 1.1.02.7. Связи с другими терминами {#1-1-02-7}
-- Родительские: 1.2.02 Постулат Intent
 - Дочерние: Primitive Intent, Composite Intent
-- Связанные: LifeCycle-6, decide(), implement()
+- Связанные: LifeCycle-6
 
 ## 1.1.02.10. Заключение {#1-1-02-10}
 ChangeFlow-6 это не просто поток изменений - это онтологический регулятор системной стабильности и эмерджентной когерентности, логический и энергетический процесс адаптивной балансировки системы между стабильностью и нестабильностью.
