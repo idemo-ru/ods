@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T18:42:32.938Z
+date: 2025-12-17T18:43:01.818Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -323,6 +323,13 @@ Intent ≠ запрос ≠ функция ≠ команда
 	•	λ-терму без тела
 	•	или типу без реализации
 	•	или категориальному морфизму без функторов.
+  
+ Ключевое отличие от BPMN / LangChain / Temporal:
+	•	фазы не условны
+	•	фазы не опциональны
+	•	фазы не сворачиваемы
+
+Это не «шаги», это онтологический контракт существования процесса.
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
