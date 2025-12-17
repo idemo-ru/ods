@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T19:03:08.155Z
+date: 2025-12-17T19:03:22.619Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -638,6 +638,23 @@ Infrastructure Kernel:
 Следовательно:
 
 поддерживать нечего
+
+Почему читаемость кода теряет смысл
+
+Читаемость нужна:
+	•	людям
+	•	для понимания смысла
+	•	спустя время
+
+В iLang:
+	•	человек читает Intent, не код
+	•	Intent — канонический, компактный, символически строгий
+	•	код читается только машиной
+
+Поэтому:
+
+код может быть нечитаемым —
+он не является коммуникационным носителем
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
