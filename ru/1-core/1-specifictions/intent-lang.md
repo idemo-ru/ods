@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T19:05:12.255Z
+date: 2025-12-17T19:06:20.704Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -678,6 +678,14 @@ legacy не может возникнуть, потому что не сущес
 
 Важное уточнение 
 Все текушие сузности программирования не отменяется. они просто распределается там где каждому из них место
+
+| Классика | iLang |
+| Код | Intent |
+| Патчи | Фазовые переходы |
+| Комментарии | Контракты |
+| Тикеты | Experience |
+| Legacy | Evolution |
+
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
