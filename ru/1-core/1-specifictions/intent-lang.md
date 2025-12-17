@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T19:06:20.704Z
+date: 2025-12-17T19:07:33.139Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -685,6 +685,18 @@ legacy не может возникнуть, потому что не сущес
 | Комментарии | Контракты |
 | Тикеты | Experience |
 | Legacy | Evolution |
+
+Это ломает сразу три профессии (и это нормально)
+
+Честно:
+	•	«поддержка legacy»
+	•	«рефакторинг»
+	•	«чтение чужого кода»
+
+Они существуют из-за дефекта модели, а не из-за необходимости.
+
+Они не автоматизируются —
+просто устраняется их причина.
 
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
