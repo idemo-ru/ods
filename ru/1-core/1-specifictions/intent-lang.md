@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T18:54:11.006Z
+date: 2025-12-17T18:54:37.362Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -415,6 +415,28 @@ Execution
 	•	Airflow (план фиксирован),
 	•	BPMN (логика в диаграмме).
 
+Где здесь место LLM / LangChain
+
+Очень аккуратно:
+
+LLM может участвовать в интерпретации
+
+Например:
+	•	в ?? analyze
+	•	в ~ forecast
+	•	в ^ decide
+
+Но не в исполнении.
+
+LLM:
+	•	предлагает варианты iDSL
+	•	оценивает последствия
+	•	выбирает стратегию
+
+Дальше:
+	•	iDSL фиксируется
+	•	исполняется обычными средствами
+	•	результат пишется в Experience
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
