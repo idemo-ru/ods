@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T18:59:51.718Z
+date: 2025-12-17T19:01:15.487Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -593,6 +593,13 @@ Infrastructure Kernel:
 ⸻
 
 Сравнение с текущей индустрией
+| Современная практика | iLang |
+|----|----|
+| 70–90% инфраструктура | 80–95% смысл |
+| Архитектура «на годы» | Реализация «на исполнение» |
+| DI / IoC / Clean | Interpreter / Context |
+| Framework-driven | Intent-driven |
+| Код = актив | Код = побочный продукт |
 
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
