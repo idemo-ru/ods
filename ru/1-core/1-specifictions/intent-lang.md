@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T19:13:49.489Z
+date: 2025-12-17T19:14:17.848Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -784,6 +784,12 @@ OOP vs FP
 	•	iDSL — функционален (чистота, преобразования)
 	•	Executors — объектны / акторны / системны
 	•	Инфраструктура — imperative
+  
+ В итоге:
+	•	ФП — там, где смысл и трансформации
+	•	ООП — там, где состояние и ответственность
+	•	императивность — там, где железо
+
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
