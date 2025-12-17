@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T18:43:01.818Z
+date: 2025-12-17T18:43:26.086Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -330,6 +330,16 @@ Intent ≠ запрос ≠ функция ≠ команда
 	•	фазы не сворачиваемы
 
 Это не «шаги», это онтологический контракт существования процесса.
+
+Каждый Flow обязан содержать ровно 6 фаз в строгом порядке
+
+Это превращает любой процесс в:
+	•	наблюдаемый,
+	•	сравнимый,
+	•	воспроизводимый,
+	•	обучаемый.
+
+Фактически — это нормальная форма процесса.
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
