@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T19:03:22.619Z
+date: 2025-12-17T19:03:39.628Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -655,6 +655,27 @@ Infrastructure Kernel:
 
 код может быть нечитаемым —
 он не является коммуникационным носителем
+
+Почему «legacy» невозможно по определению
+
+Legacy возникает, когда:
+	•	система живёт дольше понимания её создателей
+	•	реализация закрепляется как факт
+	•	смена реализации слишком дорога
+
+В iLang:
+	•	Intent живёт дольше людей
+	•	реализация не закрепляется
+	•	смена реализации — тривиальна
+
+Следовательно:
+
+legacy не может возникнуть, потому что не существует «старой реализации»
+
+Есть только:
+	•	текущая интерпретация
+	•	накопленный опыт
+
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
