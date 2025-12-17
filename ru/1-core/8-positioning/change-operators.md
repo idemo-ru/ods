@@ -2,13 +2,11 @@
 title: ChangeOperators
 description: 
 published: true
-date: 2025-12-17T08:44:45.784Z
+date: 2025-12-17T08:45:24.996Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T08:44:45.784Z
 ---
-
-# Header
 
 |------------------|
 | Аспект | Теория процесса Уайтхеда | ODS |
