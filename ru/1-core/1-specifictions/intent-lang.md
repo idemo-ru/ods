@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T19:10:37.603Z
+date: 2025-12-17T19:11:00.118Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -728,6 +728,21 @@ legacy не может возникнуть, потому что не сущес
 | Комментарии | Контракты и flow |
 | Архитектуру | LC-6 / CF-6 |
 | Логи | Experience |
+
+Где теперь находится «история» (бывший legacy)
+
+История больше не равна «старому коду».
+
+Она существует как:
+	•	версии Intent
+	•	изменения фазовых контрактов
+	•	накопленный Experience
+	•	принятые и отвергнутые интерпретации
+	•	контрфактические ветки обучения
+
+То есть:
+
+legacy превращается в эволюцию
 
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
