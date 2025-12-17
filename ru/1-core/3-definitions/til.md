@@ -1,14 +1,12 @@
 ---
-title: 1.3.3. Определение  ~  TIL
+title: 1.3.3. Определение  ~  TIL: Реализация ChangeOperators через процессные оболочки
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T06:50:49.952Z
+date: 2025-12-17T06:51:51.187Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:01:51.087Z
 ---
-
-# 1.3.3 TIL: Реализация ChangeOperators через процессные оболочки
 
 ## 1.3.3.1. Основное {#1-3-3-1}
 Документ описывает **TIL (Transient Integration Layer)** как временную, материальную или информационную оболочку, через которую конкретная система в конкретный момент времени **исполняет ChangeOperator**.  
