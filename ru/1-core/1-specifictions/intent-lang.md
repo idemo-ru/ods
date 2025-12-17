@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-16T20:16:17.756Z
+date: 2025-12-17T18:41:34.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -314,6 +314,8 @@ $(
 
 Intent вечен. Код эфемерен. Технический долг мёртв.
 Язык работает одинаково от атомарного действия до управления цивилизацией.
+
+iLang — это не язык программирования в классическом смысле а онтологический язык вычислительного намерения (Intent Calculus / Intent Algebra)
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
