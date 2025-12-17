@@ -2,12 +2,13 @@
 title: ChangeOperators
 description: 
 published: true
-date: 2025-12-17T08:45:24.996Z
+date: 2025-12-17T08:46:02.021Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T08:44:45.784Z
 ---
 
+## Сравнение с теорией процесса Уайтхеда
 |------------------|
 | Аспект | Теория процесса Уайтхеда | ODS |
 | Основная единица | "Actual occasions (drops of experience, concrescence via prehensions)" | ChangeFlow-6 (6 фаз изменения) + ChangeOperators (процессные механизмы) |
@@ -16,4 +17,4 @@ dateCreated: 2025-12-17T08:44:45.784Z
 | Время/изменение | Concrescence → satisfaction → objectification | Collect → ... → evaluate; каузальная последовательность |
 | Креативность | Novelty из prehensions + God (lure) | "Стохастический Viewpoint + Граф Опыта, emergent TIL" |
 | Сходства | Процесс первичнее субстанции; relational; эмерджентность | Процессные механизмы; циклы изменения |
-| Различия | "Panexperientialism, God, eternal objects" | Без experience/God; вычислительная (Λ-Phy как вариант Wolfram)
+| Различия | "Panexperientialism, God, eternal objects" | Без experience/God; вычислительная (Λ-Phy как вариант Wolfram) |
