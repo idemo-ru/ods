@@ -2,7 +2,7 @@
 title: 1.3.3. Определение  ~  TIL
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T06:18:44.565Z
+date: 2025-12-17T06:46:49.496Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:01:51.087Z
@@ -27,6 +27,7 @@ dateCreated: 2025-12-11T18:01:51.087Z
 ### 1.3.3.2.1. Исходящие
 - [1.1.4 Спецификация~ChangeOperators](/ru/1-core/1-specifications/change-operators.md)  
 - [1.3.1 Определение~Viewpoint](/ru/1-core/3-definitions/viewpoint.md)
+- [2.2.3. Модель ~ Универсальная рамка метрик TIL](/ru/2-applied/2-models/til-metrics)
 
 ### 1.3.3.2.2. Входящие
 - (пока нет — документ базовый)
