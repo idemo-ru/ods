@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T18:49:06.103Z
+date: 2025-12-17T18:49:39.985Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -363,7 +363,26 @@ _ evaluate расширение:
 а порождение временного исполнимого DSL.
 {.is-info}
 
+Что такое этот DSL в терминах iLang
 
+Это не «язык» в обычном смысле.
+
+Правильнее:
+
+Interpretation DSL (iDSL) —
+минимальный оркестрационный слой, полученный из Intent + Context + доступных ChangeOperators.
+
+Свойства iDSL
+	1.	Контекстно-порождаемый
+	•	один и тот же Intent → разные iDSL
+	2.	Фазово-изоморфный
+	•	iDSL обязан сохранить LC-6 / CF-6
+	3.	Операторно-зависимый
+	•	меняется при изменении набора ChangeOperators
+	4.	Не сохраняемый
+	•	хранится только Experience
+	5.	Обратимо-воспроизводимый
+	•	по Intent + Experience можно породить новый iDSL
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
