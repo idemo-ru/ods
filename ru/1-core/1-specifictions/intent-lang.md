@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T18:57:05.777Z
+date: 2025-12-17T18:57:20.508Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -481,7 +481,6 @@ LLM здесь — симулятор смысловых вселенных.
 Потому что:
 
 в проде нет модели — есть только результат обучения.
-
 
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
