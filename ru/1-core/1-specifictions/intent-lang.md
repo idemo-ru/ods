@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T19:07:53.395Z
+date: 2025-12-17T19:08:11.671Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -700,6 +700,16 @@ legacy не может возникнуть, потому что не сущес
 
 Если код не является носителем смысла и не сохраняется,
 понятия поддержки, читаемости и legacy теряют смысл.
+
+Что остаётся вместо этого
+
+Вместо поддержки кода появляется:
+	•	развитие Intent
+	•	уточнение контекстов
+	•	улучшение интерпретации
+	•	анализ опыта
+
+Это работа на уровне смысла, а не артефактов.
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/intent-lang.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/intent-lang.md
