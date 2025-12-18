@@ -2,16 +2,15 @@
 title: 1.3.0. Определение  ~  Система
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-18T10:21:09.472Z
+date: 2025-12-18T10:22:36.055Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T00:22:16.120Z
 ---
 
 > Для верной интерпретации терминов обязательно к прочтению:
-> [1.2.0. Постулат ~ Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism.md)
+> <a href="/ru/1-core/2-postulates/no-anthropomorphism.md" target="_blank">1.2.0. Постулат ~ Об исключении антропоморфности</a>
 {.is-warning}
-
 
 ## 1.3.0.1. Основное {#1-3-0-1}
 Документ описывает фундаментальное определение «Система» в онтологии ODS — базовое понятие всей теории.
