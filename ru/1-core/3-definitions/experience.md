@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-23T09:19:42.419Z
+date: 2025-12-23T09:22:31.011Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z
@@ -220,6 +220,8 @@ $
 - Локальный опыт формирует новые TIL и консолидированный опыт.  
 - Рефлексы (операционный опыт) ускоряют реакции, но не создают новый опыт, если сработали успешно.  
 - Аналитический опыт формируется через полный цикл ChangeFlow при неудачах и обеспечивает обучение и оптимизацию.  
+
+TODO - связать с сомнением и Doubt(S,VC)
 
 > **Онлайн:** https://ods.idemo.ru/ru/1-core/3-definitions/experience.md  
 > **GitHub:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/3-definitions/experience.md  
