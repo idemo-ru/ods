@@ -2,7 +2,7 @@
 title: 2.2.2. Модель ~ Эволюция Viewpoint: от стохастического поиска к интуиции и рефлексам
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-23T06:49:17.120Z
+date: 2025-12-23T06:50:39.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T19:05:03.920Z
