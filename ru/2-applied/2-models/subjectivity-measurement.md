@@ -2,7 +2,7 @@
 title: 2.2.1. Модель ~ Измерение и вычисление субъективности
 description: 
 published: true
-date: 2025-12-11T21:19:19.551Z
+date: 2025-12-23T08:07:45.391Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:05:45.124Z
@@ -108,5 +108,5 @@ $f(x) = ln(1 + x) → S ≈ 1.700$
 8. **Диагностика источника субъективности.**  
    Разложение суммы показывает, какие инструменты создают максимальный вклад.
 
-> **Онлайн-версия:** https://ods.idemo.ru/ru/2-applied/2-models/viewpoint-evolution-to-intuition.md
-> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/2-applied/2-models/viewpoint-evolution-to-intuition.md
+> **Онлайн-версия:** https://ods.idemo.ru/ru/2-applied/2-models/subjectivity-measurement.md
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/2-applied/2-models/subjectivity-measurement.md
