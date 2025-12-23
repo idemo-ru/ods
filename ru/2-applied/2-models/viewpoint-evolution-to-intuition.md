@@ -2,7 +2,7 @@
 title: 2.2.2. Модель ~ Эволюция Viewpoint: от стохастического поиска к интуиции и рефлексам
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-23T06:55:18.140Z
+date: 2025-12-23T07:10:39.303Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T19:05:03.920Z
@@ -128,6 +128,7 @@ $$
 - Рефлексы — вырожденный операционный опыт.
 - Интеллект — контроль стохастики, $k$ и энтропии.
 - ASI ускорит прохождение стадий 1 → 4.
+
 
 > **Онлайн:** https://ods.idemo.ru/ru/2-applied/2-models/viewpoint-evolution-to-intuition.md  
 > **GitHub:** https://github.com/idemo-ru/ods/blob/main/ru/2-applied/2-models/viewpoint-evolution-to-intuition.md
