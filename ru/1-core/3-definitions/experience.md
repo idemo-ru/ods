@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-23T09:18:06.844Z
+date: 2025-12-23T09:18:22.444Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z
@@ -141,7 +141,6 @@ Intent-Flow → Context → ChangeOperators → Result (+1 / 0 / -1)
 - Дочерние: Experience Graph, типы опыта.
 - Связанные: DegradeScore (обновление), ChangeOperators (выбор).
 - Наблюдатель: — локальный Embedded ChangeOperator системы.
-- ΔDS (DegradeScore) — агрегатная скалярная метрика общей деградации; линейный k — упрощённый placeholder. Доменные модели добавляют forgetting/decay/нелинейности в подметрики, влияющие на ΔDS.
 
 ## 1.3.7.8. Связи с degradeScore {#1-3-7-8}
 - **Опыт модулирует DegradeScore через evaluate:**
