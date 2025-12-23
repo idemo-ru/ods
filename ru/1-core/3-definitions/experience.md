@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-23T09:19:30.820Z
+date: 2025-12-23T09:19:42.419Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z
@@ -144,7 +144,7 @@ Intent-Flow → Context → ChangeOperators → Result (+1 / 0 / -1)
 
 ## 1.3.7.8. Связи с DegradeScore {#1-3-7-8}
 
-ΔDS — агрегатная скалярная метрика общей деградации; линейный k — упрощённый placeholder. Доменные модели добавляют forgetting/decay/нелинейности в подметрики, влияющие на ΔDS.
+ΔDS — агрегатная скалярная метрика общей деградации системы; линейный k — упрощённый placeholder. Доменные модели добавляют forgetting/decay/нелинейности в подметрики, влияющие на ΔDS.
 
 - **Опыт модулирует DegradeScore через evaluate:**
 
