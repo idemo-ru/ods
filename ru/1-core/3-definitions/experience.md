@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-23T09:22:31.011Z
+date: 2025-12-23T09:37:10.049Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z
@@ -222,6 +222,12 @@ $
 - Аналитический опыт формируется через полный цикл ChangeFlow при неудачах и обеспечивает обучение и оптимизацию.  
 
 TODO - связать с сомнением и Doubt(S,VC)
+
+Аналогии:
+
+RL credit assignment: +1/0/-1 как reward, обновление весов в графе (Q-learning).
+Bayesian inference: w_{+1} как posterior, обновление при evaluate (Bayes theorem).
+Neural consolidation: сжатие +1 путей как synaptic consolidation/hippocampal replay.
 
 > **Онлайн:** https://ods.idemo.ru/ru/1-core/3-definitions/experience.md  
 > **GitHub:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/3-definitions/experience.md  
