@@ -2,7 +2,7 @@
 title: 2.4.1.3. Пример  ~ Субъективность в биологии популяций
 description: 
 published: true
-date: 2025-12-08T06:34:35.180Z
+date: 2025-12-08T06:34:37.612Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:27:07.281Z

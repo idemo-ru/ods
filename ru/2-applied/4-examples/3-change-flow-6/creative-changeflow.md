@@ -2,7 +2,7 @@
 title: 2.4.3.1. Пример  ~ Творческий процесс как Changeflow
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-14T13:07:18.815Z
+date: 2025-12-14T13:07:22.530Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T12:56:30.932Z

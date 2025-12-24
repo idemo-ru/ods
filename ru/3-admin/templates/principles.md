@@ -2,7 +2,7 @@
 title: 1.5.__id__. Принцип ~ __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T10:40:26.040Z
+date: 2025-12-11T10:43:37.681Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T10:40:26.040Z

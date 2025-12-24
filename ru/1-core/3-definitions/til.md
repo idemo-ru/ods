@@ -2,7 +2,7 @@
 title: 1.3.3. Определение  ~  TIL: Реализация ChangeOperators через процессные оболочки
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-17T06:51:51.187Z
+date: 2025-12-17T06:51:55.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:01:51.087Z

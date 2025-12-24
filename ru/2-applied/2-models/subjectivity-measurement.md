@@ -2,7 +2,7 @@
 title: 2.2.1. Модель ~ Измерение и вычисление субъективности
 description: 
 published: true
-date: 2025-12-23T08:16:01.444Z
+date: 2025-12-23T08:16:07.050Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:05:45.124Z

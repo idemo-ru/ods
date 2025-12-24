@@ -2,7 +2,7 @@
 title: 1.7.1. Ограничение ~ Невозможность создания новых ChangeOperators
 description: ODS ~ LifeCycle-6. __description__
 published: true
-date: 2025-12-11T22:24:28.731Z
+date: 2025-12-11T22:24:31.477Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T22:22:26.824Z

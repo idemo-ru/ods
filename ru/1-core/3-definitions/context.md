@@ -2,7 +2,7 @@
 title: 1.3.1. Определение  ~  Контекст
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-14T07:00:48.496Z
+date: 2025-12-14T07:00:52.576Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T00:51:14.671Z

@@ -2,7 +2,7 @@
 title: 1.2.2. Постулат  ~ Многослойности Динамических Систем (Постулат ~ Четырёх Слоёв)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-09T11:18:32.068Z
+date: 2025-12-09T11:18:35.377Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T11:16:41.375Z

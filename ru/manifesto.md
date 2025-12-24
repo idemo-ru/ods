@@ -2,7 +2,7 @@
 title: Манифест
 description: 
 published: true
-date: 2025-12-08T02:30:02.682Z
+date: 2025-12-08T02:30:05.534Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T19:44:22.720Z

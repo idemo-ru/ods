@@ -2,7 +2,7 @@
 title: Измерение и вычисление субъективности
 description: 
 published: true
-date: 2025-12-23T08:22:33.978Z
+date: 2025-12-23T08:22:36.638Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T08:22:33.978Z

@@ -1,0 +1,41 @@
+<svg viewBox="0 0 200 200" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Безымянный_градиент);
+      }
+
+      .cls-2 {
+        fill: #e80a89;
+      }
+
+      .cls-3 {
+        fill: url(#_Безымянный_градиент_38);
+      }
+    </style>
+    <linearGradient gradientUnits="userSpaceOnUse" gradientTransform="translate(0 199.9) scale(1 -1)" y2="53.8" x2="151.8" y1="198.7" x1="84.3" data-name="Безымянный градиент" id="_Безымянный_градиент">
+      <stop stop-color="#e80a89" offset="0"></stop>
+      <stop stop-color="#ca2296" offset=".2"></stop>
+      <stop stop-color="#7d60b8" offset=".5"></stop>
+      <stop stop-color="#26a7df" offset=".8"></stop>
+      <stop stop-color="#68c7c8" offset="1"></stop>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" y2="185.3" x2="157.5" y1="64" x1="36.2" data-name="Безымянный градиент 38" id="_Безымянный_градиент_38">
+      <stop stop-color="#e80a89" offset="0"></stop>
+      <stop stop-color="#8d44a2" offset=".3"></stop>
+      <stop stop-color="#506cb4" offset=".5"></stop>
+      <stop stop-color="#4d68b1" offset=".6"></stop>
+      <stop stop-color="#455daa" offset=".7"></stop>
+      <stop stop-color="#435aa9" offset=".7"></stop>
+      <stop stop-color="#314199" offset="1"></stop>
+    </linearGradient>
+  </defs>
+  
+  <g>
+    <g id="Layer_1">
+      <circle r="21.5" cy="30.1" cx="31.5" class="cls-2"></circle>
+      <path d="M138.4,150.6c21.5-5.7,39.5-17.9,49.4-33.6l2-3.1c.8-4.8,1.2-9.7,1.2-14.7,0-49.4-40.1-89.6-89.4-89.6h-35.4l-.2,99.2c0,10,8.1,18.2,18.1,18.2h0c10,0,18.1-8.1,18.1-18.1v-63c29,.4,52.4,24.2,52.4,53.3s-23.8,53.3-53.1,53.3-2.9-.1-4.4-.2c12.7,2.5,27.1,2,41.2-1.7Z" class="cls-1"></path>
+      <path d="M12.7,100.7c-.6,106.2,156.1,121.4,176.9,18.6-40,58.7-152.4,50-140.6-36.6-.4-23.9-35.9-23.9-36.3,0,0,0,0,18,0,18Z" class="cls-3"></path>
+    </g>
+  </g>
+</svg>

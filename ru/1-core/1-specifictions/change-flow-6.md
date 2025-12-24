@@ -2,7 +2,7 @@
 title: 1.1.2. Спецификация ~ ChengFlow-6
 description: 
 published: true
-date: 2025-12-21T20:48:08.474Z
+date: 2025-12-21T20:48:11.435Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T07:21:41.132Z

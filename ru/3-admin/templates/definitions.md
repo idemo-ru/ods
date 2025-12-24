@@ -2,7 +2,7 @@
 title: 1.3.__id__. Определение  ~  __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T00:15:22.134Z
+date: 2025-12-12T00:15:24.751Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T16:52:08.586Z

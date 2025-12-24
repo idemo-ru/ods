@@ -2,7 +2,7 @@
 title: 1.2.3. Постулат  ~  Первичность ChangeOperators
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T20:42:39.397Z
+date: 2025-12-11T20:42:43.138Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T20:41:29.449Z

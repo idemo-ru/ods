@@ -2,7 +2,7 @@
 title: Эталонный агент для измерения субъективности
 description: 
 published: true
-date: 2025-12-07T17:11:52.227Z
+date: 2025-12-08T03:51:25.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:11:52.227Z

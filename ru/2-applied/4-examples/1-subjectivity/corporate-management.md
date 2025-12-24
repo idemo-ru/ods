@@ -2,7 +2,7 @@
 title: 2.4.1.4. Пример ~ Субъективность в корпоративном управлении (HR + стратегия)
 description: 
 published: true
-date: 2025-12-08T06:35:24.186Z
+date: 2025-12-08T06:35:26.509Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:28:42.045Z

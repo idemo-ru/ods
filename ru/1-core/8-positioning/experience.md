@@ -2,7 +2,7 @@
 title: Опыт
 description: 
 published: true
-date: 2025-12-15T14:10:57.915Z
+date: 2025-12-15T14:11:01.882Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T14:06:39.813Z

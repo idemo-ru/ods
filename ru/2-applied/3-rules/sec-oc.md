@@ -2,7 +2,7 @@
 title: 2.3.4. Правило ~ Различения системы и внешнего контекста (SEC/OC)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-14T07:04:20.397Z
+date: 2025-12-14T07:04:23.051Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T05:20:05.958Z

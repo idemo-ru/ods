@@ -2,7 +2,7 @@
 title: 1.6.1. Следствие ~ Механизм креативности и инноваций
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T21:34:32.005Z
+date: 2025-12-11T21:34:35.835Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:35:25.058Z

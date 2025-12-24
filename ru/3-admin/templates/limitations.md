@@ -2,7 +2,7 @@
 title: 1.7.__id__. Ограничение ~ __title__
 description: ODS ~ LifeCycle-6. __description__
 published: true
-date: 2025-12-11T22:16:47.025Z
+date: 2025-12-11T22:16:50.127Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T22:16:47.025Z

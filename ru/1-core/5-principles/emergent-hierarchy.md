@@ -2,7 +2,7 @@
 title: 1.5.1. Принцип ~ Эмерджентной Иерархии и Иерархической Эмерджентности
 description: IDEMO ~ Ontology of Dynamic Systems. 
 published: true
-date: 2025-12-11T12:17:25.044Z
+date: 2025-12-11T12:17:29.386Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T10:56:33.536Z

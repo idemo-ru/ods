@@ -2,7 +2,7 @@
 title: 1.3.6. Определение  ~  Вероятность
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-14T15:17:37.995Z
+date: 2025-12-14T15:17:42.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T11:32:42.897Z

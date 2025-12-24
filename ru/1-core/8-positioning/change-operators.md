@@ -2,7 +2,7 @@
 title: ChangeOperators
 description: 
 published: true
-date: 2025-12-17T08:49:57.359Z
+date: 2025-12-17T08:50:00.565Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T08:44:45.784Z

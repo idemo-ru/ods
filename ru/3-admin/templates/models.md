@@ -2,7 +2,7 @@
 title: 2.2.__id__. Модель ~ __title__
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-11T19:04:29.299Z
+date: 2025-12-11T19:04:32.617Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T18:58:51.969Z

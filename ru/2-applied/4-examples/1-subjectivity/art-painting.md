@@ -2,7 +2,7 @@
 title: Пример 05. Субъективность и творчество в искусстве (живопись, 1870–1910)
 description: 
 published: true
-date: 2025-12-07T17:31:25.887Z
+date: 2025-12-08T06:28:19.279Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:31:25.887Z

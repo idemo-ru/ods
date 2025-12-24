@@ -2,7 +2,7 @@
 title: ODS ~ Онтология динамических систем
 description: 
 published: true
-date: 2025-12-08T06:25:19.993Z
+date: 2025-12-08T06:25:22.426Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T10:43:15.899Z

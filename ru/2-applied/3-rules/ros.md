@@ -2,7 +2,7 @@
 title: 2.3.3. Правило ~ Остановки декомпозиции (ROS)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-12T04:51:31.640Z
+date: 2025-12-12T04:51:34.760Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T04:43:52.072Z

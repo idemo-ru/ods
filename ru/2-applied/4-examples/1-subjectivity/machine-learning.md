@@ -2,7 +2,7 @@
 title: 2.4.1.2. Пример  ~ Применение метрики субъективности в машинном обучении
 description: 
 published: true
-date: 2025-12-08T06:33:30.063Z
+date: 2025-12-08T06:33:32.781Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:24:18.721Z

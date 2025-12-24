@@ -2,7 +2,7 @@
 title: 1.3.2. Определение  ~  Viewpoint
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-15T13:48:14.612Z
+date: 2025-12-15T13:48:22.092Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T17:18:59.491Z

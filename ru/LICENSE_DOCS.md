@@ -2,7 +2,7 @@
 title: LICENSE_DOCS
 description: 
 published: true
-date: 2025-12-13T22:42:28.026Z
+date: 2025-12-13T22:42:30.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T10:43:11.998Z

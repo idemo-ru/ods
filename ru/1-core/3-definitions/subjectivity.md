@@ -2,7 +2,7 @@
 title: 1.3.5. Определение ~ Cубъективность как функциональное различие траекторий в ChangeFlow
 description: 
 published: true
-date: 2025-12-12T01:01:14.237Z
+date: 2025-12-12T01:01:17.494Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T16:56:27.615Z

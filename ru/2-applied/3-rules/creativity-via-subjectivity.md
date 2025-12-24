@@ -2,7 +2,7 @@
 title: Оценка творчества и нестандартности через субъективность
 description: 
 published: true
-date: 2025-12-07T17:09:01.609Z
+date: 2025-12-08T03:51:55.764Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T17:09:01.609Z
