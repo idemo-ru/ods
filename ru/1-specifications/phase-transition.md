@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-24T20:57:29.702Z
+date: 2025-12-24T21:00:19.388Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
