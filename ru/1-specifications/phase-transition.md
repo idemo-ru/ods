@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-24T20:31:40.277Z
+date: 2025-12-24T20:32:18.372Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
@@ -86,6 +86,11 @@ Scala staging — метапрограммирование для генерац
 Scala 3: Run-time multi-stage programming с quotes '{...} (задержка кода как Expr[T]) и splices ${...} (вставка). Позволяет compile-time macros и runtime code generation.
 LMS (Lightweight Modular Staging, Scala 2): Библиотека для runtime code generation через типы Rep[T] — staged вычисления для оптимизированных DSL (e.g., Delite).
 Аналог: разделение этапов для специализации кода без overhead.
+
+Scala Quasiquotes (Scala 2): синтаксис вроде q"code $var" для конструкций/деструкций AST в macros (на основе reflection).
+Scala 3 Quotes & Splices: замена quasiquotes — '{code} (quote, задержка) и ${expr} (splice, вставка). Более типобезопасны, поддерживают runtime multi-stage programming, без reflection.
+Сходство: оба для метапрограммирования и staging (генерация кода по этапам).
+Различия: quasiquotes — compile-time macros; quotes/splices — duals, гибче для multi-stage (compile + runtime). Quasiquotes устарели в Scala 3.
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/phase-transition.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/phase-transition.md
