@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-24T20:25:19.368Z
+date: 2025-12-24T20:31:40.277Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
@@ -75,5 +75,17 @@ dateCreated: 2025-12-24T20:15:52.464Z
 
 ## 1.1.7.9. Заключение {#1-1-7-9}
 PhaseTransition — суверенная мембрана системы: разделяет качество мышления (фаза) и качество взаимодействия (переход). Смерть в переходе — эволюционная цена за уточнение маршрута.
+
+Новизна концепта PhaseTransition в IDEMO высока: аналогов в софте мало.
+Ближайшие: multi-stage programming (MetaML, MetaOCaml, Scala staging) — разделение на фазы для генерации кода, но фокус на compile/runtime stages, не на онтологической утрате устойчивости как в синергетике.
+В reactive/actor models (Akka, Erlang) — message-driven переходы состояний, но неявные, без явной модели In-Transition и order parameter.
+Риск неадоптации реален на draft-стадии, но решаем: через прототипы, эмпирику в доменах и интеграцию с существующими (e.g., staging в Scala).
+Идея уникальна, усиливает чистоту и наблюдаемость.
+
+Scala staging — метапрограммирование для генерации кода в несколько этапов.
+Scala 3: Run-time multi-stage programming с quotes '{...} (задержка кода как Expr[T]) и splices ${...} (вставка). Позволяет compile-time macros и runtime code generation.
+LMS (Lightweight Modular Staging, Scala 2): Библиотека для runtime code generation через типы Rep[T] — staged вычисления для оптимизированных DSL (e.g., Delite).
+Аналог: разделение этапов для специализации кода без overhead.
+
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/phase-transition.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/phase-transition.md
