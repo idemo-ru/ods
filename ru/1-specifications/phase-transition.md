@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-24T20:51:35.954Z
+date: 2025-12-24T20:57:26.962Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
@@ -10,11 +10,11 @@ dateCreated: 2025-12-24T20:15:52.464Z
 
 ## 1.1.6.1. Основное {#1-1-6-1}
 Документ описывает фазовый переход как автономную управляющую сущность трансформации между фазами LifeCycle-6 и ChangeFlow-6.
-> *Версия: doc.1.1.7.v.0.1.2.1 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
-> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
-> *Текущий ChangeFlow:* #1<br class="hidden-wiki"/>
-> *Фаза:* `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
+> *Версия: doc.1.1.6.v.1.3.4.5 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. ~~Birth~~ → ~~Develop~~ → ~~Climax~~ → `Degrade` → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #4<br class="hidden-wiki"/>
+> *Фаза:* ~~collect~~ → ~~analyze~~ → ~~forecast~~ → ~~decide~~ → ~~implement~~ → `evaluate`<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
 ## 1.1.6.2. Связанные документы {#1-1-6-2}
