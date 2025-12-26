@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T08:18:58.828Z
+date: 2025-12-26T08:19:03.419Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z

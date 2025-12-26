@@ -2,7 +2,7 @@
 title: 1.3.9. Определение  ~  Наблюдатель
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T09:19:46.052Z
+date: 2025-12-26T09:19:49.032Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T09:12:35.888Z

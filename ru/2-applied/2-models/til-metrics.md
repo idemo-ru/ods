@@ -2,7 +2,7 @@
 title: 2.2.4. Модель ~ Универсальная рамка метрик TIL
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T08:03:48.633Z
+date: 2025-12-26T08:03:51.454Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T06:42:28.419Z

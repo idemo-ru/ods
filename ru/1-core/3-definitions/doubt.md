@@ -2,7 +2,7 @@
 title: 1.3.8. Определение  ~  Сомнение
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T08:30:44.699Z
+date: 2025-12-26T08:30:48.242Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-25T17:12:58.892Z

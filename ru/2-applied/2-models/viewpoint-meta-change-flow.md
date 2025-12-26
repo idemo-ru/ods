@@ -2,7 +2,7 @@
 title: 2.2.10. Модель ~ MetaChangeFlow адаптации Viewpoint
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T15:46:45.967Z
+date: 2025-12-26T15:46:50.004Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T15:42:20.073Z

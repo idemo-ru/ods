@@ -2,7 +2,7 @@
 title: 2.2.5. Модель ~ Модель осмысленности Intent в сравнении
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T08:05:58.128Z
+date: 2025-12-26T08:06:00.703Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T08:05:58.128Z

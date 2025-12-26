@@ -2,7 +2,7 @@
 title: 2.2.8. Модель ~ Интуиция как fast-path
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T14:46:29.504Z
+date: 2025-12-26T14:46:32.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T14:46:29.504Z

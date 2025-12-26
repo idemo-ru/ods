@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Осмысленность Intent
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T08:40:23.538Z
+date: 2025-12-26T08:40:27.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T08:40:23.538Z

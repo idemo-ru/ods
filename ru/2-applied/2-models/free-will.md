@@ -2,7 +2,7 @@
 title: 2.2.9. Модель ~ Свобода воли
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T15:23:14.211Z
+date: 2025-12-26T15:23:18.702Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T15:04:18.988Z

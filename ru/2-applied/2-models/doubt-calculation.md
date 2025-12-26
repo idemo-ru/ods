@@ -2,7 +2,7 @@
 title: 2.2.3. Модель ~ Расчёта Сомнения
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-25T17:16:58.651Z
+date: 2025-12-25T17:17:02.922Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-25T17:16:58.651Z

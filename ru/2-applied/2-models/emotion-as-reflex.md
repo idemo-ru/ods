@@ -2,7 +2,7 @@
 title: 2.2.7. Модель ~ Эмоция как рефлекс
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T14:43:33.634Z
+date: 2025-12-26T14:43:39.900Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T14:43:33.634Z

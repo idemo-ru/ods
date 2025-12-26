@@ -2,7 +2,7 @@
 title: 2.2.6. Модель ~ Валидация Intent
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T08:54:19.090Z
+date: 2025-12-26T08:54:23.205Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T08:42:46.431Z
