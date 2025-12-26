@@ -2,7 +2,7 @@
 title: 2.4.3.1. Пример  ~ Творческий процесс как Changeflow
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T17:31:18.307Z
+date: 2025-12-26T17:32:46.876Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T12:56:30.932Z
@@ -21,6 +21,8 @@ dateCreated: 2025-12-14T12:56:30.932Z
 ## 2.4.3.2. Связанные документы {#2-4-3-2-1}
 ### 2.4.1.3.2.1. Исходящие *(ссылается этот документ)*
 - [1.2.6. Постулат ~ О фазовой полноте (6 фаз)](/ru/1-core/2-postulates/life_cycle-6-phase.md)
+- [1.3.8. Определение ~ Сомнение](/ru/1-core/3-definitions/doubt.md)
+- [1.3.5. Определение ~ Cубъективность как функциональное различие траекторий в ChangeFlow](/ru/1-core/3-definitions/subjectivity.md)
 ### 2.4.1.3.2.2. Входящие *(ссылаются на этот документ)*
 → все документы /ru/1-core/, /ru/2-appied/ (автоматическая обратная связь)
 
