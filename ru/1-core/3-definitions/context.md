@@ -2,7 +2,7 @@
 title: 1.3.1. Определение  ~  Контекст
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T09:14:46.098Z
+date: 2025-12-26T09:15:26.230Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T00:51:14.671Z
@@ -24,6 +24,7 @@ dateCreated: 2025-12-12T00:51:14.671Z
 - [1.2.01 Постулат~ Четырёх Слоёв (Многослойности)](1-core/2-postulates/01-multilayer-postulate.md)
 - [1.3.0  Определение~ Система](1-core/3-definitions/0-system.md)
 - [1.5.1  Принцип~ Эмерджентной Иерархии и Метауровней](1-core/5-principles/emergent-hierarchy.md)
+- [1.3.9 Определение~Наблюдатель](/ru/1-core/3-definitions/observer.md)
 
 ### 1.3.2.2.2. Входящие
 - (все последующие документы ODS)
