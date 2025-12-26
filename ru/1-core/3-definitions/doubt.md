@@ -2,7 +2,7 @@
 title: 1.3.8. Определение  ~  Сомнение
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-25T17:12:58.892Z
+date: 2025-12-26T08:30:44.699Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-25T17:12:58.892Z
@@ -46,6 +46,7 @@ dateCreated: 2025-12-25T17:12:58.892Z
 - Контекст-зависимо: зависит от Viewpoint и доступных операторов.
 - Адаптивно: триггер MetaChangeFlow при высоком значении.
 - Эволюционно: полюса — Dunning-Kruger (низкое) и imposter syndrome (высокое).
+- Щсмысленность: снижает Doubt (бессмысленное Intent → высокий Doubt).
 
 ## 1.3.8.7. Связи с другими терминами / определениями {#1-3-8-7}
 - Зависит от: Viewpoint, ChangeOperators, ChangeFlow.
