@@ -2,7 +2,7 @@
 title: 1.3.7. Определение  ~ Опыт
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-25T10:56:17.216Z
+date: 2025-12-26T08:16:18.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-15T11:47:30.974Z
@@ -147,6 +147,7 @@ Intent-Flow → Context → ChangeOperators → Result (+1 / 0 / -1)
 - Дочерние: Experience Graph, типы опыта.
 - Связанные: DegradeScore (обновление), ChangeOperators (выбор).
 - Наблюдатель: — локальный Embedded ChangeOperator системы.
+- Осмысленность: — локальный Embedded ChangeOperator системы.
 
 ## 1.3.7.8. Связи с DegradeScore {#1-3-7-8}
 
