@@ -2,7 +2,7 @@
 title: 2.4.3.1. Пример  ~ Творческий процесс как Changeflow
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T17:33:57.065Z
+date: 2025-12-26T17:34:13.939Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T12:56:30.932Z
@@ -57,8 +57,6 @@ dateCreated: 2025-12-14T12:56:30.932Z
 - **Минимизированная фаза `implement`:**
   - реализация ограниченного числа сценариев;
   - высокая потеря альтернатив как неизбежная плата за актуализацию.
-
----
 
 ### 2.4.3.5. Формальная модель (KaTeX)
 ### 2.4.3.5.1. Обычный ChangeFlow
