@@ -2,7 +2,7 @@
 title: 2.4.3.1. Пример  ~ Творческий процесс как Changeflow
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T17:35:22.270Z
+date: 2025-12-26T17:36:07.301Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T12:56:30.932Z
@@ -82,8 +82,6 @@ $$
 
 Таким образом, творчество определяется не стохастикой выбора, а размером и разнообразием сформированного множества сценариев.
 
----
-
 ## 2.4.3.9. Creative ChangeFlow и субъективность
 
 В рамках ODS **субъективность (S)** определяется как строго функциональная мера расхождения доступных системе `ChangeOperators` и иерархий контекстов их применения.
@@ -97,7 +95,7 @@ Creative ChangeFlow является специализированным реж
 
 Это приводит к максимальному расхождению траекторий ChangeFlow относительно других систем или эталонных моделей.
 
-Формально:
+**Формально**:
 
 $$
 S \uparrow \;\Leftrightarrow\;
@@ -106,7 +104,7 @@ S \uparrow \;\Leftrightarrow\;
 \text{decide} \rightarrow \text{delayed}
 $$
 
-Следствие:
+**Следствие**:
 
 $$
 Creative\ ChangeFlow \;\Rightarrow\; S \gg 0
