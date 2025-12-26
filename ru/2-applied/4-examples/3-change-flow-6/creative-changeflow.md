@@ -2,7 +2,7 @@
 title: 2.4.3.1. Пример  ~ Творческий процесс как Changeflow
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T17:37:23.027Z
+date: 2025-12-26T17:38:41.633Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T12:56:30.932Z
@@ -29,7 +29,7 @@ dateCreated: 2025-12-14T12:56:30.932Z
 ### 2.4.1.3.2.2. Входящие *(ссылаются на этот документ)*
 → все документы /ru/1-core/, /ru/2-appied/ (автоматическая обратная связь)
 
-## Creative ChangeFlow
+## 2.4.3.3. Creative ChangeFlow {#2-4-3-3}
 
 ### 2.4.3.3. Определение
 **Creative ChangeFlow** — это особый режим ChangeFlow, в котором фазы `collect`, `analyze` и `forecast` целенаправленно расширены и доминируют над фазами `decide` и `implement`, с целью максимального увеличения пространства потенциальных сценариев и операторов изменений.
