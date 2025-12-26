@@ -1,8 +1,8 @@
 ---
-title: 2.2.6. Модель ~ Вариация Intent
+title: 2.2.6. Модель ~ Валидация Intent
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T08:48:11.891Z
+date: 2025-12-26T08:48:24.242Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T08:42:46.431Z
