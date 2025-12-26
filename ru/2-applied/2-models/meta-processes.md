@@ -2,7 +2,7 @@
 title: 2.2.11. Модель ~ Мета-процессы (MetaChangeFlow)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T15:52:27.916Z
+date: 2025-12-26T15:57:01.772Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T15:52:27.916Z
@@ -30,7 +30,14 @@ dateCreated: 2025-12-26T15:52:27.916Z
 ## 2.2.11.3. Описание модели {#2-2-11-3}
 Мета-процессы — рекурсивные циклы рефлексии над элементами ODS (Viewpoint, Intent, Doubt, параметры).
 
-### Структура (5 фаз)
+### Фазы (требует проработки)
+1. **Триггер → collect**:
+2. **Рефлексия → analyze**:
+3. **Генерация → forecast**: альтернативы via MetaOperators (Split/Merge/Rotate/Invent/Prune/Adjust).
+4. **Оценка → decide**: прогноз Doubt/EV/M.
+5. **Применение → implement**: фиксация нового состояния; архивация старого.
+6. **Архивация/обновление → evaluate**:
+
 1. **Триггер**: условие (Doubt > θ, низкая M и др.).
 2. **Рефлексия**: создание MetaViewpoint над объектом.
 3. **Генерация**: альтернативы via MetaOperators (Split/Merge/Rotate/Invent/Prune/Adjust).
