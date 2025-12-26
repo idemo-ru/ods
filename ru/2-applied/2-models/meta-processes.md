@@ -2,7 +2,7 @@
 title: 2.2.11. Модель ~ Мета-процессы (MetaChangeFlow)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T16:14:21.817Z
+date: 2025-12-26T16:15:28.179Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-26T15:52:27.916Z
