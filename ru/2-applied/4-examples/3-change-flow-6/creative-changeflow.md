@@ -2,7 +2,7 @@
 title: 2.4.3.1. Пример  ~ Творческий процесс как Changeflow
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-26T17:38:41.633Z
+date: 2025-12-26T17:44:55.594Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T12:56:30.932Z
@@ -62,9 +62,7 @@ dateCreated: 2025-12-14T12:56:30.932Z
 
 ## 2.4.3.6. Формальная модель
 ### 2.4.3.6.1. Обычный ChangeFlow
-$$
-|\mathcal{O}_{forecast}| \ll |\mathcal{O}_{collect}|
-$$
+$$|\mathcal{O}_{forecast}| \ll |\mathcal{O}_{collect}| \implies \text{High Filtering (Selective Pressure)}$$
 
 ### 2.4.3.6.2. Творческий ChangeFlow
 $$
