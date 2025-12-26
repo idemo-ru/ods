@@ -1,0 +1,58 @@
+---
+title: 2.2.11. Модель ~ Мета-процессы (MetaChangeFlow)
+description: IDEMO ~ Ontology of Dynamic Systems. __description__
+published: true
+date: 2025-12-26T15:52:27.916Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-26T15:52:27.916Z
+---
+
+## 2.2.11.1. Основное {#2-2-11-1}
+Документ описывает мета-процессы как рефлексивные циклы над ChangeFlow/Viewpoint/Intent.
+
+> *Версия: doc.2.2.11.v.1.0.0.1 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #1<br class="hidden-wiki"/>
+> *Фаза:* `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
+> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
+
+## 2.2.11.2. Связанные документы {#2-2-11-2}
+### 2.2.11.2.1. Исходящие *(ссылается этот документ)*
+- [2.2.4 Модель~MetaChangeFlow](/ru/2-applied/2-models/meta-change-flow.md)
+- [1.3.1 Определение~Viewpoint](/ru/1-core/3-definitions/viewpoint.md)
+- [1.3.7 Определение~Опыт](/ru/1-core/3-definitions/experience.md)
+
+### 2.2.11.2.2. Входящие *(ссылается на этот документ)*
+- (пока нет)
+
+## 2.2.11.3. Описание модели {#2-2-11-3}
+Мета-процессы — рекурсивные циклы рефлексии над элементами ODS (Viewpoint, Intent, Doubt, параметры).
+
+### Структура (5 фаз)
+1. **Триггер**: условие (Doubt > θ, низкая M и др.).
+2. **Рефлексия**: создание MetaViewpoint над объектом.
+3. **Генерация**: альтернативы via MetaOperators (Split/Merge/Rotate/Invent/Prune/Adjust).
+4. **Оценка**: прогноз Doubt/EV/M.
+5. **Применение**: фиксация нового состояния; архивация старого.
+
+Рекурсия: глубина ≤ 3.
+
+### Интеграция с графом опыта
+- Реюз успешных конфигураций.
+- Контрфактическая симуляция.
+- Обновление: superseded_by связи.
+
+## 2.2.11.4. Примеры мета-процессов {#2-2-11-4}
+- MetaChangeFlow: адаптация Viewpoint при Doubt.
+- Мета-валидация Intent: повышение M.
+- Мета-управление Doubt: корректировка параметров.
+
+## 2.2.11.5. Следствия модели {#2-2-11-5}
+- Универсальный механизм самоулучшения ODS.
+- Предотвращает застревание/паралич.
+- Ускоряет эволюцию архитектуры.
+
+> **Онлайн-версия:** https://ods.idemo.ru/ru/2-applied/2-models/meta-processes.md
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/2-applied/2-models/meta-processes.md
