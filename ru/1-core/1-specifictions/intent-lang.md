@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-29T23:05:40.217Z
+date: 2025-12-29T23:11:04.816Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -264,7 +264,8 @@ $flow_name(
   ),
   ... 
   => [
-  	/(user.io,aprove)! #ожидаем подтыверждения от агента user ! - если false -
+  	<>(user.io,aprove)! #ожидаем подтыверждения от агента user
+    /(user.io,aprove)! - подтверждено продолжаем дальше ! - подтверждение false (ошибка) прерываем flow
   ] >(
   	#при user.io,aprove переходим к implement
 	)
