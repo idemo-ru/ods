@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-29T23:11:04.816Z
+date: 2025-12-29T23:16:44.294Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -258,19 +258,20 @@ $flow_name(
 Примеры ожидания approve от контекста (агента) user:
 ```py
 $flow_name(
-	@(
-  	context_path:data
-    user.io
+@(
+   context_path:data
+	user.io
   ),
-  ... 
+  ...
   => [
-  	<>(user.io,aprove)! #ожидаем подтыверждения от агента user
-    /(user.io,aprove)! - подтверждено продолжаем дальше ! - подтверждение false (ошибка) прерываем flow
+   <>(user.io,aprove)! #ожидаем подтыверждения от агента user
+	/(user.io,aprove)! - подтверждено продолжаем дальше ! - подтверждение false (ошибка) прерываем flow
   ] >(
-  	#при user.io,aprove переходим к implement
+	-->(//ветка из условия в предыдущей фазе при true
+		implement
 	)
-  => >(implement = false) //если подтверждения нет - реализация не запускается
-  => [continue!] _()!
+	-->()!#при user.io,aprove переходим к implement - прерывание flow с выходом в evaluate -1
+   
 )
 ```
 ## tmp.1.1.6.11. Примеры структурных интентов. {#tmp-1-1-6-11}
