@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-30T11:12:05.780Z
+date: 2025-12-30T11:12:17.926Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -254,9 +254,7 @@ $flow_name(
 ```py
 $flow_name(
 	@(context_path:data),
-  => [
-  	^(context_path:data) #если сушествует - переходим к collect
-  ] >(
+  => >(
   	... ///только implement
 	)
 )
