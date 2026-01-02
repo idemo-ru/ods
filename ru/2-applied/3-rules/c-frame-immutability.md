@@ -2,7 +2,7 @@
 title: 2.3.5. Правило ~ C Frame
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-02T12:03:54.185Z
+date: 2026-01-02T12:06:20.278Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-02T12:03:54.185Z
@@ -113,16 +113,16 @@ dateCreated: 2026-01-02T12:03:54.185Z
 ```py
 $order_flow(
   @(logistics.crm:order.id=42),
-  =&gt; ?(collect),
-  =&gt; ??(analyze),
-  =&gt; ~(...),
-  =&gt; ^(...),
-  =&gt; &gt;(implement),
-  =&gt; _(evaluate)
+  => ?(collect),
+  => ??(analyze),
+  => ~(...),
+  => ^(...),
+  => >(implement),
+  => _(evaluate)
 )  
 # C-Frame зафиксирован до ? и не меняется до _
 ```
-✗ Нарушение:
+✗ Возможные нарушения:
 Во время implement внешний сервис изменил схему данных → namespace расширился → хеш C-Frame не совпал → Flow invalid.
 
 ## 2.3.5.13. Известные ограничения и риски {#2-3-5-13}
