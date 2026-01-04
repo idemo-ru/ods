@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T06:59:25.068Z
+date: 2026-01-04T07:01:08.792Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -329,8 +329,14 @@ $(
   => ~(...)													#forecast	
   => ^(...)													#decide	
 	=> >(															#implement
-  		result::get_user							
-					->set_user;
+  		result::(
+      	/(employee.buyer.id = 123)
+        	-->(
+          	->set_user
+          )
+          --> error
+					
+      )
   )
   => [
   		_state = employee, result			#Запись в состояние системы обязательно в фазовом переходе
