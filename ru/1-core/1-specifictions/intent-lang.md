@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T06:52:41.415Z
+date: 2026-01-04T06:56:34.334Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -284,7 +284,7 @@ $flow_name(
 	)
 )
 ```
-## tmp.1.1.6.11. Примеры структурных интентов. {#tmp-1-1-6-11}
+## tmp.1.1.6.11. Примеры использования сложных интентов. {#tmp-1-1-6-11}
 ```py
 # Внешний функциональный именованный интент
 
@@ -305,6 +305,7 @@ $flow_name(
 # Вызов в теле $
 => ::get_user
 
+
 #Вызов цепочки в фазе $ с присвоением результата переменной
 $(
 	@(crm.users)
@@ -315,10 +316,16 @@ $(
   )
   @(kafka)
   => ?(																					#collect
-  	arr.buyer::(/(users.id == 123)!)
+  	#парвллельное выполнение с присвоением результата
+  	arr.buyer::(/(users.id == 123)!) 
     arr.manager::(/(users.id == 124)!)
   ) 	
-  => ??(...)																	#analyze	
+  => ??(
+  	# последовательное выполнение
+  	::get_user
+    	->(any logic)
+    	->(any logic)
+  )																	#analyze	
   => ~(...)																		#forecast	
   => ^(...)																		#decide	
 	=> >(
