@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T06:29:50.688Z
+date: 2026-01-04T06:31:25.054Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
