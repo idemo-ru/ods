@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T06:45:48.349Z
+date: 2026-01-04T06:47:10.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -94,6 +94,11 @@ Separation of Semantics and Implementation
 | `^`    | decide    | decide             | выбор пути + ветвлени                     |
 | `>`    | implement | implement          | реализовать + обновить состояние системы  |
 | `_`    | evaluate  | evaluate           | зафиксировать опыт                        |
+
+**Короткий (детерминированный)  intent**
+| Символ | Имя       | Фаза ChangeFlow-6  | Смысл в реальности                        |
+|--------|-----------|--------------------|-------------------------------------------|
+| `>`    | implement | implement          | реализовать + обновить состояние системы  |
 
 ## tmp.1.1.6.7. Корневые операторы Intent {#tmp-1-1-6-7}
 | Символ | Имя          | Смысл                            | Связь с процессом        |
