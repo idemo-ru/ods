@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T06:58:33.555Z
+date: 2026-01-04T06:59:25.068Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -328,11 +328,13 @@ $(
   )																	#analyze	
   => ~(...)													#forecast	
   => ^(...)													#decide	
-	=> >(
-  		result::get_user							#implement
+	=> >(															#implement
+  		result::get_user							
 					->set_user;
   )
-  => [_state = employee, result				 #Запись в состояние системы] _(
+  => [
+  		_state = employee, result			#Запись в состояние системы обязательно в фазовом переходе
+     ] _(
   	_kafka.topic = /(result == +1 : local.mess.success | local.mess.error);
   )
 )  		
