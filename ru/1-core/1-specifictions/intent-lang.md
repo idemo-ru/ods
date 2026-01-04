@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent-Driven Semantic Language (IDSL)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T13:08:11.498Z
+date: 2026-01-04T13:23:59.828Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
