@@ -16,7 +16,7 @@ dateCreated: 2026-01-02T12:03:54.185Z
 > *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br class="hidden-wiki">
 > *Текущий ChangeFlow:* #9 <br class="hidden-wiki">;
 > *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br class="hidden-wiki">
-> a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"&gt;&lt;small&gt;Подробно о LifeCycle документа&lt;/small&gt;&lt;/a&gt;
+> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа<small></a>
 
 ---
 
