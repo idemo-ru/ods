@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T07:12:53.848Z
+date: 2026-01-04T07:22:47.134Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -90,7 +90,7 @@ Separation of Semantics and Implementation
 |--------|-----------|--------------------|-------------------------------------------|
 | `?`    | collect   | collect            | собрать контекст                          |
 | `??`   | analyze   | analyze            | осмыслить                                 |
-| `~`    | forecast  | forecast           | спрогнозировать                           |
+| `~`    | forecast  | forecast           | спрогнозировать, построит карту траекторий исходов                           |
 | `^`    | decide    | decide             | выбор пути + ветвлени                     |
 | `>`    | implement | implement          | реализовать + обновить состояние системы  |
 | `_`    | evaluate  | evaluate           | зафиксировать опыт                        |
