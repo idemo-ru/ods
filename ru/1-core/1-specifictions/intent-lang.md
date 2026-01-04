@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T06:34:06.873Z
+date: 2026-01-04T06:34:37.067Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -125,7 +125,7 @@ Separation of Semantics and Implementation
 | `$$`    | flow        | Экземпляр LC-6.  Реализует контракт фаз LC-6 [см. п. 1.1.5.__n__](#1-1-5-__n__)           |                       |
 | `$`    | flow        | Экземпляр CF-6.  Реализует полный контракт фаз CF-6 [см. п. 1.1.5.__n__](#1-1-5-__n__)           |                       |
 | `~$`    | flow        | Экземпляр CF-6.  Реализует контракт фаз детерминированного CF-6 (тольео implement) [см. п. 1.1.5.__n__](#1-1-5-__n__)           |                       |
-| `$$name`, `$name`, `~$name`    | named_flow        | Именованый экземпляр топологических flow LC-6, CF-6.             |                       |
+| `$$name` `$name` `~$name`    | named_flow        | Именованый экземпляр топологических flow LC-6, CF-6.             |                       |
 | `@`    | context        | Контекст            |                         |
 | `=>`    | phase_transition      | Оператор фазового перехода LC-6, CF-6.                           |                        |
 | `::`    | external_intent  | Внешний функциональный интент (либо параллельный, либо первый в цепочке (step 1)                               |                        |
