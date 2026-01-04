@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T06:50:33.291Z
+date: 2026-01-04T06:50:46.914Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -103,7 +103,7 @@ Separation of Semantics and Implementation
 Допустима нотация фаз по имени
 ```
 $flow_nam(
-	@(...)
+	context(...)
   => collect(...)
   => analyze(...)
   ...
