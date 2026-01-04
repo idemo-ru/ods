@@ -11,12 +11,12 @@ dateCreated: 2026-01-02T12:03:54.185Z
 ## 2.3.5.1. Основное {#2-3-5-1}
 Документ формализует правило: **Context Frame (C-Frame) обязан быть построен до старта ChangeFlow и остаётся неизменным до evaluate.**
 
-&gt; *Версия: doc.2.3.5.v.0.1.9.1 ∙ декабрь 2025*&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
-&gt; *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical&lt;br class="hidden-wiki"/&gt;
-&gt; *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
-&gt; *Текущий ChangeFlow:* #9&lt;br  class="hidden-wiki"/&gt;
-&gt; *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
-&gt; &lt;a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"&gt;&lt;small&gt;Подробно о LifeCycle документа&lt;/small&gt;&lt;/a&gt;
+> *Версия: doc.2.3.5.v.0.1.9.1 ∙ декабрь 2025 /br class="hidden-wiki"/br;
+> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical /br class="hidden-wiki"/&gt;
+> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
+> *Текущий ChangeFlow:* #9/br  class="hidden-wiki"/br;
+> *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
+> a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"&gt;&lt;small&gt;Подробно о LifeCycle документа&lt;/small&gt;&lt;/a&gt;
 
 ---
 
