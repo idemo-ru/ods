@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2025-12-30T11:12:17.926Z
+date: 2026-01-04T06:29:50.688Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -74,7 +74,7 @@ Separation of Semantics and Implementation
 Это ```квант вычислительного смысла```.
 
 ## tmp.1.1.6.6. Корневые топологические Intent - примитивы {#tmp-1-1-6-6}
-### Примитивы связанные с фазами LC-6.
+### Фазовые примитивы LC-6.
 | Символ | Имя       | Фаза LifeCycle-6      | Смысл в реальности                     |
 |--------|-----------|-----------------------|----------------------------------------|
 | `+`    | birth     | Birth                 | рождение                               |
@@ -85,7 +85,7 @@ Separation of Semantics and Implementation
 | `−`    | death     | End → death           | полная диссипация                      |
 | `=`    | transform | End → transform       | смерть старого + рождение нового       |
 
-### Примитивы связанные с фазами CF-6.
+### Фазовые примитивы CF-6.
 | Символ | Имя       | Фаза ChangeFlow-6  | Смысл в реальности                        |
 |--------|-----------|--------------------|-------------------------------------------|
 | `?`    | collect   | collect            | собрать контекст                          |
