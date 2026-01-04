@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T07:07:27.514Z
+date: 2026-01-04T07:12:17.138Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -299,8 +299,8 @@ $flow_name(
 )
 
 # Импорт (в секции контекстов)
- @(::get_user);
- @(::set_user);
+ @(crm::get_user);
+ @(crm::set_user);
  
 $flow_name(
 	@(crm)
@@ -315,10 +315,10 @@ $flow_name(
 )
  
 # Вызов в теле $
+...
+=> [] ?::get_user
+...
 
-...
-=> ::get_user
-...
 ...
 => [] ? (
 	::get_user
