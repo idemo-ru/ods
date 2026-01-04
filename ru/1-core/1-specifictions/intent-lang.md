@@ -2,7 +2,7 @@
 title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T06:34:37.067Z
+date: 2026-01-04T06:35:42.578Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
@@ -128,11 +128,11 @@ Separation of Semantics and Implementation
 | `$$name` `$name` `~$name`    | named_flow        | Именованый экземпляр топологических flow LC-6, CF-6.             |                       |
 | `@`    | context        | Контекст            |                         |
 | `=>`    | phase_transition      | Оператор фазового перехода LC-6, CF-6.                           |                        |
-| `::`    | external_intent  | Внешний функциональный интент (либо параллельный, либо первый в цепочке (step 1)                               |                        |
-| `result::`    | result_variable     | Внешний функциональный интент с присвоением результата переменной                               |                        |
-| `->`   |  external_intent_chain     | Внешний функциональный интент в цепочке (step > 1)                          |                   |
-| `::()`   |  external_intent_closure       | Функциональный интент-замыкание                          |                   |
-| `->()`   |  external_intent_chain_closure       |  Внешний функциональный интент в цепочке как замыкание                        |                   |
+| `::`    | external_intent  | Внешний сложный (compound) интент (либо параллельный, либо первый в цепочке (step 1)                               |                        |
+| `result::`    | result_variable     | Внешний сложный (compound) интент с присвоением результата переменной                               |                        |
+| `->`   |  external_intent_chain     | Внешний сложный (compound) интент в цепочке (step > 1)                          |                   |
+| `::()`   |  external_intent_closure       | сложный (compound) интент-замыкание                          |                   |
+| `->()`   |  external_intent_chain_closure       |  Внешний сложный (compound) интент в цепочке как замыкание                        |                   |
 | `-->()` | fork_chain | цепочка ветвлений (при ошибке переход в следующую ветку)| 
 
 ## tmp.1.1.6.9. Контекст и пространства имён. {#tmp-1-1-6-9}
