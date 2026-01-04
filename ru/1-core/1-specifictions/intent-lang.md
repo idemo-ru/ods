@@ -1,15 +1,15 @@
 ---
-title: tmp.1.1.6. Спецификация ~ Intent Lang - iLang
+title: tmp.1.1.6. Спецификация ~ Intent-Driven Semantic Language (IDSL)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-04T07:23:19.297Z
+date: 2026-01-04T13:06:51.604Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
 ---
 
 ## tmp.1.1.6.1. Основное {#tmp.1-2-6-1}
-Документ описывает iLang — чисто смысловой язык программирования в парадигме IDEMO.
+Документ описывает Intent-Driven Semantic Language (IDSL) — чисто смысловой язык программирования в парадигме IDEMO.
 
 
 > *Версия: doc.1.1.5.v.0.1.3.1 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
