@@ -2,7 +2,7 @@
 title: 1.3.10. Определение  ~  Идентичность
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-05T19:02:41.113Z
+date: 2026-01-05T19:03:23.460Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-05T19:02:41.113Z
@@ -11,12 +11,12 @@ dateCreated: 2026-01-05T19:02:41.113Z
 ## 1.3.10.1. Основное {#1-3-10-1}
 Документ описывает универсальный механизм идентичности системы, применимый ко всем классам от электрона до сверхразума.
 
-&gt; *Версия: doc.1.3.10.v.1.31.6 ∙ июнь 2025*&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
-&gt; *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical&lt;br class="hidden-wiki"/&gt;
-&gt; *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
-&gt; *Текущий ChangeFlow:* #31&lt;br  class="hidden-wiki"/&gt;
-&gt; *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
-&gt; &lt;a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"&gt;&lt;small&gt;Подробно о LifeCycle документа&lt;/small&gt;&lt;/a&gt;
+> *Версия: doc.1.3.10.v.1.31.6 ∙ июнь 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* `Draft` → Candidate → Stable → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #31<br  class="hidden-wiki"/>
+> *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
+> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
 ## 1.3.10.2. Связанные документы {#1-3-10-2}
 ### 1.3.10.2.1. Исходящие *(ссылается этот документ)*
