@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6
 description: ODS ~ LifeCycle-6. Универсальная топология полного цикла существования любой системы
 published: true
-date: 2026-01-05T16:04:44.395Z
+date: 2026-01-05T16:07:09.380Z
 tags: lifecycle, lc-6
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -21,7 +21,10 @@ dateCreated: 2025-12-07T06:58:52.045Z
 ## 1.1.1.2. Связанные документы {#1-1-1-2}
 ### 1.1.1.2.1. Исходящие *(ссылается этот документ)*
 - [2.1. Постулат ~ Об исключении антропоморфности](/ru/1-core/2-postulates/no-anthropomorphism.md)
+- [1.1.2. Спецификация ~ ChengFlow-6](/ru/1-core/1-specifictions/change-flow-6.md)
+- [1.1.6. Спецификация ~ Фазовый переход](/ru/1-core/1-specifictions/phase-transition.md)
 - [1.1.3. Спецификация ~ DegradeScore](/ru/1-core/1-specifictions/degrade_score.md)
+
 ### 1.1.1.2.2. Входящие *(ссылаются на этот документ)*
 *отсутствуют*
 
