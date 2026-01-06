@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6
 description: ODS ~ LifeCycle-6. Универсальная топология полного цикла существования любой системы
 published: true
-date: 2026-01-06T10:22:00.802Z
+date: 2026-01-06T10:24:26.951Z
 tags: lifecycle, lc-6
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -92,7 +92,7 @@ birth, develop, climax, degrade, turn, end — метафоры, не влияю
 | **F₃** | DS ≤ 0,2, τ ≥ τ_stable,min | устойчивое плато |
 | **F₄** | DS ↑, DS ≥ 0,35, τ ≥ τ_phase,min | накопление износа |
 | **F₅** | DS = 1, последний CF-6 завершён | точка невозврата |
-| **F₆** | exists=false навсегда **или** ClassTag_новый | завершение цикла |
+| **F₆** | exists=false навсегда **или** ClassTag_новый | завершение текущего LC-6-инстанса |
 
 ## 1.1.1.δ. Компактная запись LifeCycle-6 {#1-1-1-delta}
 $$LC = ⟨Tag, [F₁⇒F₂⇒F₃⇒F₄⇒F₅⇒F₆]⟩$$
