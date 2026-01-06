@@ -2,7 +2,7 @@
 title: 1.1.3. Спецификация ~ Реестр агрегатных метрик состояния системы
 description: IDEMO ~ Ontology of Dynamic Systems. DegradeScore — универсальная метрика деградации любой системы (от частиц до цивилизаций), единственная координата, определяющая текущую из шести фаз жизненного цикла.
 published: true
-date: 2026-01-06T07:01:57.115Z
+date: 2026-01-06T07:22:17.873Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
@@ -144,9 +144,10 @@ DegradeScore остаётся единой фундаментальной ска
  Любая претензия на «субъективизм» снимается **векторной аксиомой**, жёстко привязанной к ClassTag.
  
 ## 1.1.3.12. Приложение C — хэш калибровочного датасета {#1-1-3-12}
-Датасет «ClassCal-2025-Q2» (N = 6 000 систем, 1 000 на класс) опубликован в [ods-datasets](https://github.com/idemo-ru/ods-datasets).  
+В разработке
+<!--Датасет «ClassCal-2025-Q2» (N = 6 000 систем, 1 000 на класс) опубликован в [ods-datasets](https://github.com/idemo-ru/ods-datasets).  
 SHA-256 хэш использованных строк: `a7f3c9…e4d2` (файл `class-cal-2025-q2.csv`).  
-Любое изменение таблицы ω или θ **требует нового датасета и нового хэша**.
+Любое изменение таблицы ω или θ **требует нового датасета и нового хэша**.-->
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifications/aggregate-metrics.md 
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifications/aggregate-metrics.md
