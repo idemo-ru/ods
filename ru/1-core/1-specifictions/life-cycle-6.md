@@ -2,14 +2,14 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6
 description: ODS ~ LifeCycle-6. Универсальная топология полного цикла существования любой системы
 published: true
-date: 2026-01-06T13:55:51.218Z
+date: 2026-01-06T15:43:21.228Z
 tags: lifecycle, lc-6
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
 ---
 
 ## 1.1.1.1. Основное {#1-1-1-1}
-Документ описывает **LifeCycle-6** как **теорему** о **шестифазной топологии** любой системы класса ≥ 1, реализующей дуализм LifeCycle ⊕ ChangeFlow.
+Документ описывает **LifeCycle-6** как **теорему** о **шестифазной топологии** смены устойчивых режимов любой системы класса ≥ 1, реализующей дуализм LifeCycle ⊕ ChangeFlow.
 
 > *Версия: doc.1.1.1.v.1.1.57.2 ∙ декабрь 2025*<br class="hidden-wiki"/>
 > *Текущий LifeCycle:*. ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>
