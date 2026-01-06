@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6
 description: ODS ~ LifeCycle-6. Универсальная топология полного цикла существования любой системы
 published: true
-date: 2026-01-06T10:18:51.173Z
+date: 2026-01-06T10:22:00.802Z
 tags: lifecycle, lc-6
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -26,6 +26,7 @@ dateCreated: 2025-12-07T06:58:52.045Z
 - [1.1.6 Спецификация ~ Фазовый переход](https://ods.idemo.ru/ru/1-core/1-specifictions/phase-transition.md)
 - [1.1.3 Спецификация ~ Агрегатные метрики](https://ods.idemo.ru/ru/1-core/1-specifications/aggregate-metrics.md)
 - [1.3.0 Определение ~ Система](https://ods.idemo.ru/ru/1-core/3-definitions/0-system.md)
+- [1.3.10. Определение ~ Идентичность](/ru/1-core/3-definitions/identity)
 
 ### Входящие
 *отсутствуют*
