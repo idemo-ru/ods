@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-06T20:23:14.630Z
+date: 2026-01-06T20:28:29.171Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
@@ -116,9 +116,56 @@ transition:
 | Экономика   | Рынок: бычий → медвежий                      | Эйфория → переоценка активов → паника → распродажа → установление нового равновесия.               |
 
 ## 1.1.6.10. Заключение {#1-1-6-10}
-PhaseTransition — суверенная мембрана системы: разделяет качество мышления (фаза) и качество взаимодействия (переход). Смерть в переходе — эволюционная цена за уточнение маршрута.
 
-Новизна концепта PhaseTransition в ODS высока: аналогов в софте мало.
+**PhaseTransition** — **автономный процесс** утраты устойчивости прежнего режима,  
+**разделяющий** **качество фазы** и **качество взаимодействия** в системе.  
+**Смерть в переходе** — **эволюционная цена** за **уточнение маршрута**.
+
+---
+
+### 1.1.6.10.1. Уникальность концепта
+
+**Новизна PhaseTransition в ODS высока**:  
+- **единственная** онтология, где **переход = процесс**, **а не событие**,  
+- **все переходы** **возвращают `bool`** — **разрешают или прерывают** ChangeFlow,  
+- **все переходы** **имеют In-Transition** и **order parameter**,  
+- **все переходы** **фиксируются** в **открытом логе** с **метриками**.
+
+---
+
+### 1.1.6.10.2. Разделение на **PhaseEvent / PhaseTransition**
+
+| Класс | Синтаксис | Внутреннее время | Примечание |
+|-------|-----------|------------------|------------|
+| **PhaseEvent** | `=> [/(cond)] F()` | ~0 | **мгновенный** переход **без In-Transition** |
+| **PhaseTransition** | `=> [::intent(...)] F()` | переменная | **процесс** с **τ, метриками, возможным провалом** |
+
+---
+
+### 1.1.6.10.3. Сравнение с существующими подходами
+
+| Подход | Переход = событие | In-Transition | order parameter | Открытый лог |
+|--------|-------------------|---------------|-----------------|--------------|
+| **Akka / Erlang** | ✅ | ❌ | ❌ | ❌ |
+| **Scala staging** | ✅ | ❌ | ❌ | ❌ |
+| **Petri net** | ✅ | ❌ | ❌ | ❌ |
+| **ODS PhaseTransition** | ❌ | ✅ | ✅ | ✅ |
+
+---
+
+### 1.1.6.10.4. Путь внедрения (без разрыва с existing кодом)
+
+1. **Wrap existing state-machine** в **LifeCycle-6** шаблон,  
+2. **Replace** `state = S_NEW` с `=> [::intent(...)] F()`,  
+3. **Log** `result: bool`, `τ`, `order_parameter`, **open-data + open-code**,  
+4. **Publish** YAML-лог **с булевым якорем** для **peer-review**.
+
+---
+
+### 1.1.6.10.5. Итоговое однострочное резюме:
+> **PhaseTransition — это не «переход состояний», а «открытый процесс с булевым якорем», который можно внедрить в любой код без разрыва существующей архитектуры.**
+
+<!--Новизна концепта PhaseTransition в ODS высока: аналогов в софте мало.
 Ближайшие: multi-stage programming (MetaML, MetaOCaml, Scala staging) — разделение на фазы для генерации кода, но фокус на compile/runtime stages, не на онтологической утрате устойчивости как в синергетике.
 В reactive/actor models (Akka, Erlang) — message-driven переходы состояний, но неявные, без явной модели In-Transition и order parameter.
 Риск неадоптации реален на draft-стадии, но решаем: через прототипы, эмпирику в доменах и интеграцию с существующими (e.g., staging в Scala).
@@ -132,7 +179,7 @@ LMS (Lightweight Modular Staging, Scala 2): Библиотека для runtime 
 Scala Quasiquotes (Scala 2): синтаксис вроде q"code $var" для конструкций/деструкций AST в macros (на основе reflection).
 Scala 3 Quotes & Splices: замена quasiquotes — '{code} (quote, задержка) и ${expr} (splice, вставка). Более типобезопасны, поддерживают runtime multi-stage programming, без reflection.
 Сходство: оба для метапрограммирования и staging (генерация кода по этапам).
-Различия: quasiquotes — compile-time macros; quotes/splices — duals, гибче для multi-stage (compile + runtime). Quasiquotes устарели в Scala 3.
+Различия: quasiquotes — compile-time macros; quotes/splices — duals, гибче для multi-stage (compile + runtime). Quasiquotes устарели в Scala 3.-->
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/phase-transition.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/phase-transition.md
