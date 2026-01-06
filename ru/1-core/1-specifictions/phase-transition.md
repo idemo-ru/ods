@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-06T20:11:52.789Z
+date: 2026-01-06T20:12:26.989Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
@@ -60,7 +60,7 @@ dateCreated: 2025-12-24T20:15:52.464Z
 | **Условный (логический)** | **PhaseEvent** | `=> [/(cond)] F()` | ~0 | ❌ | Если условие true → мгновенный скачок |
 | **Процессный (intent-driven)** | **PhaseTransition** | `=> [::intent(...)] F()` | переменная | ✅ | Полноценный процесс с τ, метриками, возможным провалом |
 | **Композитный** | **PhaseTransition** | `=> [/(cond) ::intent(...)] F()` | переменная | ✅ | Сначала условие, затем процесс |
-| **Адаптивный (метрика-driven)** | **PhaseTransition** | `=> [/(DegradeScore ≤ 0.15 stable Δt)]` | переменная | ✅ | Ожидание устойчивости метрики |
+| **Адаптивный (метрика-driven)** | **PhaseTransition** | `=> <>[(DegradeScore ≤ 0.15 stable Δt)]` | переменная | ✅ | Ожидание устойчивости метрики |
 | **Транспортный** | **PhaseTransition** | `=> ::transport(...)!!` | часы–дни | ✅ | Асинхронный перенос данных/состояния |
 | **Каскадный** | **PhaseTransition** | `=>[logic1] ->[logic2] ->(logic3) F()` | переменная | ✅ | Цепочка процессов с fallback |
 | **Контрфактический** | **PhaseTransition** | `=> _[...] F()` | симуляция | ✅ | «Что если» без коммита |
