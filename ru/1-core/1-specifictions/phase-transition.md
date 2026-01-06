@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-06T20:32:33.577Z
+date: 2026-01-06T20:32:55.710Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
@@ -184,7 +184,7 @@ PhaseTransition — это не «инструмент для программи
 ### 1.1.6.12.5. Итоговое однострочное резюме:
 > **PhaseTransition — это не «переход состояний», а «открытый процесс с булевым якорем», который можно внедрить в любой код без разрыва существующей архитектуры.**
 
-<!--Новизна концепта PhaseTransition в ODS высока: аналогов в софте мало.
+Новизна концепта PhaseTransition в ODS высока: аналогов в софте мало.
 Ближайшие: multi-stage programming (MetaML, MetaOCaml, Scala staging) — разделение на фазы для генерации кода, но фокус на compile/runtime stages, не на онтологической утрате устойчивости как в синергетике.
 В reactive/actor models (Akka, Erlang) — message-driven переходы состояний, но неявные, без явной модели In-Transition и order parameter.
 Риск неадоптации реален на draft-стадии, но решаем: через прототипы, эмпирику в доменах и интеграцию с существующими (e.g., staging в Scala).
@@ -198,7 +198,7 @@ LMS (Lightweight Modular Staging, Scala 2): Библиотека для runtime 
 Scala Quasiquotes (Scala 2): синтаксис вроде q"code $var" для конструкций/деструкций AST в macros (на основе reflection).
 Scala 3 Quotes & Splices: замена quasiquotes — '{code} (quote, задержка) и ${expr} (splice, вставка). Более типобезопасны, поддерживают runtime multi-stage programming, без reflection.
 Сходство: оба для метапрограммирования и staging (генерация кода по этапам).
-Различия: quasiquotes — compile-time macros; quotes/splices — duals, гибче для multi-stage (compile + runtime). Quasiquotes устарели в Scala 3.-->
+Различия: quasiquotes — compile-time macros; quotes/splices — duals, гибче для multi-stage (compile + runtime). Quasiquotes устарели в Scala 3.
 
 > **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifictions/phase-transition.md
 > **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifictions/phase-transition.md
