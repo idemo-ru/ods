@@ -2,7 +2,7 @@
 title: 2.2.12.  Модель ~ Агрегатные метрики — универсальная рамка
 description: IDEMO ~ Ontology of Dynamic Systems. Агрегатные метрики — универсальная рамка
 published: true
-date: 2026-01-06T13:38:38.872Z
+date: 2026-01-06T13:39:31.202Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
