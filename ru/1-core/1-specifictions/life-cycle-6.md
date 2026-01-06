@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6
 description: ODS ~ LifeCycle-6. Универсальная топология полного цикла существования любой системы
 published: true
-date: 2026-01-06T06:45:55.992Z
+date: 2026-01-06T07:15:15.776Z
 tags: lifecycle, lc-6
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -14,12 +14,12 @@ dateCreated: 2025-12-07T06:58:52.045Z
 Под системой, способной к изменениям, понимается любая система класса ≥ 1 (см. 1.3.0.5.1 Классификация систем по уровню сложности и эмерджентности), для которой выполнение хотя бы одного ChangeFlow-6 фиксируется как операционный признак принадлежности к этому классу.
 Таким образом, LifeCycle-6 описывает цикл уже классифицированной системы, а не определяет сам факт классификации.
 
-> *Версия: doc.v.1.57.2 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
-> *Текущий LifeCycle:*. ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>
-> *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End<br/><br class="hidden-wiki"/>
-> *Текущий ChangeFlow:* #57<br  class="hidden-wiki"/>
-> *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate<br/><br class="hidden-wiki"/>
-> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
+&gt; *Версия: doc.v.1.57.2 ∙ декабрь 2025*&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
+&gt; *Текущий LifeCycle:*. ~~Draft~~ → `Candidate` → Stable → Canonical&lt;br class="hidden-wiki"/&gt;
+&gt; *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
+&gt; *Текущий ChangeFlow:* #57&lt;br  class="hidden-wiki"/&gt;
+&gt; *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
+&gt; &lt;a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"&gt;&lt;small&gt;Подробно о LifeCycle документа&lt;/small&gt;&lt;/a&gt;
 
 ## 1.1.1.2. Связанные документы {#1-1-1-2}
 ### 1.1.1.2.1. Исходящие *(ссылается этот документ)*
@@ -46,7 +46,7 @@ dateCreated: 2025-12-07T06:58:52.045Z
 |---|------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | birth      | Контролируемый переход exists: false → true. Передача структуры и контекстов от родителя. Формирование локального контекста. DegradeScore = 1.0 |
 | 2 | develop    | Активный рост сложности и эффективности через преимущественно успешные ChangeFlow-6. DegradeScore быстро стремится к 0            |
-| 3 | climax     | Период максимальной устойчивости и генерации избыточного ресурса. DegradeScore колеблется 0.0–0.2                               |
+| 3 | climax     | Период максимальной устойчивости и генерации избыточного ресурса. DegradeScore колеблется [0.00, 0.20)                               |
 | 4 | degrade    | Перманентная самоускоряющаяся деградация после устойчивого превышения DegradeThreshold. DegradeScore → 1.0       |
 | 5 | turn       | Точка невозврата (DegradeScore = 1.0). Последний радикальный ChangeFlow-6 фиксирует выбор пути                                 |
 | 6 | end    | Реализация пути:&lt;br&gt;• **death** — полная диссипация идентичности (exists → false навсегда)&lt;br&gt;• **transform** — death старого + birth нового воплощения при сохранении идентичности, с новыми условиями и правилами, сбросе DegradeScore ≈ 1.0 |
@@ -57,21 +57,22 @@ End всегда является завершением текущего LifeCy
 
 **DegradeVector**(S, t) = ⟨DegradeScore(t), Δt_stable(t), Δt_phase(t), ClassTag⟩ — 4-мерная координата, однозначно определяющая фазу LifeCycle-6.
 
-**DegradeScore** ∈ [0,1] — скалярная метрика, вычисляемая по частным показателям (см. [1.1.3. Агрегатные метрики](/ru/1-core/1-specifications/aggregate-metrics.md)).  
+**DegradeScore** ∈ [0,1] — скалярная метрика, вычисляемая по частным показателям (см. [1.1.3.7](/ru/1-core/1-specifications/aggregate-metrics.md#1-1-3-7)).  
 **Δt_stable** — длительность непрерывного плато DegradeScore ≤ 0,2 **до момента t**.  
 **Δt_phase** — длительность непрерывного превышения DegradeThreshold **до момента t**.  
 **ClassTag** — строка-идентификатор класса системы (`C-1-Natural` … `C-6-Super`), фиксируется при рождении и не меняется внутри LifeCycle.
 
 **Фазовая аксиома** — жёсткая таблица Phase : DegradeVector → {birth, develop, climax, degrade, turn, end}  
--(см. [1.1.3. Агрегатные метрики, таблицу в § 1.1.3.7](/ru/1-core/1-specifications/aggregate-metrics.md#1-1-3-7)).
-+(см. [1.1.3.7](/ru/1-core/1-specifications/aggregate-metrics.md#1-1-3-7)).
+(см. [1.1.3.7](/ru/1-core/1-specifications/aggregate-metrics.md#1-1-3-7)).
 
 Наблюдатель **вычисляет** вектор и **читает** фазу; интерпретации **нет**.
  
- > Примечание: если DegradeVector попадает в **промежуточную ячейку**, система считается находящейся в **фазе wait** до тех пор, пока вектор не выйдет в однозначную зону. 
+&gt; Примечание: если DegradeVector попадает в **промежуточную ячейку**, система считается находящейся в **фазе wait** до тех пор, пока вектор не выйдет в однозначную зону. 
 
-### 1.1.1.5.1. ClassTag — идентификатор класса {#1-1-1-5-1}
-Смотри связанные документы.
+&gt; **Алгоритм выхода из `wait`:** наблюдатель **ежедневно** пересчитывает DegradeVector; как только вектор попадает в **однозначную ячейку**, фаза фиксируется и `wait` снимается.
+
+## 1.1.1.5.1. ClassTag — идентификатор класса {#1-1-1-5-1}
+ClassTag определён в [1.3.0.5.4](/ru/1-core/3-definitions/0-system.md#1-3-0-5-4).
 
 ## 1.1.1.5.2. Примечание о метаморфозе и векторе
 
@@ -93,7 +94,7 @@ End всегда является завершением текущего LifeCy
 | degrade → turn         | процесс     | DS = 1.0                                                                    | часы–тысячелетия                 |
 | turn → end             | условный    | Завершение последнего радикального ChangeFlow-6                             | отсутствует (не процесс)         |
 
-Δt_stable_min и Δt_phase_min зависят **только** от ClassTag и приведены в Прил. X.
+Δt_stable_min и Δt_phase_min зависят **только** от ClassTag и приведены в [1.1.3.7](/ru/1-core/1-specifications/aggregate-metrics.md#1-1-3-7).
 
 ## 1.1.1.7. Вырожденные реализации {#1-1-1-7}
 Вырожденные реализации фиксируют наблюдательные ограничения и экстремальные условия, при этом **не нарушают логической полноты LifeCycle-6**.
@@ -130,9 +131,9 @@ End всегда является завершением текущего LifeCy
 
 ## 1.1.1.8. Заключение {#1-1-1-8}
 LifeCycle-6 (Birth → Develop → Climax → Degrade → Turn → End) — онтологически полный и логически неустранимый цикл существования любой системы, способной к ChangeFlow.  
-**Единственный универсальный координатный вектор** — DegradeVector ⟨DegradeScore, Δt_stable, Δt_phase, ClassTag⟩.  
+**Единственный универсальный координатный вектор** — [DegradeVector](/ru/1-core/1-specifications/aggregate-metrics.md#1-1-3-9) ⟨DegradeScore, Δt_stable, Δt_phase, ClassTag⟩.  
 Все наблюдаемые жизненные траектории (от протона до цивилизации) являются частными или вырожденными случаями этой шестифазной структуры и подчиняются **векторной аксиоме**, а не субъективной интерпретации.  
 Попытки свести цикл к меньшему числу фаз приводят к логическим противоречиям и эволюционной нежизнеспособности.
 
-> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifications/life-cycle-6 <br class="hidden-wiki"/>
-> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifications/life-cycle-6.md
+&gt; **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifications/life-cycle-6  &lt;br class="hidden-wiki"/&gt;
+&gt; **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifications/life-cycle-6.md
