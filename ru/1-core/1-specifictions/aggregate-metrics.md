@@ -2,7 +2,7 @@
 title: 1.1.3. Спецификация ~ Реестр агрегатных метрик состояния системы
 description: IDEMO ~ Ontology of Dynamic Systems. DegradeScore — универсальная метрика деградации любой системы (от частиц до цивилизаций), единственная координата, определяющая текущую из шести фаз жизненного цикла.
 published: true
-date: 2026-01-06T06:50:31.374Z
+date: 2026-01-06T06:52:03.418Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
@@ -126,7 +126,7 @@ ClassTag **впервые выставляется наблюдателем** п
 
 ## 1.1.3.9. DegradeVector и фазовая аксиома {#1-1-3-9}
 **DegradeVector**(S, t) = ⟨DS(t), Δt_stable(t), Δt_phase(t), ClassTag⟩  
-**Фазовая аксиома** — таблица Phase : DegradeVector → {birth, develop, climax, degrade, turn, end} (Прил. X).  
+**Фазовая аксиома** — таблица Phase : DegradeVector → {birth, develop, climax, degrade, turn, end} (см. таблицу в 1.1.3.7).  
 Наблюдатель вычисляет вектор и читает фазу; интерпретации нет.
 
 ## 1.1.3.10. Практика наблюдателя {#1-1-3-10}
