@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-06T20:31:34.416Z
+date: 2026-01-06T20:32:08.911Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
@@ -150,7 +150,7 @@ PhaseTransition — это не «инструмент для программи
 
 ---
 
-## 1.1.6.12. Дополнительно
+## 1.1.6.12. Пример. Программирование и ИС
 
 ### 1.1.6.12.1. Уникальность концепта
 
