@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6
 description: ODS ~ LifeCycle-6. Универсальная топология полного цикла существования любой системы
 published: true
-date: 2026-01-06T07:15:15.776Z
+date: 2026-01-06T07:24:08.474Z
 tags: lifecycle, lc-6
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -14,12 +14,12 @@ dateCreated: 2025-12-07T06:58:52.045Z
 Под системой, способной к изменениям, понимается любая система класса ≥ 1 (см. 1.3.0.5.1 Классификация систем по уровню сложности и эмерджентности), для которой выполнение хотя бы одного ChangeFlow-6 фиксируется как операционный признак принадлежности к этому классу.
 Таким образом, LifeCycle-6 описывает цикл уже классифицированной системы, а не определяет сам факт классификации.
 
-&gt; *Версия: doc.v.1.57.2 ∙ декабрь 2025*&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
-&gt; *Текущий LifeCycle:*. ~~Draft~~ → `Candidate` → Stable → Canonical&lt;br class="hidden-wiki"/&gt;
-&gt; *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
-&gt; *Текущий ChangeFlow:* #57&lt;br  class="hidden-wiki"/&gt;
-&gt; *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate&lt;br/&gt;&lt;br class="hidden-wiki"/&gt;
-&gt; &lt;a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"&gt;&lt;small&gt;Подробно о LifeCycle документа&lt;/small&gt;&lt;/a&gt;
+> *Версия: doc.v.1.57.2 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:*. ~~Draft~~ → `Candidate` → Stable → Canonical<br class="hidden-wiki"/>
+> *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #57<br  class="hidden-wiki"/>
+> *Фаза:*  ~~collect~~ → ~~analyze~~ → `forecast` → decide → implement → evaluate<br/><br class="hidden-wiki"/>
+> <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
 ## 1.1.1.2. Связанные документы {#1-1-1-2}
 ### 1.1.1.2.1. Исходящие *(ссылается этот документ)*
@@ -67,9 +67,9 @@ End всегда является завершением текущего LifeCy
 
 Наблюдатель **вычисляет** вектор и **читает** фазу; интерпретации **нет**.
  
-&gt; Примечание: если DegradeVector попадает в **промежуточную ячейку**, система считается находящейся в **фазе wait** до тех пор, пока вектор не выйдет в однозначную зону. 
+> Примечание: если DegradeVector попадает в **промежуточную ячейку**, система считается находящейся в **фазе wait** до тех пор, пока вектор не выйдет в однозначную зону. 
 
-&gt; **Алгоритм выхода из `wait`:** наблюдатель **ежедневно** пересчитывает DegradeVector; как только вектор попадает в **однозначную ячейку**, фаза фиксируется и `wait` снимается.
+> **Алгоритм выхода из `wait`:** наблюдатель **ежедневно** пересчитывает DegradeVector; как только вектор попадает в **однозначную ячейку**, фаза фиксируется и `wait` снимается.
 
 ## 1.1.1.5.1. ClassTag — идентификатор класса {#1-1-1-5-1}
 ClassTag определён в [1.3.0.5.4](/ru/1-core/3-definitions/0-system.md#1-3-0-5-4).
@@ -135,5 +135,5 @@ LifeCycle-6 (Birth → Develop → Climax → Degrade → Turn → End) — он
 Все наблюдаемые жизненные траектории (от протона до цивилизации) являются частными или вырожденными случаями этой шестифазной структуры и подчиняются **векторной аксиоме**, а не субъективной интерпретации.  
 Попытки свести цикл к меньшему числу фаз приводят к логическим противоречиям и эволюционной нежизнеспособности.
 
-&gt; **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifications/life-cycle-6  &lt;br class="hidden-wiki"/&gt;
-&gt; **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifications/life-cycle-6.md
+> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifications/life-cycle-6  <br class="hidden-wiki"/>
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifications/life-cycle-6.md
