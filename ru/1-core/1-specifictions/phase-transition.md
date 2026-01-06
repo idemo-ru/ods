@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-06T20:17:13.806Z
+date: 2026-01-06T20:22:33.777Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
@@ -67,8 +67,26 @@ dateCreated: 2025-12-24T20:15:52.464Z
 | **Каскадный** | **PhaseTransition** | `=>[logic1] ->[logic2] ->[logic3] F()` | переменная | ✅ | Цепочка процессов с fallback |
 | **Контрфактический** | **PhaseTransition** | `=> _[logic] F()` | симуляция | ✅ | «Что если» без коммита |
 
-> **Результат любого перехода — `bool` (`true`/`false`)**.  
-> В безусловном переходе — `true` по умолчанию.
+**Результат любого перехода — `bool` (`true`/`false`)**.  
+`true` → переход завершён, следующая фаза стартует,
+`false` → ChangeFlow прерывается с кодом -1 (absorbing state) или 0.
+*0 — нейтральный якорь, не влияет на DS, но логируется.*
+
+В безусловном переходе — `true` по умолчанию.
+
+``` yaml
+transition:
+  id: T-2026-001
+  from: F₃
+  to: F₄
+  type: ProcessTransition
+  syntax: => [::intent(collapse_wavefunction)] F₄
+  τ: 3.2e-9
+  result: false
+  code: -1
+  In-Transition: true
+  order_parameter: 0.97
+```
 
 > Доработать синтаксис
 {.is-danger}
