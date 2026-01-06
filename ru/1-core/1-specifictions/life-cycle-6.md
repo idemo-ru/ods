@@ -2,7 +2,7 @@
 title: 1.1.1. Спецификация ~ LifeCycle-6
 description: ODS ~ LifeCycle-6. Универсальная топология полного цикла существования любой системы
 published: true
-date: 2026-01-06T10:01:35.128Z
+date: 2026-01-06T10:02:57.367Z
 tags: lifecycle, lc-6
 editor: markdown
 dateCreated: 2025-12-07T06:58:52.045Z
@@ -61,3 +61,12 @@ birth, develop, climax, degrade, turn, end — метафоры, не влияю
 
 ## 1.1.1.δ. Компактная запись LifeCycle-6 {#1-1-1-delta}
 $$LC = ⟨Tag, [F₁⇒F₂⇒F₃⇒F₄⇒F₅⇒F₆]⟩$$
+
+- **Tag** — ClassTag, фиксируется при F₁,  
+- **⇒** — PhaseTransition (1.1.6.5), необратимый, с собственным временем,  
+- **Квадратные скобки** = обязательная последовательность, без пропусков.
+
+**Примеры:**
+$Sun          = ⟨LC-1-Natural, [F₁⇒F₂⇒F₃⇒F₄⇒F₅⇒F₆]⟩$
+$Electron     = ⟨LC-1-Natural, [F₁⇒F₂⇒F₃⇒F₄⇒F₅⇒F₆]⟩$
+$DockerContainer = ⟨LC-5-FullMind, [F₁⇒F₂⇒F₃⇒F₄⇒F₅⇒F₆]⟩$
