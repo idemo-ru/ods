@@ -2,7 +2,7 @@
 title: 2.2.12.  Модель ~ Агрегатные метрики — универсальная рамка
 description: IDEMO ~ Ontology of Dynamic Systems. Агрегатные метрики — универсальная рамка
 published: true
-date: 2026-01-06T10:51:32.248Z
+date: 2026-01-06T10:52:02.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T11:58:25.184Z
@@ -101,5 +101,5 @@ code: "https://github.com/xxx/ds-sun"
 позволяет любому домену вставить свои числа с доказательством,
 делает фальсификацию и сравнение междисциплинарным процессом, а не частной эвристикой.
 
-> **Онлайн-версия:** https://ods.idemo.ru/ru/1-core/1-specifications/aggregate-metrics.md 
-> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/1-core/1-specifications/aggregate-metrics.md
+> **Онлайн-версия:** https://ods.idemo.ru/ru/2-applied/2-models/aggregate-metrics/aggregate-metrics.md 
+> **GitHub-версия:** https://github.com/idemo-ru/ods/blob/main/ru/2-applied/2-models/aggregate-metrics/aggregate-metrics.md
