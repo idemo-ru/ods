@@ -2,7 +2,7 @@
 title: 1.1.6. Спецификация ~ Фазовый переход
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-06T20:22:33.777Z
+date: 2026-01-06T20:23:14.630Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T20:15:52.464Z
@@ -87,10 +87,6 @@ transition:
   In-Transition: true
   order_parameter: 0.97
 ```
-
-> Доработать синтаксис
-{.is-danger}
-
 
 ## 1.1.6.8. Метрики {#1-1-6-8}
 | Метрика                  | Обозначение   | Описание                                                                 | Применение (примеры)                  |
