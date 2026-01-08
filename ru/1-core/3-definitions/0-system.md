@@ -2,7 +2,7 @@
 title: 1.3.0. Определение  ~  Система
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-08T10:20:46.981Z
+date: 2026-01-08T10:21:55.825Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T00:22:16.120Z
@@ -45,7 +45,7 @@ dateCreated: 2025-12-12T00:22:16.120Z
 **Система Y** в Ontology of Dynamic Systems — это устойчивая, локализованная во времени и пространстве сущность, которая **обязательно и одновременно** обладает:
 
 1. **Дуализмом LifeCycle ⊕ ChangeFlow**  
-2. **Непустым C-Layer**  
+2. **C-Layer ≠ ∅ ⇔ существует хотя бы один observable change, не сводимый к внешнему наблюдателю**  
 3. **Наблюдаемой динамикой изменений**
 
 Формально:
