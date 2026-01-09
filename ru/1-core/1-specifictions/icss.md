@@ -2,14 +2,14 @@
 title: tmp.1.1.6. Спецификация ~ ICSS (Intent Calculus Surface Syntax)
 description: IDEMO ~ Ontology of Dynamic Systems. __description__
 published: true
-date: 2026-01-09T11:25:03.848Z
+date: 2026-01-09T11:25:29.082Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T14:35:03.657Z
 ---
 
 ## tmp.1.1.6.1. Основное {#tmp.1-2-6-1}
-Документ описывает ICSS как формальный поверхностный синтаксис для выражения Intent-исчисления, определённого онтологией ODS и парадигмой IDEMO.
+Документ описывает ICSS как формальный поверхностный синтаксис для выражения Intent-исчисления, определённого парадигмой IDEMO.
 
 
 > *Версия: doc.1.1.5.v.0.1.3.1 ∙ декабрь 2025*<br/><br class="hidden-wiki"/>
